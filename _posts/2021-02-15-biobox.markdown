@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Biomaterials - Some Notes from the STEAMhouse Biobox course"
+date:   2021-02-15 17:00:00 +0100
+categories: jekyll update
+---
+I recently took part in [STEAMhouse's Biobox Workshop](https://steamhouse.org.uk/events/biobox-workshop/) - along with [Ross Dalziel](https://cheapjack.github.io/), a fellow member of [DoES Liverpool](https://doesliverpool.com/)'s [Wearable Tech Group](https://doesliverpool.github.io/Wearables/). This was a 4 week course on Thursday mornings which aimed to combine "self-led materials research with live sessions where we will explore different areas related to materials development" and was led by Sarah King of STEAMhouse and Zoe Powell of Materiom. Also attending was [Ross Dalziel](https://cheapjack.github.io/), a fellow member of [DoES Liverpool](https://doesliverpool.com/)'s [Wearable Tech Group](https://doesliverpool.github.io/Wearables/).
+
+
+
