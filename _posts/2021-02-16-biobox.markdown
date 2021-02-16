@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "Biomaterials - Some Notes from the STEAMhouse Biobox course"
+date:   2021-02-16 11:00:00 +0100
+categories: jekyll update
+---
+I recently took part in [STEAMhouse's Biobox Workshop](https://steamhouse.org.uk/events/biobox-workshop/), an excellent 4 week course combining "self-led materials research with live sessions [exploring] different areas related to materials development", led by Sarah King of STEAMhouse and Zoe Powell of Materiom. [Ross Dalziel](https://cheapjack.github.io/) was also on the course - we'd both already done a bit of experimenting with [biomaterials and natural dyes](https://github.com/DoESLiverpool/Wearables/wiki/Bio-Materials) at DoES Liverpool.
+
+Just before the course started, we received this really nice kit in the post:
+
+![Biobox Kit](https://jackiepease.github.io/assets/biobox/contents_of_kit.jpg?raw=true)
+
+A good start, and I also had access to the stuff we already had at DoES Liverpool, including a scale, heater stirrer, cornflour and ready ground cork, additional alginate, glycerol and agar, as well as some random containers to set materials in.
+
+I soon realised, though, that I'd get more out of the course by investing a bit in ingredients and equipment, and ended up buying a £25 dehydrator (after Ross had done the same), a cheap saucepan, silicone sheets, different types of carrageenan, methyl cellulose, spirulina and activated charcoal - one good thing is that so far this is all food-safe!
+
+![Food Dehydrator](https://jackiepease.github.io/assets/biobox/dehydrator.jpg?raw=true)
+
+There were 4 Zoom meetings - one a week, where we discussed our experiments and Sarah and Zoe talked about the context of biomaterials use and gave us examples of practitioners working with everything from oyster shells to human hair; we also had a great guest speaker, [Sophie Hedderwick](https://www.sophiehedderwick.com) - she's developing conductive biomaterials as well as working with natural dyes and inks.
+
+At the last meeting everyone had 2 minutes to go through what they'd achieved - there were a wide range of interests from milk plastic to oak gall ink and one participant had done a lot of research on shells.
+
+Here's what I made, take a look if you think you might be interested in DIY biomaterials. From most of the pieces, you can see I didn't do a good job of keeping the material flat - that would be a goodd think to look into next. I'm sure I'll be carrying on with this, especially the conductive materials, but I also really liked the carageenan leather.
+
+
+**Agar Bioplastic - [Materiom Recipe Ag02](https://materiom.org/recipe/41)**
+
+Both these are pleasant materials. I accidentally added twice the specified amount of glycerol to the first sample, which has resulted in a clear and pliable material. The second sample is more rustly and less clear.
+
+![Agar Bioplastic with Extra Glycerol](https://jackiepease.github.io/assets/biobox/agar_plastic_more_glycerol.jpg?raw=true)
+
+![Agar Bioplastic](https://jackiepease.github.io/assets/biobox/agar_plastic.jpg?raw=true)
+
+**Eggshell Composite - [Materiom Recipe Eg01](https://materiom.org/recipe/60)**
+
+I was able to get a lot of eggshells from the cafe downstairs from DoES Liverpool, so made two batches, which came out more or less the same. I removed the membrane from inside the shells, dried them in the oven and then crushed them with a hammer (makeshift pestle and mortar). The material contains alginate and you pour vinegar over it to set it - this meant that it set much more quickly than the other materials. The output was hard and brittle and looked a bit like granite.
+
+![Eggshell Composite](https://jackiepease.github.io/assets/biobox/egg_shell.jpg?raw=true)
+
+**Coffee Composite - [Materiom Recipe Co02](https://materiom.org/recipe/171)**
+
+This came out well - it's another alginate recipe and when we tried it before at DoES Liverpool it went mouldy before it dried. I did dry the coffee grounds in the oven before starting this time, and used the dehydrator.
+
+The result is slightly spongy, and dull looking - I don't really like it aesthetically, but it seems quite strong and resistant.
+
+![Coffee Composite](https://jackiepease.github.io/assets/biobox/coffee_composite.jpg?raw=true)
+
+**Cork Composite - [Materiom Recipe Cor03](https://materiom.org/recipe/40)**
+
+We'd also tried this before at DoES Liverpool, and still had all the ingredients, including ground up corks. The output material is hard and strong, and would probably be good for moulding if it doesn't shrink too much when it sets. 
+
+![Cork Composite](https://jackiepease.github.io/assets/biobox/cork.jpg?raw=true)
+
+**Spirulina and Carageenan Iota 'Leather' - [Materiom Recipe Ca02](https://materiom.org/recipe/191)**
+
+I'd been inspired by Sophie Hedderwick's talk about conductive materials at this stage, but the activated charcoal I needed still hadn't arrived, so I decided to have a go at this recipe. I didn't have any sage dye, so added 4ml of Spirulina powder, something else that the Materiom site suggests as a colourant. What I learned: by the time it dried out (seaweed recipes typically take several days), this produced a thin and fragile film - it's quite smooth and has a lovely bottle green colour though, so I'll try to use it for something. Next time I'll pour it into a thicker mould though (and smaller so it fits in the dehydrator), and use less water to start off with.
+
+![Carrageenan Iota and Spirulina](https://jackiepease.github.io/assets/biobox/spirulina_carageenan.jpg?raw=true)
+
+**Conductive Materials! - Based on Materiom Recipes [Ca02](https://materiom.org/recipe/191) and [CoF 01](https://materiom.org/recipe/212)**
+
+The activated charcoal I'd ordered from eBay finally arrived. Sophie's experiments used the Materiom recipe [Ge04](https://materiom.org/recipe/208) "Conductive Gelatin bioplastic" and the material she produced looked glossy and pliable material. I didn't really want to use gelatin so decided to try a couple of plant-based recipes. The first was the the Carageenan Iota recipe I used above. I added 16g of activated charcoal instead of the Spirulina and used a plastic box as a mould. Again it took a long time to dry and curled up a lot when I used the dehydrator. The second recipe was for coconut Fibre and Agar Bioplastic - activated charcoal is made from coconut fibre, so it seemed reasonable to substitute it. I added 19g. This agar bioplastic dried a lot faster than the seaweed one, but I still used the dehydrator and it still curled up a bit. Despite containing glycerol both materials were hard and dull looking, but seem quite strong.
+
+I tested both with a multimeter and also used them as part of a circuit to light an LED. They're both conductive (the carageenan biomaterial seemed more conductive than the agar one in this test) and I think could have some interesting uses in future projects.
+
+![Activated Charcoal Biomaterials](https://jackiepease.github.io/assets/biobox/activated_charcoal.jpg?raw=true)
+
+![Testing Agar Biomaterial](https://jackiepease.github.io/assets/biobox/multimeter_agar.jpg?raw=true)
+
+![Testing Carageenan Biomaterial](https://jackiepease.github.io/assets/biobox/multimeter_carageenan_2.jpg?raw=true)
+
+Thanks to Sarah and Zoe and everyone else involved in this course - definitely recommended if you get a chance!
