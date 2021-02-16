@@ -5,8 +5,8 @@
     <description>Personal Website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Feb 2021 12:35:06 +0000</pubDate>
-    <lastBuildDate>Tue, 16 Feb 2021 12:35:06 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Feb 2021 13:20:45 +0000</pubDate>
+    <lastBuildDate>Tue, 16 Feb 2021 13:20:45 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -78,13 +78,11 @@
 &lt;p&gt;Thanks to Sarah and Zoe and everyone else involved in this course - definitely recommended if you get a chance!&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Feb 2021 10:00:00 +0000</pubDate>
-        <link>http://localhost:4000/jekyll/update/2021/02/16/biobox.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2021/02/16/biobox.html</guid>
+        <link>http://localhost:4000/blogpost/2021/02/16/biobox.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blogpost/2021/02/16/biobox.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>blogpost</category>
         
       </item>
     
@@ -124,13 +122,11 @@ Then past grand classical buildings containing the city’s great cultural insti
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 26 Aug 2020 19:00:00 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/update/2020/08/26/familiar-sights.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2020/08/26/familiar-sights.html</guid>
+        <link>http://localhost:4000/blogpost/2020/08/26/familiar-sights.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blogpost/2020/08/26/familiar-sights.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>blogpost</category>
         
       </item>
     
@@ -172,13 +168,11 @@ Then past grand classical buildings containing the city’s great cultural insti
 
 </description>
         <pubDate>Sat, 18 Jul 2020 15:00:00 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/update/2020/07/18/first-look.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2020/07/18/first-look.html</guid>
+        <link>http://localhost:4000/blogpost/2020/07/18/first-look.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blogpost/2020/07/18/first-look.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>blogpost</category>
         
       </item>
     

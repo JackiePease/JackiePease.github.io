@@ -3,7 +3,7 @@ layout: post
 title:  "15 Minute Liverpool - First Look at the 15 Minute City"
 date:   2020-07-18 15:00:00 +0100
 youtubeId: CnIKAuULK7w
-categories: jekyll update
+categories: blogpost
 ---
 I've seen a lot about 15 minute cities recently: 
 >"this simple notion that all your basic everyday needs, from education to commerce to health care to culture and so on, are located within 15 minutes walk or bike of your front door".

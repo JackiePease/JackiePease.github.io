@@ -4,7 +4,7 @@ title:  "15 Minute Liverpool - Familiar Sights"
 date:   2020-08-26 19:00:00 +0100
 youtubeId1: eNoG6cgYBic
 youtubeId2: YJBjtYwBHpQ 
-categories: jekyll update
+categories: blogpost
 ---
 
 When I wrote my first post I intended to get out and explore the area around DoES Liverpool on at least 2 lunchtimes per week. It's been more than a month and I've only made 2 more trips, and only now got round to writing them up... 
