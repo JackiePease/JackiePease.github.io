@@ -5,8 +5,8 @@
     <description>Personal Website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Feb 2021 13:20:45 +0000</pubDate>
-    <lastBuildDate>Tue, 16 Feb 2021 13:20:45 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Mar 2021 15:53:04 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Mar 2021 15:53:04 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -65,7 +65,7 @@
 
 &lt;p&gt;&lt;strong&gt;Conductive Materials! - Based on Materiom Recipes &lt;a href=&quot;https://materiom.org/recipe/191&quot;&gt;Ca02&lt;/a&gt; and &lt;a href=&quot;https://materiom.org/recipe/212&quot;&gt;CoF 01&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The activated charcoal I’d ordered from eBay finally arrived. Sophie’s experiments used the Materiom recipe &lt;a href=&quot;https://materiom.org/recipe/208&quot;&gt;Ge04&lt;/a&gt; “Conductive Gelatin bioplastic” and the material she produced looked glossy and pliable material. I didn’t really want to use gelatin so decided to try a couple of plant-based recipes. The first was the the Carageenan Iota recipe I used above. I added 16g of activated charcoal instead of the Spirulina and used a plastic box as a mould. Again it took a long time to dry and curled up a lot when I used the dehydrator. The second recipe was for coconut Fibre and Agar Bioplastic - activated charcoal is made from coconut fibre, so it seemed reasonable to substitute it. I added 19g. This agar bioplastic dried a lot faster than the seaweed one, but I still used the dehydrator and it still curled up a bit. Despite containing glycerol both materials were hard and dull looking, but seem quite strong.&lt;/p&gt;
+&lt;p&gt;The activated charcoal I’d ordered from eBay finally arrived. Sophie’s experiments used the Materiom recipe &lt;a href=&quot;https://materiom.org/recipe/208&quot;&gt;Ge04&lt;/a&gt; “Conductive Gelatin bioplastic” and the material she produced looked glossy and pliable material. I didn’t really want to use gelatin so decided to try a couple of plant-based recipes. The first was the Carageenan Iota recipe I used above. I added 16g of activated charcoal instead of the Spirulina and used a plastic box as a mould. Again it took a long time to dry and curled up a lot when I used the dehydrator. The second recipe was for Coconut Fibre and Agar Bioplastic - activated charcoal is made from coconut fibre, so it seemed reasonable to substitute it. I added 19g. This agar bioplastic dried a lot faster than the seaweed one, but I still used the dehydrator and it still curled up a bit. Despite containing glycerol both materials were hard and dull looking, but seem quite strong.&lt;/p&gt;
 
 &lt;p&gt;I tested both with a multimeter and also used them as part of a circuit to light an LED. They’re both conductive (the carageenan biomaterial seemed more conductive than the agar one in this test) and I think could have some interesting uses in future projects.&lt;/p&gt;
 
