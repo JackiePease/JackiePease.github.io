@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Embroidery x Glue - A Weekend of Experimenting"
-date:   2021-03-20 14:00:00 +0100
+date:   2021-03-21 12:00:00 +0100
 categories: blogpost
 ---
 
@@ -91,14 +91,10 @@ It did fold quite well, but as with embroidery, it would have been better with n
 
 We also ironed the waste polypropylene on to some gauze; the glue spread badly because the fabric couldn't absorb it, and the baking paper stuck. I washed this in an attempt to remove the soot from the laser cutter (it didn't) and the glue seemed unaffected:
 
-![pp_column.jpg](https://jackiepease.github.io/assets/embroidery_x_glue/pp_column.jpg)
-
 ![pp_gauze.jpg](https://jackiepease.github.io/assets/embroidery_x_glue/pp_gauze.jpg)
 
 And finally, we ironed some foil sheets onto the waste ply - this would have probably worked better if we'd waited for the glue to set, but still a pretty nice distressed effect after a couple of sheets:
 
 ![ply_foil.jpg](https://jackiepease.github.io/assets/embroidery_x_glue/ply_foil.jpg)
-
-![ply_foil_2.jpg](https://jackiepease.github.io/assets/embroidery_x_glue/ply_foil_2.jpg)
 
 Not quite sure where this is going, but maybe my next step will be to try some more flexible materials with the glue method and articulating some of the folding structures.
