@@ -5,9 +5,118 @@
     <description>Personal Website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Mar 2021 15:53:04 +0000</pubDate>
-    <lastBuildDate>Fri, 05 Mar 2021 15:53:04 +0000</lastBuildDate>
+    <pubDate>Sun, 21 Mar 2021 14:41:48 +0000</pubDate>
+    <lastBuildDate>Sun, 21 Mar 2021 14:41:48 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Embroidery x Glue - A Weekend of Experimenting</title>
+        <description>&lt;p&gt;A bit of experimenting, mainly last weekend, with machine embroidery and glue film.&lt;/p&gt;
+
+&lt;p&gt;The glue film was inspired by &lt;a href=&quot;https://twitter.com/jarkman&quot;&gt;Richard Sewell&lt;/a&gt; who came along to the latest online &lt;a href=&quot;https://github.com/DoESLiverpool/somebody-should/wiki/Wearable-Technology-Group&quot;&gt;DoES Liverpool Wearable Tech meetup&lt;/a&gt;, and as well as showing us his amazing &lt;a href=&quot;https://twitter.com/AirGiantsHQ&quot;&gt;inflatable robots&lt;/a&gt;, also showed us some fabric folding techniques, using a stiffer fabric ironed on with &lt;a href=&quot;http://mcb-supplies.co.uk/HotMeltWoodVeneerAdhesive.html&quot;&gt;glue film&lt;/a&gt; to provide structure. I’m quite interested in folded structures e.g. this &lt;a href=&quot;https://www.instagram.com/p/CI1Jl_HH6uM/?igshid=nx9a0mnhp1ky&quot;&gt;tree&lt;/a&gt;, so ordered some of the glue film to try out.&lt;/p&gt;
+
+&lt;p&gt;At the same time, we’ve got a new embroidery machine, &lt;a href=&quot;https://github.com/DoESLiverpool/somebody-should/wiki/Embroidery-Machine-Fred&quot;&gt;Fred&lt;/a&gt; at DoESLiverpool, and it seemed worth looking at whether that had any potential as a way to stiffen fabric for folding.&lt;/p&gt;
+
+&lt;p&gt;I used my current favourite tool, &lt;a href=&quot;https://p5js.org/&quot;&gt;p5js&lt;/a&gt; to create an svg file (similar to the one I’d used for the tree). Admittedly this took me a lot longer than it would have taken with a CAD package, but it meant that I could easily change the number of rows and columns. I imported the file into &lt;a href=&quot;https://inkscape.org/&quot;&gt;Inkscape&lt;/a&gt; and used the &lt;a href=&quot;https://inkstitch.org/&quot;&gt;Ink/Stitch&lt;/a&gt; extension to create the .pes file used by the embroidery machine. I also exported it as as a dxf for use in the laser cutter - I love that you can the same base file with so many different CNC machines!&lt;/p&gt;
+
+&lt;p&gt;For my first attempt, I started with 2 layers of scrap non-woven polypropylene and a layer of stabiliser. I was impressed by the way the embroidery looked, but I found it too difficult to keep the folds in position, and having lots of rows made it extra complicated:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/1st_attempt_emb_column.jpg&quot; alt=&quot;1st_attempt_emb_column.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/1st_attempt_back.jpg&quot; alt=&quot;1st_attempt_back.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/1st_attempt_fold.jpg&quot; alt=&quot;1st_attempt_fold.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I gave up and tried again with a softer fabric, fewer rows and more columns. This also looked great just flat. The interesting black and white effect isn’t intentional - the bobbin hadn’t been threaded properly, so the tension was wrong and the bobbin thread showed on the front (something to try to recreate by blending colours though!):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/2nd_attempt_tension.jpg&quot; alt=&quot;2nd_attempt_tension.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/2nd_attempt_front.jpg&quot; alt=&quot;2nd_attempt_front.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/2nd_attempt_back.jpg&quot; alt=&quot;2nd_attempt_back.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This time I removed the stabliser between the triangles, hoping this would give more flexibility. It was very difficult to get get the triangles to stay in position once folded, but after sticking the edges together to make a tube shape, it did eventually work (someone said this looked like a caterpillar, so that might be something to work on - I’d like to try adding servos…):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/2nd_attempt_folded.jpg&quot; alt=&quot;2nd_attempt_folded.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For the 3rd attempt I decided to use 2 layers of embroidery (actually 2 layers of fill stitch + 2 backing layers), made the triangles a bit bigger for easier folding and reduced the space between triangles. Disadvantages, not enough triangles round to make a column shape (this was the most that would fit in the hoop - there is a way to piece bigger embroideries together, so I’ll be looking into that), plus it uses lots of thread and is hard work for the machine. It did fold really easily and is quite a nice object to hold:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/3rd_attempt_front.jpg&quot; alt=&quot;3rd_attempt_front.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/3rd_attempt_folded.jpg&quot; alt=&quot;3rd_attempt_folded.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One more go, with smaller triangles and only 1 layer of embroidery - this took a lot of manual folding before the folds fell into place, but once it did, the structure seemed pretty stable:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/4th_attempt_front.jpg&quot; alt=&quot;4th_attempt_front.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/4th_attempt_folded.jpg&quot; alt=&quot;4th_attempt_folded.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Whie waiting for the embroidery machine (it does take a while), I tried out the glue sheets:&lt;/p&gt;
+
+&lt;p&gt;I cut out a piece of glue sheet, then ironed it onto the back of some thick satin curtain fabric brought in by Karen, who I’m working with on another project. As Karen was laser cutting some chain maille, we decided to use that as a test:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/satin_glue.jpg&quot; alt=&quot;satin_glue.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/satin_laser_cutting.jpg&quot; alt=&quot;satin_laser_cutting.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After laser cutting, you need to remove the backing sheet, and then iron on to a substrate. We used baking paper to stop the glue sticking to the iron - the baking paper stuck to the fabric though, so not the best:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/satin_separating.jpg&quot; alt=&quot;satin_separating.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The results were good, both with the left over teardrop shapes, and with the chain maille:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/satin_teardrops.jpg&quot; alt=&quot;satin_teardrops.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/satin_on_velvet.jpg&quot; alt=&quot;satin_on_velvet.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We then tried the folding pattern on 3mm ply. After laser cutting the ply we replaced the triangles with the glue side up:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/ply_laser_cutting.jpg&quot; alt=&quot;ply_laser_cutting.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/ply_glue.jpg&quot; alt=&quot;ply_glue.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/ply_ironing.jpg&quot; alt=&quot;ply_ironing.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Using a fine soft fabric meant that the glue came through to the back. It also tended to spread a bit round the edges:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/ply_back_fabric.jpg&quot; alt=&quot;ply_back_fabric.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The ply stuck well, but the output wasn’t really suitable for folding&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/ply_lifting.jpg&quot; alt=&quot;ply_lifting.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/ply_on_fabric.jpg&quot; alt=&quot;ply_on_fabric.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ve got a lot of polypropylene at DoES Liverpool, so it seemed worth trying that:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/pp_laser_cutting.jpg&quot; alt=&quot;pp_laser_cutting.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It did fold quite well, but as with embroidery, it would have been better with narrower channels in between the shapes. The polypropylene stuck well to begin with, but after a few days of being flexed it began to come away from the fabric. It might be better to use something more flexible if it’s designed to be moved:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/pp_folded.jpg&quot; alt=&quot;pp_folded.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We also ironed the waste polypropylene on to some gauze; the glue spread badly because the fabric couldn’t absorb it, and the baking paper stuck. I washed this in an attempt to remove the soot from the laser cutter (it didn’t) and the glue seemed unaffected:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/pp_column.jpg&quot; alt=&quot;pp_column.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/pp_gauze.jpg&quot; alt=&quot;pp_gauze.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And finally, we ironed some foil sheets onto the waste ply - this would have probably worked better if we’d waited for the glue to set, but still a pretty nice distressed effect after a couple of sheets:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/ply_foil.jpg&quot; alt=&quot;ply_foil.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/embroidery_x_glue/ply_foil_2.jpg&quot; alt=&quot;ply_foil_2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Not quite sure where this is going, but maybe my next step will be to try some more flexible materials with the glue method and articulating some of the folding structures.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Mar 2021 13:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blogpost/2021/03/20/embroidery-x-glue.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blogpost/2021/03/20/embroidery-x-glue.html</guid>
+        
+        
+        <category>blogpost</category>
+        
+      </item>
     
       <item>
         <title>Biomaterials - Some Notes from the STEAMhouse Biobox course</title>
