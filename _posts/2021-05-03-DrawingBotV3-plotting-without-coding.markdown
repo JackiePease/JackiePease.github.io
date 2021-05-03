@@ -4,10 +4,9 @@ title:  "DrawingBotV3 - Plotting without Coding"
 date:   2021-05-03 00:00:00 +0100
 categories: blogpost
 ---
+This is the pen plotter at DoES Liverpool. It's an A3 laser engraver base with a penholder and servo attached. I've been working on it`for a while now, and have mainly been learning about p5js and using it to produce [geometry-based patterns](https://github.com/JackiePease/p5js-sketches).
 
 ![plotter.jpg](https://jackiepease.github.io/assets/plotting_without_code/plotter.jpg)
-
-I've been working with this pen plotter at DoES Liverpool for a while now (we attached a pen holder and servo to an A3 laser engraver base), and have mainly been learning about p5js and using it to produce [geometry-based patterns](https://github.com/JackiePease/p5js-sketches).
 
 Recently I've been experimenting with ways people could use the plotter if they didn't want to write code. One interesting piece of software I found is DrawingBotV3, which gives you a wide range of ways to produce interesting effects from bitmap files (inc. jpeg and png).
 
@@ -23,12 +22,12 @@ Open DrawingBotV3, and from the File tab, choose “Export Settings”. For the 
 
 ![exportsettings_speedpenuppendown.png](https://jackiepease.github.io/assets/plotting_without_code/exportsettings_speedpenuppendown.png)
 
-..* I changed the feedrate to F2000 (the default is F8000, which is likely to damage some pens, but it's definitely worth experimenting here)
-..* The pen up and pen down setting will depend on the plotter you're using. Currently I'm using M3 S40 for pen up and M3 S60 for pen down, but again this is subject to experimentation...
+I changed the feedrate to F2000 (the default is F8000, which is likely to damage some pens, but it's definitely worth experimenting here)
+The pen up and pen down setting will depend on the plotter you're using. Currently I'm using M3 S40 for pen up and M3 S60 for pen down, but again this is subject to experimentation...
 
 ![exportsettings_direction.png](https://jackiepease.github.io/assets/plotting_without_code/exportsettings_direction.png)
 
-..* I've set the x-direction to Negative to stop the plotter sending a mirror image - this will depend on the plotter, and whatever has been set up in firmware
+The x-direction has been changed to Negative to stop the plotter sending a mirror image - this will depend on the plotter, and whatever has been set up in firmware
 
 Then import your picture and set the paper size and orientation.
 
@@ -54,13 +53,13 @@ Load the files in one at a time – DrawingBotV3 default is to start with the da
 
 This photo shows the output of just the first 2 GCode files (which are both black ink):
 
-![ifyourenotangry_blackphoto.jpg](https://jackiepease.github.io/assets/plotting_without_code/ifyourenot_angry_blackphoto.jpg)
+![ifyourenotangry_blackphoto.jpg](https://jackiepease.github.io/assets/plotting_without_code/ifyourenotangry_blackphoto.jpg)
 
 and this is the final result:
 
-![ifyourenotangry_colourphoto.jpg](https://jackiepease.github.io/assets/plotting_without_code/ifyourenot_angry_colourphoto.jpg)
+![ifyourenotangry_colourphoto.jpg](https://jackiepease.github.io/assets/plotting_without_code/ifyourenotangry_colourphoto.jpg)
 
-I prefer the black and white version though!
+I think I prefer the black and white version though!
 
 I've tried a few other options.
 
