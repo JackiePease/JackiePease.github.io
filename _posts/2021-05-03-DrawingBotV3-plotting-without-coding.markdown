@@ -81,4 +81,4 @@ The detail is really interesting:
 
 ![close_up_squares.jpg](https://jackiepease.github.io/assets/plotting_without_code/close_up_squares.jpg)
 
-I think DrawingBotV3 is a good starting point for pen plotting - I'm sure you can get a wide variety of effects depending on your input file, options within the program, and pen and paper choices, then you can go on to think about coding if that's what you want to do.
+I think DrawingBotV3 is a good starting point for pen plotting - thanks to the developers. There's lots to experiment with in terms of input files, options within the program, and pen and paper choices, then you can go on to think about coding if that's what you want to do.
