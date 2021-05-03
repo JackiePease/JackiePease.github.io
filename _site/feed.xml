@@ -5,9 +5,99 @@
     <description>Personal Website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Mar 2021 14:52:53 +0000</pubDate>
-    <lastBuildDate>Sun, 21 Mar 2021 14:52:53 +0000</lastBuildDate>
+    <pubDate>Mon, 03 May 2021 14:52:28 +0100</pubDate>
+    <lastBuildDate>Mon, 03 May 2021 14:52:28 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>DrawingBotV3 - Plotting without Coding</title>
+        <description>&lt;p&gt;This is the pen plotter at DoES Liverpool. It’s an A3 laser engraver base with a penholder and servo attached. I’ve been working on it`for a while now, and have mainly been learning about p5js and using it to produce &lt;a href=&quot;https://github.com/JackiePease/p5js-sketches&quot;&gt;geometry-based patterns&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/plotter.jpg&quot; alt=&quot;plotter.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Recently I’ve been experimenting with ways people could use the plotter if they didn’t want to write code. One interesting piece of software I found is DrawingBotV3, which gives you a wide range of ways to produce interesting effects from bitmap files (inc. jpeg and png).&lt;/p&gt;
+
+&lt;p&gt;You can download the software here: &lt;a href=&quot;https://github.com/SonarSonic/DrawingBotV3&quot;&gt;DrawingBotV3&lt;/a&gt; - it’s available for Linux, Windows and Mac, and the installation instructions are in the ReadMe section at the bottom of the page.&lt;/p&gt;
+
+&lt;p&gt;Then you just need to find a photo you want to make a picture from, or create your own bitmap file. Here I’ve used Inkscape with a quote (thanks to Ross Dalziel for the quote suggestion):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/ifyourenotangry.png&quot; alt=&quot;ifyourenotangry.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve used a bold font as detail is easily lost in this process, and added a background gradient so there’s something for the algorithm to pick up and so that it isn’t too uniform. I haven’t worried about the actual colours, as these will depend on the pens used when plotting.&lt;/p&gt;
+
+&lt;p&gt;Open DrawingBotV3, and from the File tab, choose “Export Settings”. For the plotter we have at DoES Liverpool you need to set the following so that the GCode (instructions sent to the machine) will lift and lower the pen and write in the right direction.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/exportsettings_speedpenuppendown.png&quot; alt=&quot;exportsettings_speedpenuppendown.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I changed the feedrate to F2000 (the default is F8000, which is likely to damage some pens, but it’s definitely worth experimenting here)
+The pen up and pen down setting will depend on the plotter you’re using. Currently I’m using M3 S40 for pen up and M3 S60 for pen down, but again this is subject to experimentation…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/exportsettings_direction.png&quot; alt=&quot;exportsettings_direction.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The x-direction has been changed to Negative to stop the plotter sending a mirror image - this will depend on the plotter, and whatever has been set up in firmware&lt;/p&gt;
+
+&lt;p&gt;Then import your picture and set the paper size and orientation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/ifyourenotangryimport.png&quot; alt=&quot;ifyourenotangryimport.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s a whole load of options you can play with. Under “Path Finding Controls” select “Path Finding Module”. In this case I picked “Sketch Lines PFM”&lt;/p&gt;
+
+&lt;p&gt;You can also choose the pen settings – they’re not going to mean much unless you’ve got the pens that the program was written for, but might be good to choose a set where it’s easy to work out which pens you’re substituting (if you choose “Special” it gives you an option of CMYK separation, which I’m intending to explore next – could mean buying some more pens…).&lt;/p&gt;
+
+&lt;p&gt;Once you’ve chosen the options you want, click “Start Plotting”, you should see a representation of the plot on your screen:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/ifyourenotangryplotted.png&quot; alt=&quot;ifyourenotangryplotted.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you’re happy with it, choose File → Export Per/Pen → Export GCode File&lt;/p&gt;
+
+&lt;p&gt;(if you do it this way, you’ll get one file per colour. I like this as it means you don’t need to plot them all at once).&lt;/p&gt;
+
+&lt;p&gt;There are also options for saving to Inkscape, which is useful if you’ve got an Axidraw (Inkscape has its own extension for exporting to GCode).&lt;/p&gt;
+
+&lt;p&gt;I use &lt;a href=&quot;https://winder.github.io/ugs_website/download/&quot;&gt;Universal GCode Sender&lt;/a&gt; to send the GCode files to the plotter (Note: only the “Classic” version works on Linux). There are many other options though, especially if you’ve got a Windows machine…&lt;/p&gt;
+
+&lt;p&gt;Load the files in one at a time – DrawingBotV3 default is to start with the darkest – choosing appropriate pen colours and trying to start at the same point each time (I haven’t found the ideal way to do this as yet – some pen plotters have carousels or magnetic attachments that make it easy to load and unload pens).&lt;/p&gt;
+
+&lt;p&gt;This photo shows the output of just the first 2 GCode files (which are both black ink):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/ifyourenotangry_blackphoto.jpg&quot; alt=&quot;ifyourenotangry_blackphoto.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and this is the final result:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/ifyourenotangry_colourphoto.jpg&quot; alt=&quot;ifyourenotangry_colourphoto.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I think I prefer the black and white version though!&lt;/p&gt;
+
+&lt;p&gt;I’ve tried a few other options.&lt;/p&gt;
+
+&lt;p&gt;This is “Voronoi Triangulation”:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/voronoi_triangulation.jpg&quot; alt=&quot;voronoi_triangulation.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It does involve a lot of lifting and lowering of the pen, which is a bit noisy if you’re sharing a room, and is also likely to wear out the servo motor that does the lifting.&lt;/p&gt;
+
+&lt;p&gt;I used “Sketch Squares PFM” for this house picture from a photo:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/egerton_st_beige.jpg&quot; alt=&quot;egerton_st_beige.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and in blue….&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/egerton_st_blue.jpg&quot; alt=&quot;egerton_st_blue.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The detail is really interesting:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/close_up_squares.jpg&quot; alt=&quot;close_up_squares.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I think DrawingBotV3 is a good starting point for pen plotting - thanks to the developers. There’s lots to experiment with in terms of input files, options within the program, and pen and paper choices, then you can go on to think about coding if that’s what you want to do.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 May 2021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blogpost/2021/05/03/DrawingBotV3-plotting-without-coding.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blogpost/2021/05/03/DrawingBotV3-plotting-without-coding.html</guid>
+        
+        
+        <category>blogpost</category>
+        
+      </item>
     
       <item>
         <title>Embroidery x Glue - A Weekend of Experimenting</title>
