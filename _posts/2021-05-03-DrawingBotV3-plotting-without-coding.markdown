@@ -16,7 +16,7 @@ Then you just need to find a photo you want to make a picture from, or create yo
 
 ![ifyourenotangry.png](https://jackiepease.github.io/assets/plotting_without_code/ifyourenotangry.png)
 
-I’ve used a bold font as detail is easily lost in this process, and I’ve added a background gradient so there’s something for the algorithm to pick up and so that it isn’t too uniform. I haven’t worried about the actual colours, as these will depend on the pens used when plotting.
+I’ve used a bold font as detail is easily lost in this process, and added a background gradient so there’s something for the algorithm to pick up and so that it isn’t too uniform. I haven’t worried about the actual colours, as these will depend on the pens used when plotting.
 
 Open DrawingBotV3, and from the File tab, choose “Export Settings”. For the plotter we have at DoES Liverpool you need to set the following so that the GCode (instructions sent to the machine) will lift and lower the pen and write in the right direction.
 
