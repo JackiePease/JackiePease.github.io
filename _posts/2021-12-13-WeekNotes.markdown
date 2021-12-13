@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "WeekNotes - Plotting with Refillable Pens"
-date:   2021-12-13 18:00:00 +0100
-categories: blogpost
+date:   2021-12-13 00:00:00 +0100
+categories: weeknotes
 ---
 Recently I've been spending a lot of my free time working on these [lights](https://twitter.com/amcewen/status/1467598114559299588?s=20), along with other members of the  [DoES Liverpool](https://doesliverpool.com/) and [Peloton Liverpool](https://peloton.coop/) communities; now they're in action I've had a chance to get back to a bit of pen plotting (I am going to do a blog post on the lights once I get a few more photos together though, and there's definitely more work to do in the future to take full advantage of the MCQN Ltd "[My Bikes Got LED](https://github.com/mcqn/my-bikes-got-led)" boards that control them).
 
