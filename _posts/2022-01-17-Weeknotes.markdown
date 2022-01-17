@@ -6,14 +6,14 @@ categories: weeknotes
 ---
 I slightly sabotaged my pen plotting project this month by suddenly getting qualms about the number of disposable pens I was getting through, so I've been trying out various reusable alternatives instead, including Rotring technical pens and Lamy fountain pens which I had already, and newly purchased [Pilot Parallel Pens](https://www.cultpens.com/i/q/PL01289/pilot-parallel-pen).
 
-The main problem I've had is that some of the finer pens tend to dig up the paper. It looks as if you just can't use more than 2 - 3 layers, but I've also ordered some tougher paper. This might be followed by some new ink, as only some are properly permanent - Rev Dan Catt mentions Noodler's Bulletproof in this Instagram [post](https://www.instagram.com/p/CYj10z4tQ1a/).
+One problem I've had is that finer pens (and water based ones) tend to dig up the paper. It looks as if you just can't use more than 2 - 3 layers, but I've also ordered some tougher paper. This might be followed by some new ink, as only some are properly permanent - Rev Dan Catt mentions Noodler's Bulletproof in this Instagram [post](https://www.instagram.com/p/CYj10z4tQ1a/).
 
-Here's some of the output. The first 2 are based on this Andy Wallace [tweet](https://twitter.com/Andy_Makes/status/1470549299020943360?s=20) and this Keith Peters [blog post](https://www.bit-101.com/blog/2017/10/flow-fields-part-i/) respectively. They're plotted in technical pen on cartridge and calligraphy paper respectively. The cartridge paper has been badly dug up, the calligraphy paper did better, although the blue ink stopped flowing half way through the second part for some reason, and the lines are a bit wobbly:
+Here's some of the output. The first 2 are based on this Andy Wallace [tweet](https://twitter.com/Andy_Makes/status/1470549299020943360?s=20) and this Keith Peters [blog post](https://www.bit-101.com/blog/2017/10/flow-fields-part-i/) and plotted in technical pen on card and calligraphy paper respectively. The card has been badly dug up. The calligraphy paper did better, although the blue ink stopped flowing half way through the second part for some reason, and the lines are a bit wobbly:
 
 ![circles_plot.jpg](https://jackiepease.github.io/assets/monthnotes_20220117/circles_plot.jpg)
 ![bit101-flowfields.jpg](https://jackiepease.github.io/assets/monthnotes_20220117/bit101-flowfields.jpg)
 
-When the Pilot pen arrived I didn't have anything ready to plot, except a dxf grid for the plastic flowers. I wrote a bash script to convert it to gcode using vPype, Juicy GCode and vpye-dxf:
+When the Pilot pen arrived I didn't have anything ready to plot, except a dxf grid for the plastic flowers. I wrote a bash script to convert it to gcode using vPype, Juicy GCode and the vpype-dxf extension:
 
 ```bash
 for x in $@
@@ -43,7 +43,7 @@ The Peloton disk lights I've been working on recently have been deployed success
 
 	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lovely <a href="https://twitter.com/PelotonLiv?ref_src=twsrc%5Etfw">@PelotonLiv</a> Friday night <a href="https://twitter.com/hashtag/joyride?src=hash&amp;ref_src=twsrc%5Etfw">#joyride</a> to Kirby to visit <a href="https://twitter.com/cultureKnowsley?ref_src=twsrc%5Etfw">@cultureKnowsley</a> light installation <a href="https://twitter.com/hashtag/aqualux?src=hash&amp;ref_src=twsrc%5Etfw">#aqualux</a> <a href="https://t.co/DRcTuXQvaG">pic.twitter.com/DRcTuXQvaG</a></p>&mdash; Jackie Pease (@jackie_pease) <a href="https://twitter.com/jackie_pease/status/1482262962219978754?ref_src=twsrc%5Etfw">January 15, 2022</a></blockquote>
 
-Unfortunately there's been a slight issue, obvious in this photo of Arthur at that ride. The light disks were attached to the backs with wooden spacers and those were attached to the backs with carpet tape... This issue didn't show up in the earlier sets until they'd been in use for a couple of weeks. So I think I'm going to be gradually going through all the sets if and when they fail, using a scalpel to prise apart the VHB tape round the edges, and replacing the wood and carpet tape with acrylic and VHB ...
+Unfortunately there's been a slight issue, obvious in this photo of Arthur at that ride. The light disks were attached to wooden spacers and those were attached to the backs with carpet tape... This issue didn't show up in the earlier sets until they'd been in use for a couple of weeks. So I think I'm going to be gradually going through all the sets if and when they fail, using a scalpel to prise apart the VHB tape round the edges, and replacing the wood and carpet tape with acrylic and VHB ...
 
 ![arthur.jpg](https://jackiepease.github.io/assets/monthnotes_20220117/arthur.jpg)
 
