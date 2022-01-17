@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>MonthNotes - Progress with the Plastic Flowers</title>
+    
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Jackie Pease" href="https://jackiepease.zone/feed.xml" />
+</head>
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+<style>
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Ubuntu', sans-serif;
+}
+p {
+    font-family: 'Ubuntu', sans-serif;
+}
+img {
+}
+</style>
+
+  <body>
+    <!-- NAV -->
+<nav class="navbar navbar-expand-md navbar-light py-4">
+  <div class="container">
+    <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a href="/" class="nav-link">Home</a>
+        </li>
+        <li class="nav-item">
+          <a href="/archive/" class="nav-link">Archive</a>
+        </li>
+        <li class="nav-item">
+          <a href="/about/" class="nav-link">About</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <section id="banner" class="py-5 d-none d-sm-block">
+ <div>
+	 <img  src="https://jackiepease.github.io/assets/banner.png" width=100%>
+ </div>
+</section>
+
+    <div id="post" class="container pt-3">
+  <div class="row">
+    <div class="col">
+      <p class="lead text-info">
+        Jan 17, 2022
+      </p>
+      <h1>MonthNotes - Progress with the Plastic Flowers</h1>
+      <article>
+        <p>I slightly sabotaged my pen plotting project this month by suddenly getting qualms about the number of disposable pens I was getting through, so I’ve been trying out various reusable alternatives instead, including Rotring technical pens and Lamy fountain pens which I had already, and newly purchased <a href="https://www.cultpens.com/i/q/PL01289/pilot-parallel-pen">Pilot Parallel Pens</a>.</p>
+
+<p>The main problem I’ve had is that some of the finer pens tend to dig up the paper. It looks as if you just can’t use more than 2 - 3 layers, but I’ve also ordered some tougher paper. This might be followed by some new ink, as only some are properly permanent - Rev Dan Catt mentions Noodler’s Bulletproof in this Instagram <a href="https://www.instagram.com/p/CYj10z4tQ1a/">post</a>.</p>
+
+<p>Here’s some of the output. The first 2 are based on this Andy Wallace <a href="https://twitter.com/Andy_Makes/status/1470549299020943360?s=20">tweet</a> and this Keith Peters <a href="https://www.bit-101.com/blog/2017/10/flow-fields-part-i/">blog post</a> respectively. They’re plotted in technical pen on cartridge and calligraphy paper respectively. The cartridge paper has been badly dug up, the calligraphy paper did better, although the blue ink stopped flowing half way through the second part for some reason, and the lines are a bit wobbly:</p>
+
+<p><img src="https://jackiepease.github.io/assets/monthnotes_20220117/circles_plot.jpg" alt="circles_plot.jpg" />
+<img src="https://jackiepease.github.io/assets/monthnotes_20220117/bit101-flowfields.jpg" alt="bit101-flowfields.jpg" /></p>
+
+<p>When the Pilot pen arrived I didn’t have anything ready to plot, except a dxf grid for the plastic flowers. I wrote a bash script to convert it to gcode using vPype, Juicy GCode and vpye-dxf:</p>
+
+<p>for x in $@
+do
+   f=$(echo “$x” | cut -f 1 -d ‘.’)
+   echo $f
+   vpype dread $f.dxf scaleto -f 250mm 250mm linesort write <br />
+           –page-size a3 –landscape –center $f-out.svg
+   vpype read $f-out.svg ldelete 2 write $f-out2.svg
+   juicy-gcode $f-out2.svg -f flavor.txt -o $f.gcode
+done</p>
+
+<p>The pen worked really well on cartridge paper with a lovely smooth red (there’s some Sharpie on there too - I need to use them up):</p>
+
+<p><img src="https://jackiepease.github.io/assets/monthnotes_20220117/pilot_pen_on_cartridge_paper.jpg" alt="pilot_pen_on_cartridge_paper.jpg" /></p>
+
+<p>On calligraphy paper it was less smooth, but still a nice effect:</p>
+
+<p><img src="https://jackiepease.github.io/assets/monthnotes_20220117/pilot_pen_on_calligraphy_paper.jpg" alt="pilot_pen_on_calligraphy_paper.jpg" />
+~                                                                                                                      <br />
+I’ve had to take a break from pen plotting to make progress on the Plastic Flowers, which were cluttering up Room 29 at DoES Liverpool. In order to fill the light fitting / vase, I need 40ish flowers so laser cutting stems and hand cutting and heat pressing milk carton petals has taken a while. This week I’ve been lucky to have help from Sanna King and Mike Gorman, with assembly and soldering, so progress has been a lot quicker than it would have been otherwise:</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lots of thanks to <a href="https://twitter.com/sanna_king?ref_src=twsrc%5Etfw">@sanna_king</a> (shown)and Mike G for helping me with my light up up plastic flowers this week. <br />&#39;Only&#39; the wiring to go now. Hopefully it will be finished soon!<a href="https://twitter.com/hashtag/weeknotes?src=hash&amp;ref_src=twsrc%5Etfw">#weeknotes</a> <a href="https://t.co/bU70S1Pr8M">pic.twitter.com/bU70S1Pr8M</a></p>&mdash; Jackie Pease (@jackie_pease) <a href="https://twitter.com/jackie_pease/status/1482844377131241479?ref_src=twsrc%5Etfw">January 16, 2022</a></blockquote>
+
+<p>The Peloton disk lights I’ve been working on recently have been deployed successfully on 3 occasions now, including this Peloton Liverpool trip to Huyton:</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lovely <a href="https://twitter.com/PelotonLiv?ref_src=twsrc%5Etfw">@PelotonLiv</a> Friday night <a href="https://twitter.com/hashtag/joyride?src=hash&amp;ref_src=twsrc%5Etfw">#joyride</a> to Kirby to visit <a href="https://twitter.com/cultureKnowsley?ref_src=twsrc%5Etfw">@cultureKnowsley</a> light installation <a href="https://twitter.com/hashtag/aqualux?src=hash&amp;ref_src=twsrc%5Etfw">#aqualux</a> <a href="https://t.co/DRcTuXQvaG">pic.twitter.com/DRcTuXQvaG</a></p>&mdash; Jackie Pease (@jackie_pease) <a href="https://twitter.com/jackie_pease/status/1482262962219978754?ref_src=twsrc%5Etfw">January 15, 2022</a></blockquote>
+
+<p>Unfortunately there’s been a slight issue, obvious in this photo of Arthur at that ride. The light disks were attached to the backs with wooden spacers and I used carpet tape to stick the spacers on. This issue didn’t show up in the earlier sets until they’d been in use for a couple of weeks. So I think I’m going to be gradually going through all the sets if and when they fail, using a scalpel to prise apart the VHB tape round the edges, and replacing the wood and carpet tape with VHB and acrylic…</p>
+
+<p><img src="https://jackiepease.github.io/assets/monthnotes_20220117/arthur.jpg" alt="arthur.jpg" /></p>
+
+
+      </article>
+    </div>
+  </div>
+</div>
+
+    <footer class="py-5">
+  <hr>
+  <div class="container text-center text-info">
+    <div class="row">
+      <div class="col">
+       <div class="social-links">
+  <a href="mailto:jackiepease@hotmail.com">
+    <i class="fa fa-envelope fa-2x" ></i>
+  </a>
+  <a target="_blank" href="https://twitter.com/@jackie_pease">
+    <i class="fab fa-twitter fa-2x"></i>
+  </a>
+  <a target="_blank" href="https://instagram.com/jackiesees">
+    <i class="fab fa-instagram fa-2x"></i>
+  </a>
+</div>
+
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+	Subscribe <a href="/feed.xml">via RSS</a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        All content copyright Jackie Pease &copy; 2022.
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- JS -->
+<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js" integrity="sha384-SlE991lGASHoBfWbelyBPLsUlwY1GwNDJo3jSJO04KZ33K2bwfV9YBauFfnzvynJ" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<script src="/js/clipboard.min.js"></script>
+<script src="/js/codeselect.js"></script>
+~                                                                                                                                                                                                          
+~                                                                                                                                                                                                          
+~                                                          
+
+  </body>
+</html>

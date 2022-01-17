@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MonthNotes - Progress with the Plastic Flowers"
-date:   2022-01-17 22:00:00 +0100
+date:   2022-01-17 19:00:00 +0100
 categories: weeknotes
 ---
 I slightly sabotaged my pen plotting project this month by suddenly getting qualms about the number of disposable pens I was getting through, so I've been trying out various reusable alternatives instead, including Rotring technical pens and Lamy fountain pens which I had already, and newly purchased [Pilot Parallel Pens](https://www.cultpens.com/i/q/PL01289/pilot-parallel-pen).
@@ -15,6 +15,7 @@ Here's some of the output. The first 2 are based on this Andy Wallace [tweet](ht
 
 When the Pilot pen arrived I didn't have anything ready to plot, except a dxf grid for the plastic flowers. I wrote a bash script to convert it to gcode using vPype, Juicy GCode and vpye-dxf:
 
+```
 for x in $@
 do
    f=$(echo "$x" | cut -f 1 -d '.')
@@ -24,8 +25,9 @@ do
    vpype read $f-out.svg ldelete 2 write $f-out2.svg
    juicy-gcode $f-out2.svg -f flavor.txt -o $f.gcode
 done
+```
 
-The pen worked really well on cartridge paper with a lovely smooth red (there's some Sharpie on there too - I need to use them up):
+The pen worked really well on cartridge paper with a lovely smooth red (there's some Sharpie on there too - I need to use them up!`):
 
 ![pilot_pen_on_cartridge_paper.jpg](https://jackiepease.github.io/assets/monthnotes_20220117/pilot_pen_on_cartridge_paper.jpg)
 
@@ -41,7 +43,7 @@ The Peloton disk lights I've been working on recently have been deployed success
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lovely <a href="https://twitter.com/PelotonLiv?ref_src=twsrc%5Etfw">@PelotonLiv</a> Friday night <a href="https://twitter.com/hashtag/joyride?src=hash&amp;ref_src=twsrc%5Etfw">#joyride</a> to Kirby to visit <a href="https://twitter.com/cultureKnowsley?ref_src=twsrc%5Etfw">@cultureKnowsley</a> light installation <a href="https://twitter.com/hashtag/aqualux?src=hash&amp;ref_src=twsrc%5Etfw">#aqualux</a> <a href="https://t.co/DRcTuXQvaG">pic.twitter.com/DRcTuXQvaG</a></p>&mdash; Jackie Pease (@jackie_pease) <a href="https://twitter.com/jackie_pease/status/1482262962219978754?ref_src=twsrc%5Etfw">January 15, 2022</a></blockquote>
 
-Unfortunately there's been a slight issue, obvious in this photo of Arthur at that ride. The light disks were attached to the backs with wooden spacers and I used carpet tape to stick the spacers on. This issue didn't show up in the earlier sets until they'd been in use for a couple of weeks. So I think I'm going to be gradually going through all the sets if and when they fail, using a scalpel to prise apart the VHB tape round the edges, and replacing the wood and carpet tape with VHB and acrylic...
+Unfortunately there's been a slight issue, obvious in this photo of Arthur at that ride. The light disks were attached to the backs with wooden spacers and those were attached to the backs with carpet tape... This issue didn't show up in the earlier sets until they'd been in use for a couple of weeks. So I think I'm going to be gradually going through all the sets if and when they fail, using a scalpel to prise apart the VHB tape round the edges, and replacing the wood and carpet tape with VHB and acrylic...
 
 ![arthur.jpg](https://jackiepease.github.io/assets/monthnotes_20220117/arthur.jpg)
 
