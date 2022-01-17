@@ -15,7 +15,7 @@ Here's some of the output. The first 2 are based on this Andy Wallace [tweet](ht
 
 When the Pilot pen arrived I didn't have anything ready to plot, except a dxf grid for the plastic flowers. I wrote a bash script to convert it to gcode using vPype, Juicy GCode and vpye-dxf:
 
-```
+```bash
 for x in $@
 do
    f=$(echo "$x" | cut -f 1 -d '.')
