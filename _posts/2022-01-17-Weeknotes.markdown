@@ -4,7 +4,7 @@ title:  "MonthNotes - Progress with the Plastic Flowers"
 date:   2022-01-17 19:00:00 +0100
 categories: weeknotes
 ---
-I slightly sabotaged my pen plotting project this month by suddenly getting qualms about the number of disposable pens I was getting through, so I've been trying out various reusable alternatives instead, including Rotring technical pens and Lamy fountain pens which I had already, and newly purchased [Pilot Parallel Pens](https://www.cultpens.com/i/q/PL01289/pilot-parallel-pen).
+I thought I'd slightly sabotaged my pen plotting project recently by getting qualms about the number of disposable pens I was getting through, but trying out various reusable alternatives instead is proving just as interesting. I've done more with the Rotring technical pens and Lamy fountain pens which I had already, and I've bought [Pilot Parallel Pens](https://www.cultpens.com/i/q/PL01289/pilot-parallel-pen).
 
 One problem I've had is that finer pens (and water based ones) tend to dig up the paper. It looks as if you just can't use more than 2 - 3 layers, but I've also ordered some tougher paper. This might be followed by some new ink, as only some are properly permanent - Rev Dan Catt mentions Noodler's Bulletproof in this Instagram [post](https://www.instagram.com/p/CYj10z4tQ1a/).
 
