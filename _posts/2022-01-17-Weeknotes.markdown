@@ -27,6 +27,18 @@ do
 done
 ```
 
+Juicy GCode needs a config file called flavor.txt, in the same folder. Example:
+
+```bash
+gcode
+{
+   begin = "G17;G21;G28;G90;G1 F400;M3 S05;G4 P0.3"
+   end = "M3 S05;G4 P0.3;G1 X.000 Y.000"
+   toolon =  "M3 S120;G4 P0.3"
+   tooloff = "M3 S05;G4 P0.3"
+}
+```
+
 The pen worked really well on cartridge paper with a lovely smooth red (there's some Sharpie on there too - I need to use them up!):
 
 ![pilot_pen_on_cartridge_paper.jpg](https://jackiepease.github.io/assets/monthnotes_20220117/pilot_pen_on_cartridge_paper.jpg)
