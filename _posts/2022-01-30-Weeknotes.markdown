@@ -4,8 +4,6 @@ title:  "Fortnight Notes - More on Plastic Flowers"
 date:   2022-01-30 19:00:00 +0100
 categories: weeknotes
 ---
-Not quite weeknotes, but getting there...
-
 At the time of my last blog post, the Plastic Flowers had been carefully positioned in the base grid, a difficult job as they're pretty fragile, so thanks again Sanna!:
 
 ![flower_stand_with_wires.jpg](https://jackiepease.github.io/assets/fortnightnotes_20220130/flower_stand_with_wires.jpg)
