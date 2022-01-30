@@ -5,34 +5,105 @@
     <description>Personal Website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Jan 2022 20:45:54 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Jan 2022 20:45:54 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Jan 2022 20:02:29 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Jan 2022 20:02:29 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
+        <title>Fortnight Notes - More on Plastic Flowers</title>
+        <description>&lt;p&gt;Not quite weeknotes, but getting there…&lt;/p&gt;
+
+&lt;p&gt;At the time of my last blog post, the Plastic Flowers had been carefully positioned in the base grid, a difficult job as they’re pretty fragile, so thanks again Sanna!:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/fortnightnotes_20220130/flower_stand_with_wires.jpg&quot; alt=&quot;flower_stand_with_wires.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see, that still left a lot of wiring to be done. Mike G again volunteered to help with this, a task which apparently made him feel nostalgic for his time wiring up telephone exchanges:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/fortnightnotes_20220130/mike_working_on_flower_electronics.jpg&quot; alt=&quot;mike_working_on_flower_electronics.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We also made a box to hold the &lt;a href=&quot;https://www.tindie.com/products/mcqn_ltd/my-babys-got-led/&quot;&gt;My Baby’s Got LED board&lt;/a&gt; and the PC power supply it runs off, based on one Arthur made for the &lt;a href=&quot;https://mcqn.com/posts/weeks-821-822-questioning-a-mastodon-+-boxing-a-liver-bird/&quot;&gt;Electric Liver Bird&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/fortnightnotes_20220130/power_supply_box.jpg&quot; alt=&quot;power_supply_box.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The My Baby’s Got LED board lets you easily set up addressable LEDs to be controlled by &lt;a href=&quot;https://kno.wled.ge/&quot;&gt;WLED software&lt;/a&gt;. You can run WLED from a phone app over Wifi, so once it was set up, it didn’t take much to try out different effects:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Afternoon spent wiring up the LEDs on my &lt;a href=&quot;https://twitter.com/hashtag/plasticflowers?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#plasticflowers&lt;/a&gt; with Mike G at &lt;a href=&quot;https://twitter.com/plastacs?ref_src=twsrc%5Etfw&quot;&gt;@plastacs&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/plasticplaygroup?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#plasticplaygroup&lt;/a&gt; &lt;a href=&quot;https://twitter.com/DoESLiverpool?ref_src=twsrc%5Etfw&quot;&gt;@doesliverpool&lt;/a&gt; &lt;br /&gt;They all seem to work - just the back to tidy up now and make a box for the power supply&lt;a href=&quot;https://twitter.com/hashtag/wled?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#wled&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ws2812?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#ws2812&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/mybabysgotledboard?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#mybabysgotledboard&lt;/a&gt;&lt;a href=&quot;https://twitter.com/hashtag/weeknotes?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#weeknotes&lt;/a&gt; &lt;a href=&quot;https://t.co/xLWVUJ5Wli&quot;&gt;pic.twitter.com/xLWVUJ5Wli&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Pease (@jackie_pease) &lt;a href=&quot;https://twitter.com/jackie_pease/status/1485331378178777092?ref_src=twsrc%5Etfw&quot;&gt;January 23, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/fortnightnotes_20220130/flowers_in_bright_pink.jpg&quot; alt=&quot;flowers_in_bright_pink.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/fortnightnotes_20220130/flowers_in_various_colours.jpg&quot; alt=&quot;flowers_in_various_colours.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/fortnightnotes_20220130/flowers_in_white.jpg&quot; alt=&quot;flowers_in_white.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Left to do:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Update the My Baby’s Got LED board to the latest version of the WLED software (I’ve had it for a while now, and a lots happened with WLED in the meantime). This will let me set up the flowers as a 8 x 45 grid (there are 8 LEDs in each flower), so that each flower can be a different colour&lt;/li&gt;
+  &lt;li&gt;Look into the sound reactive option in WLED as well, so that the flowers can react to music&lt;/li&gt;
+  &lt;li&gt;Mike has suggested redoing the cables from the vase to the power supply in white so that they don’t show up against white table cloths at events (it seems like they might be the sort of think people would want to use at events, and you could even get them to match your bridesmaids’ dresses if you wanted…).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In other news, the paper I ordered at the end of December eventually arrived (after a complaint), and Ed at DoES Liverpool lent me some lovely old technical pens, so I did some more experimenting with pen and paper options for the pen plotter. One of the pens was 2mm, so puts down a lot of ink, meaning that the paper stays quite damp. This seemed like a good test.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.greatart.co.uk/fabriano-bristol-paper.html&quot;&gt;Bristol board&lt;/a&gt; didn’t really stand up to the task, with quite large areas of damaged paper:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/fortnightnotes_20220130/bristol_board.jpg&quot; alt=&quot;bristol_board.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.greatart.co.uk/fabriano-disegno-4-drawing-paper.html&quot;&gt;Fabriano Disegno 4 drawing paper&lt;/a&gt;, marketed as “extremely resistant to erasing, scratches and scrapes”, unsurprisingly did a lot better, with only small areas where the surface was slightly damaged:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/fortnightnotes_20220130/disegno_4.jpg&quot; alt=&quot;disegno_4.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’d definitely recommend the Disegno 4, and I won’t give up on the Bristol board yet either; it seems to be what everyone in the pen plotter community uses so I’m sure I’ll be able to find out what works with it. The overlapping lines from the thicker pen, and even the ink-saturated and scratched surface are things I’ll look at using again too.&lt;/p&gt;
+
+&lt;p&gt;While I was doing these experiments, Pablo, a new member of the DoES Liverpool community, came over to take a look at the pen plotter, and has some ideas on reducing the amount of wobble in the lines. So that’s what we’re going to be looking at next Sunday afternoon - and hopefully I’ll have some excellent new pen plots for my next WeekNotes.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 30 Jan 2022 18:00:00 +0000</pubDate>
+        <link>http://localhost:4000/weeknotes/2022/01/30/Weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/01/30/Weeknotes.html</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
+    
+      <item>
         <title>MonthNotes - Progress with the Plastic Flowers</title>
-        <description>&lt;p&gt;I slightly sabotaged my pen plotting project this month by suddenly getting qualms about the number of disposable pens I was getting through, so I’ve been trying out various reusable alternatives instead, including Rotring technical pens and Lamy fountain pens which I had already, and newly purchased &lt;a href=&quot;https://www.cultpens.com/i/q/PL01289/pilot-parallel-pen&quot;&gt;Pilot Parallel Pens&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;I thought I’d slightly sabotaged my pen plotting project recently by getting qualms about the number of disposable pens I was getting through, but trying out various reusable alternatives instead is proving just as interesting. I’ve done more with the Rotring technical pens and Lamy fountain pens which I had already, and I’ve bought &lt;a href=&quot;https://www.cultpens.com/i/q/PL01289/pilot-parallel-pen&quot;&gt;Pilot Parallel Pens&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The main problem I’ve had is that some of the finer pens tend to dig up the paper. It looks as if you just can’t use more than 2 - 3 layers, but I’ve also ordered some tougher paper. This might be followed by some new ink, as only some are properly permanent - Rev Dan Catt mentions Noodler’s Bulletproof in this Instagram &lt;a href=&quot;https://www.instagram.com/p/CYj10z4tQ1a/&quot;&gt;post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;One problem I’ve had is that finer pens (and water based ones) tend to dig up the paper. It looks as if you just can’t use more than 2 - 3 layers, but I’ve also ordered some tougher paper. This might be followed by some new ink, as only some are properly permanent - Rev Dan Catt mentions Noodler’s Bulletproof in this Instagram &lt;a href=&quot;https://www.instagram.com/p/CYj10z4tQ1a/&quot;&gt;post&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Here’s some of the output. The first 2 are based on this Andy Wallace &lt;a href=&quot;https://twitter.com/Andy_Makes/status/1470549299020943360?s=20&quot;&gt;tweet&lt;/a&gt; and this Keith Peters &lt;a href=&quot;https://www.bit-101.com/blog/2017/10/flow-fields-part-i/&quot;&gt;blog post&lt;/a&gt; respectively. They’re plotted in technical pen on cartridge and calligraphy paper respectively. The cartridge paper has been badly dug up, the calligraphy paper did better, although the blue ink stopped flowing half way through the second part for some reason, and the lines are a bit wobbly:&lt;/p&gt;
+&lt;p&gt;Here’s some of the output. The first 2 are based on this Andy Wallace &lt;a href=&quot;https://twitter.com/Andy_Makes/status/1470549299020943360?s=20&quot;&gt;tweet&lt;/a&gt; and this Keith Peters &lt;a href=&quot;https://www.bit-101.com/blog/2017/10/flow-fields-part-i/&quot;&gt;blog post&lt;/a&gt; and plotted in technical pen on card and calligraphy paper respectively. The card has been badly dug up. The calligraphy paper did better, although the blue ink stopped flowing half way through the second part for some reason, and the lines are a bit wobbly:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/monthnotes_20220117/circles_plot.jpg&quot; alt=&quot;circles_plot.jpg&quot; /&gt;
 &lt;img src=&quot;https://jackiepease.github.io/assets/monthnotes_20220117/bit101-flowfields.jpg&quot; alt=&quot;bit101-flowfields.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;When the Pilot pen arrived I didn’t have anything ready to plot, except a dxf grid for the plastic flowers. I wrote a bash script to convert it to gcode using vPype, Juicy GCode and vpye-dxf:&lt;/p&gt;
+&lt;p&gt;When the Pilot pen arrived I didn’t have anything ready to plot, except a dxf grid for the plastic flowers. I wrote a bash script to convert it to gcode using vPype, Juicy GCode and the vpype-dxf extension:&lt;/p&gt;
 
-&lt;p&gt;for x in $@
-do
-   f=$(echo “$x” | cut -f 1 -d ‘.’)
-   echo $f
-   vpype dread $f.dxf scaleto -f 250mm 250mm linesort write &lt;br /&gt;
-           –page-size a3 –landscape –center $f-out.svg
-   vpype read $f-out.svg ldelete 2 write $f-out2.svg
-   juicy-gcode $f-out2.svg -f flavor.txt -o $f.gcode
-done&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;x &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$@&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;do
+   &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$x&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; | &lt;span class=&quot;nb&quot;&gt;cut&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; 1 &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'.'&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;
+   &lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;
+   vpype dread &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;.dxf scaleto &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; 250mm 250mm linesort write &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+           &lt;span class=&quot;nt&quot;&gt;--page-size&lt;/span&gt; a3 &lt;span class=&quot;nt&quot;&gt;--landscape&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--center&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-out&lt;/span&gt;.svg
+   vpype &lt;span class=&quot;nb&quot;&gt;read&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-out&lt;/span&gt;.svg ldelete 2 write &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-out2&lt;/span&gt;.svg
+   juicy-gcode &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-out2&lt;/span&gt;.svg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; flavor.txt &lt;span class=&quot;nt&quot;&gt;-o&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;.gcode
+&lt;span class=&quot;k&quot;&gt;done&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;The pen worked really well on cartridge paper with a lovely smooth red (there’s some Sharpie on there too - I need to use them up):&lt;/p&gt;
+&lt;p&gt;Juicy GCode needs a config file called flavor.txt, in the same folder. Example:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gcode
+&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+   begin &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;G17;G21;G28;G90;G1 F400;M3 S05;G4 P0.3&quot;&lt;/span&gt;
+   end &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;M3 S05;G4 P0.3;G1 X.000 Y.000&quot;&lt;/span&gt;
+   toolon &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;  &lt;span class=&quot;s2&quot;&gt;&quot;M3 S120;G4 P0.3&quot;&lt;/span&gt;
+   tooloff &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;M3 S05;G4 P0.3&quot;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The pen worked really well on cartridge paper with a lovely smooth red (there’s some Sharpie on there too - I need to use them up!):&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/monthnotes_20220117/pilot_pen_on_cartridge_paper.jpg&quot; alt=&quot;pilot_pen_on_cartridge_paper.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -43,12 +114,14 @@ done&lt;/p&gt;
 I’ve had to take a break from pen plotting to make progress on the Plastic Flowers, which were cluttering up Room 29 at DoES Liverpool. In order to fill the light fitting / vase, I need 40ish flowers so laser cutting stems and hand cutting and heat pressing milk carton petals has taken a while. This week I’ve been lucky to have help from Sanna King and Mike Gorman, with assembly and soldering, so progress has been a lot quicker than it would have been otherwise:&lt;/p&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Lots of thanks to &lt;a href=&quot;https://twitter.com/sanna_king?ref_src=twsrc%5Etfw&quot;&gt;@sanna_king&lt;/a&gt; (shown)and Mike G for helping me with my light up up plastic flowers this week. &lt;br /&gt;&amp;#39;Only&amp;#39; the wiring to go now. Hopefully it will be finished soon!&lt;a href=&quot;https://twitter.com/hashtag/weeknotes?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#weeknotes&lt;/a&gt; &lt;a href=&quot;https://t.co/bU70S1Pr8M&quot;&gt;pic.twitter.com/bU70S1Pr8M&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Pease (@jackie_pease) &lt;a href=&quot;https://twitter.com/jackie_pease/status/1482844377131241479?ref_src=twsrc%5Etfw&quot;&gt;January 16, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;The Peloton disk lights I’ve been working on recently have been deployed successfully on 3 occasions now, including this Peloton Liverpool trip to Huyton:&lt;/p&gt;
+&lt;p&gt;The Peloton disk lights I’ve been working on recently have been deployed successfully on 3 occasions now, including this Peloton Liverpool trip to Kirby:&lt;/p&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Lovely &lt;a href=&quot;https://twitter.com/PelotonLiv?ref_src=twsrc%5Etfw&quot;&gt;@PelotonLiv&lt;/a&gt; Friday night &lt;a href=&quot;https://twitter.com/hashtag/joyride?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#joyride&lt;/a&gt; to Kirby to visit &lt;a href=&quot;https://twitter.com/cultureKnowsley?ref_src=twsrc%5Etfw&quot;&gt;@cultureKnowsley&lt;/a&gt; light installation &lt;a href=&quot;https://twitter.com/hashtag/aqualux?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#aqualux&lt;/a&gt; &lt;a href=&quot;https://t.co/DRcTuXQvaG&quot;&gt;pic.twitter.com/DRcTuXQvaG&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Pease (@jackie_pease) &lt;a href=&quot;https://twitter.com/jackie_pease/status/1482262962219978754?ref_src=twsrc%5Etfw&quot;&gt;January 15, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;Unfortunately there’s been a slight issue, obvious in this photo of Arthur at that ride. The light disks were attached to the backs with wooden spacers and I used carpet tape to stick the spacers on. This issue didn’t show up in the earlier sets until they’d been in use for a couple of weeks. So I think I’m going to be gradually going through all the sets if and when they fail, using a scalpel to prise apart the VHB tape round the edges, and replacing the wood and carpet tape with VHB and acrylic…&lt;/p&gt;
+&lt;p&gt;Unfortunately there’s been a slight issue, obvious in this photo of Arthur at that ride. The light disks were attached to wooden spacers and those were attached to the backs with carpet tape… This issue didn’t show up in the earlier sets until they’d been in use for a couple of weeks. So I think I’m going to be gradually going through all the sets if and when they fail, using a scalpel to prise apart the VHB tape round the edges, and replacing the wood and carpet tape with acrylic and VHB …&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/monthnotes_20220117/arthur.jpg&quot; alt=&quot;arthur.jpg&quot; /&gt;&lt;/p&gt;
 
