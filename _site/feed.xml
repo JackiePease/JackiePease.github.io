@@ -5,9 +5,51 @@
     <description>Personal Website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Jan 2022 20:32:36 +0000</pubDate>
-    <lastBuildDate>Sun, 30 Jan 2022 20:32:36 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Feb 2022 20:41:10 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Feb 2022 20:41:10 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Week Notes - Straighter Lines</title>
+        <description>&lt;p&gt;I’ve spent some time this fortnight trying to install the latest version of the &lt;a href=&quot;https://github.com/Aircoookie/WLED/&quot;&gt;WLED firmware&lt;/a&gt; on the &lt;a href=&quot;https://www.tindie.com/products/mcqn_ltd/my-babys-got-led/&quot;&gt;My Baby’s Got LED board&lt;/a&gt; which controls my &lt;a href=&quot;https://twitter.com/jackie_pease/status/1485331378178777092?s=20&amp;amp;t=kq-CDlgLHMO2QyK8yB9Mnw&quot;&gt;#plasticflowers&lt;/a&gt; (each flower contains a ring of 8 WS2812 RGB pixels, so I’ll be able to use the new grid feature to set them up as an 8 x 45 grid and light them up individually). This has proved more challenging than I’d hoped, so I’m putting that to one side for a while (they do look ok as they are).&lt;/p&gt;
+
+&lt;p&gt;I have made more progress with pen plotting though. A conversation at DoES Liverpool’s maker night led to the realisation that most of the wobbliness of the lines was due to dirt on the the bearings. These have now been cleaned and the plotter is working a lot better.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Better results from &lt;a href=&quot;https://twitter.com/DoESLiverpool?ref_src=twsrc%5Etfw&quot;&gt;@DoESLiverpool&lt;/a&gt; penplotter &amp;quot;McGraw&amp;quot; now the wheels have been cleaned (picture in orange is &amp;quot;before&amp;quot;, although it looks like my phone has &lt;br /&gt; straightened the wobbly lines).&lt;br /&gt;Still looking at a small amount of movement where the penholder is attached &lt;a href=&quot;https://twitter.com/hashtag/weeknotes?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#weeknotes&lt;/a&gt; &lt;a href=&quot;https://t.co/jdn1KFSryC&quot;&gt;pic.twitter.com/jdn1KFSryC&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Pease (@jackie_pease) &lt;a href=&quot;https://twitter.com/jackie_pease/status/1493307445141282816?ref_src=twsrc%5Etfw&quot;&gt;February 14, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;There’s possibly still a bit of movement where the penholder is attached, we’re looking at adding another bearing to counteract that.&lt;/p&gt;
+
+&lt;p&gt;I’ve also made some pen storage, using one of the parametric designes at &lt;a href=&quot;https://www.festi.info/boxes.py/&quot;&gt;https://www.festi.info/boxes.py/&lt;/a&gt;. I’ve sized this one for thicker marker pens, and will probably make one with smaller holes for thinner pens, and one for ink:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Stackable pen storage for pen plotter supplies, laser cut from a parametric design from &lt;a href=&quot;https://t.co/oSn10YAFnB&quot;&gt;https://t.co/oSn10YAFnB&lt;/a&gt; - a really useful site, often used &lt;a href=&quot;https://twitter.com/DoESLiverpool?ref_src=twsrc%5Etfw&quot;&gt;@DoESLiverpool&lt;/a&gt; to make boxes for electronics etc.&lt;a href=&quot;https://twitter.com/hashtag/weeknotes?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#weeknotes&lt;/a&gt; &lt;a href=&quot;https://t.co/R7CyK0eZIw&quot;&gt;pic.twitter.com/R7CyK0eZIw&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Pease (@jackie_pease) &lt;a href=&quot;https://twitter.com/jackie_pease/status/1492926849973985283?ref_src=twsrc%5Etfw&quot;&gt;February 13, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Now I’ve got the right paper and pen combination, a more accurate pen plotter, and storage for some of the pens, it’s probably time to start thinking about some new things to plot!&lt;/p&gt;
+
+&lt;p&gt;I also found out last week that some gears I’d printed in August for the tattoo parlour in the same building as DoES Liverpool were now in use. They’re in old bubble gum machines being used to dispense tattoo designs:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I&amp;#39;ve finally seen the machines in situ, in working order dispensing tattoo designs! &lt;a href=&quot;https://twitter.com/hashtag/weeknotes?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#weeknotes&lt;/a&gt; &lt;a href=&quot;https://t.co/EBQuJOnnge&quot;&gt;pic.twitter.com/EBQuJOnnge&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Pease (@jackie_pease) &lt;a href=&quot;https://twitter.com/jackie_pease/status/1490360208299855878?ref_src=twsrc%5Etfw&quot;&gt;February 6, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Good to be able to help bring these old machines back to life.&lt;/p&gt;
+
+&lt;p&gt;And last but not least, I’ve been doing my bit towards publicising DoES Liverpool’s Boost membership scheme, to help widen access to this amazing coworking and maker space. If you know anyone in the Liverpool area who might benefit, then please tell them about it…&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;We&amp;#39;re accepting applications until the end of February for our second cohort of free Boost members. Find out more here:&lt;a href=&quot;https://t.co/vczCHrcWYl&quot;&gt;https://t.co/vczCHrcWYl&lt;/a&gt; &lt;a href=&quot;https://t.co/GOMNEfy4tl&quot;&gt;pic.twitter.com/GOMNEfy4tl&lt;/a&gt;&lt;/p&gt;&amp;mdash; DoES Liverpool (@DoESLiverpool) &lt;a href=&quot;https://twitter.com/DoESLiverpool/status/1492780165059039241?ref_src=twsrc%5Etfw&quot;&gt;February 13, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Note: I’m just going to call these weeknotes now, however often I do them (it’s been two weeks this time, which does make it easier to find something to write about).&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 14 Feb 2022 18:00:00 +0000</pubDate>
+        <link>http://localhost:4000/weeknotes/2022/02/14/Weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/02/14/Weeknotes.html</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>Fortnight Notes - More on Plastic Flowers</title>
