@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weeknotes - All The Pens"
-date:   2022-04-30 16:00:00 +0100
+date:   2022-05-01 16:00:00 +0100
 categories: weeknotes
 ---
 
@@ -66,9 +66,9 @@ I used a 0.1mm dark grey Unipin as key, but it ran out so I went over it with 0.
 
 Here's a couple of plots I did of the Liver Bird on the corner of the building, firstly in the Uni-ball Ones plus a UniPin 0.5mm in dark grey, then in black and light grey 0.5mm Unipins:
 
-![fire_station_portrait.jpg](https://jackiepease.github.io/assets/weeknotes_20220501/fire_station_portrait.jpg)
+![Bird_triangles.jpg](https://jackiepease.github.io/assets/weeknotes_20220501/Bird_triangles.jpg)
 
-![fire_station_portrait.jpg](https://jackiepease.github.io/assets/weeknotes_20220501/fire_station_portrait.jpg)
+![Bird_greyscale.jpg](https://jackiepease.github.io/assets/weeknotes_20220501/Bird_greyscale.jpg)
 
 The light grey Unipin didn't seem to have the same quality of ink as the black one, and the tip seemed to deteriorate during the plot (also the grey pen must have been knocked during plotting ...).
 
