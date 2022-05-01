@@ -5,9 +5,110 @@
     <description>Personal Website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Apr 2022 19:15:33 +0100</pubDate>
-    <lastBuildDate>Mon, 25 Apr 2022 19:15:33 +0100</lastBuildDate>
+    <pubDate>Sun, 01 May 2022 16:53:43 +0100</pubDate>
+    <lastBuildDate>Sun, 01 May 2022 16:53:43 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Weeknotes - All The Pens</title>
+        <description>&lt;p&gt;Having done some maintenance on the pen plotter last month, I’ve mainly been experimenting with different pens and papers to see what effects they produce. I am aiming to use more refillable pens, but having been asked to produce a flower picture in the style of one of my earlier pen plots, it’s been more Sharpies, fineliners and gel pens recently.&lt;/p&gt;
+
+&lt;p&gt;I forgot to take photos of that picture before handing it over, unfortunately - one issue was that the sky in the background was quite light and came out uncoloured in the plot, which was a strong contrast to areas which were heavily filled with Sharpie and Uniball Eye fineliner.&lt;/p&gt;
+
+&lt;p&gt;I also had problems knowing how long pens would last, particularly Sharpies, and trying to guess where to restart the gcode from once one had run out was leading to doubled lines and missed areas. As a test, I plotted this picture (approx. A5) repeatedly until the red pen ran out, so now I know it’ll do about 2.5 of those (I like the version with less red ink best though). These also include a bit of experimenting with &lt;a href=&quot;https://www.pentel.co.uk/product/pentel-hybrid-dual-metallic-gel-pen-k110/&quot;&gt;Pentel Hybrid Dual Metallic Gel Pens&lt;/a&gt;. My main conclusion is that although pretty, you need to go over the lines twice to get a good result and that uses nearly a whole pen for this size, so a bit expensive for this application.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/sharpie_testing.jpg&quot; alt=&quot;sharpie_testing.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I plotted the original picture on Pergamino paper, and I think the texture of the paper and the fact that Sharpie ink doesn’t soak into it as much makes this more successful.
+roses_on_pergamino&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/roses_on_pergamino.jpg&quot; alt=&quot;roses_on_pergamino.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s all been &lt;a href=&quot;https://github.com/SonarSonic/DrawingBotV3&quot;&gt;DrawingBotV3&lt;/a&gt; and photos this month - the next thing I did was to produce a card for a friends new baby, Laelia. As I discovered from Wiki, a Laelia is a type of orchid, so I downloaded this &lt;a href=&quot;https://commons.wikimedia.org/wiki/Laelia_rubescens#/media/File:Laelia_rubescens_Orchi_038.jpg&quot;&gt;photo&lt;/a&gt; of a Laelia Rubescens from Wiki commons and processed it with DrawingBotV3 Sobel Edges option. Some of my preprocessing decisions I regretted a bit afterwards, like dialling up the saturation to get rid of the lovely white in the flower because I was worried about having uncoloured areas in the final plot - maybe it would have worked ok like that.&lt;/p&gt;
+
+&lt;p&gt;Original photo by &lt;a href=&quot;https://commons.wikimedia.org/wiki/user:Orchi&quot;&gt;https://commons.wikimedia.org/wiki/user:Orchi&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/Laelia_rubescens_Orchi_038.jpg&quot; alt=&quot;Laelia_rubescens_Orchi_038.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This was the result, plotted on Fabriano Disegno 4 paper, using Sharpies and a &lt;a href=&quot;https://www.cultpens.com/i/q/UN02216/uni-pin-drawing-pen-black&quot;&gt;0.1mm Unipin fineliner&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/orchid_card.jpg&quot; alt=&quot;orchid_card.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I then tried the same gcode with a Unipin plus some Marabou Creabox watercolour pens from Lidl. I was expecting a nice line and wash effect - the Unipin has “Water and Fade Proof” printed on the barrel, and the website claims “Solid, pigment ink line can easily be used with watercolour as the ink will not smudge when wet”. However it didn’t stand up to a couple of hours of pen plotting (the paper did though, which is progress!). I do like the result - it reminds me of Batik:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Pen plot created using &lt;a href=&quot;https://twitter.com/hashtag/drawingbotv3?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#drawingbotv3&lt;/a&gt; Sobel Edges option. The black pen was supposed to be waterproof but didn&amp;#39;t stand up to this - all good though&lt;a href=&quot;https://twitter.com/hashtag/weeknotes?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#weeknotes&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/happyaccident?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#happyaccident&lt;/a&gt; &lt;a href=&quot;https://t.co/V5wgrgOzIg&quot;&gt;pic.twitter.com/V5wgrgOzIg&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Pease (@jackie_pease) &lt;a href=&quot;https://twitter.com/jackie_pease/status/1508213445367377921?ref_src=twsrc%5Etfw&quot;&gt;March 27, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;One more experimient with the orchid gcode - I plotted on the reverse of some photo paper with Marabou Creabox Sketch Pens, also from Lidl. I don’t like the result as a whole but there are some interesting parts. In general the first layer comes out fainter than on normal paper e.g. the pink areas, but where there is more than one colour in a region the new ink tends to push the previous one around. Not good for reproducing what’s in the photo, but could work for something more abstract:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/alcohol_on_photo_paper.jpg&quot; alt=&quot;alcohol_on_photo_paper.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s a detail:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/photo_paper_detail.jpg&quot; alt=&quot;photo_paper_detail.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then it was on to another photo-based plotting project. I took a bike ride along to Westminster Road to take photos of this &lt;a href=&quot;https://historicengland.org.uk/listing/the-list/list-entry/1392283&quot;&gt;historic former police/fire station&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/westminster_road.jpg&quot; alt=&quot;westminster_road.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/westminster_road_bird.jpg&quot; alt=&quot;westminster_road_bird.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And then I started plotting from them (DrawingBotV3 SobelLines and Sketch Squares options).&lt;/p&gt;
+
+&lt;p&gt;This plot was with &lt;a href=&quot;https://www.cultpens.com/i/q/UN00907/uni-ball-eye-rollerball-pen-ub-157&quot;&gt;Uniball Eye pens&lt;/a&gt; (blue and pink), 0.1mm Unipin fineliner (dark grey) and 0.3mm Rotring pen with yellow Diamine ink(as the only other yellow pens I had were Sharpies). I love the way the sky has turned out, but the building shouldn’t look as grey. The Uniball Eye pens are very fine so often last for a couple of prints.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/fire_station_portrait.jpg&quot; alt=&quot;fire_station_portrait.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I increased the amount of red using the DrawingBotV3 preprocessor and tried again, using these &lt;a href=&quot;https://www.cultpens.com/i/q/UN86996/uni-ball-on-point-one-dream-gel-pen-3-pack&quot;&gt;Uni-ball On Point One Dream Gel Pens&lt;/a&gt; - expensive, but they do claim to be fade proof and this 3 pack actually has a useful colour range:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/uniball_one.jpg&quot; alt=&quot;uniball_one.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I used a 0.1mm dark grey Unipin as key, but it ran out so I went over it with 0.5mm. It doesn’t look as pretty but the result is easier to read ( 0.5mm was specified in DrawingBotV3):
+&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/fire_station_square.jpg&quot; alt=&quot;fire_station_square.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s a couple of plots I did of the Liver Bird on the corner of the building, firstly in the Uni-ball Ones plus a UniPin 0.5mm in dark grey, then in black and light grey 0.5mm Unipins:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/fire_station_portrait.jpg&quot; alt=&quot;fire_station_portrait.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/fire_station_portrait.jpg&quot; alt=&quot;fire_station_portrait.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The light grey Unipin didn’t seem to have the same quality of ink as the black one, and the tip seemed to deteriorate during the plot (also the grey pen must have been knocked during plotting …).&lt;/p&gt;
+
+&lt;p&gt;I do have a few non-pen plotter related things to mention (it has been about 6 weeks since my last blog post after all).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/robotorium/&quot;&gt;Snoof&lt;/a&gt; showed us how to make these paper flowers at DoESLiverpool &lt;a href=&quot;https://doesliverpool.com/maker-events/&quot;&gt;makerday&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Some of the flowers that I (and others) made at &lt;a href=&quot;https://twitter.com/Robotorium?ref_src=twsrc%5Etfw&quot;&gt;@Robotorium&lt;/a&gt; impromptu paper flower tutorial yesterday &lt;a href=&quot;https://twitter.com/DoESLiverpool?ref_src=twsrc%5Etfw&quot;&gt;@DoESLiverpool&lt;/a&gt; makerday - thanks Snoof!&lt;a href=&quot;https://twitter.com/hashtag/weeknotes?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#weeknotes&lt;/a&gt; &lt;a href=&quot;https://t.co/LVA8ZoyJeV&quot;&gt;pic.twitter.com/LVA8ZoyJeV&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Pease (@jackie_pease) &lt;a href=&quot;https://twitter.com/jackie_pease/status/1513047444786974720?ref_src=twsrc%5Etfw&quot;&gt;April 10, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I started looking into making something sparkly for summer using waste plastics at &lt;a href=&quot;https://plastictactics.com/&quot;&gt;Plastic Tactics&lt;/a&gt; Plastic Playgroup:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Prototype &amp;quot;sashiko&amp;quot; in crisp packet &amp;quot;plarn&amp;quot; on ironed-together plastic bags with laser-cut holes. &lt;a href=&quot;https://twitter.com/PixiesInSpace?ref_src=twsrc%5Etfw&quot;&gt;@PixiesInSpace&lt;/a&gt;, who did the sewing, said it made her hands hurt though, so I need to think of some improvements before Sunday afternoon&amp;#39;s &lt;a href=&quot;https://twitter.com/plastacs?ref_src=twsrc%5Etfw&quot;&gt;@plastacs&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/plasticplaygroup?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#plasticplaygroup&lt;/a&gt;. &lt;br /&gt;Ideas welcome! &lt;a href=&quot;https://t.co/0ieCpkrbFE&quot;&gt;pic.twitter.com/0ieCpkrbFE&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Pease (@jackie_pease) &lt;a href=&quot;https://twitter.com/jackie_pease/status/1517123059924324353?ref_src=twsrc%5Etfw&quot;&gt;April 21, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Also for Plastic Playgroup, I talked a bit about making the Plastic Flowers in this radio clip (worth listening to for &lt;a href=&quot;https://twitter.com/arthrowl&quot;&gt;Arthur’s&lt;/a&gt; explanation of why he set up Plastic Tactics and what he hopes people will get from it:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Here&amp;#39;s the clip, and a pic of the award we made, for those who couldn&amp;#39;t listen live to the &lt;a href=&quot;https://twitter.com/bbcmerseyside?ref_src=twsrc%5Etfw&quot;&gt;@bbcmerseyside&lt;/a&gt; piece by &lt;a href=&quot;https://twitter.com/chamiltonbbc?ref_src=twsrc%5Etfw&quot;&gt;@chamiltonbbc&lt;/a&gt; about their experience at the &lt;a href=&quot;https://twitter.com/hashtag/PlasticPlaygroup?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#PlasticPlaygroup&lt;/a&gt;&lt;a href=&quot;https://t.co/nBRo2QbRoz&quot;&gt;https://t.co/nBRo2QbRoz&lt;/a&gt; &lt;a href=&quot;https://t.co/J0VTNnvaM9&quot;&gt;pic.twitter.com/J0VTNnvaM9&lt;/a&gt;&lt;/p&gt;&amp;mdash; Plastic Tactics (@plastacs) &lt;a href=&quot;https://twitter.com/plastacs/status/1519282787731263489?ref_src=twsrc%5Etfw&quot;&gt;April 27, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Speaking of the Plastic Flowers, &lt;a href=&quot;https://www.mynameismwd.org/&quot;&gt;Michael Dales&lt;/a&gt; took a really good photo on a recent visit to DoES Liverpool:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/md_plastic_flowers.jpg&quot; alt=&quot;md_plastic_flowers.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And finally, on this Friday’s &lt;a href=&quot;https://twitter.com/pelotonliv&quot;&gt;Peloton Liverpool&lt;/a&gt; ride, we got the chance to find out more about the work of &lt;a href=&quot;https://wheelsforall.org.uk/&quot;&gt;Wheels for All Merseyside&lt;/a&gt; and try out some of their bikes:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;A pleasure joining up with &lt;a href=&quot;https://twitter.com/PelotonLiv?ref_src=twsrc%5Etfw&quot;&gt;@PelotonLiv&lt;/a&gt; last night. Lovely to have a ride together with some of our inclusive cyclists, and to show the group what we do every day of the week across Merseyside &lt;a href=&quot;https://t.co/7yrPDvWb64&quot;&gt;https://t.co/7yrPDvWb64&lt;/a&gt;&lt;/p&gt;&amp;mdash; Wheels for All Merseyside (@WFAMerseyside) &lt;a href=&quot;https://twitter.com/WFAMerseyside/status/1520431809263280128?ref_src=twsrc%5Etfw&quot;&gt;April 30, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Sat, 30 Apr 2022 16:00:00 +0100</pubDate>
+        <link>http://localhost:4000/weeknotes/2022/04/30/Weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/04/30/Weeknotes.html</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>Week Notes - Solidarity in Neopixels</title>
@@ -587,52 +688,6 @@ Then past grand classical buildings containing the city’s great cultural insti
         <pubDate>Wed, 26 Aug 2020 19:00:00 +0100</pubDate>
         <link>http://localhost:4000/blogpost/2020/08/26/familiar-sights.html</link>
         <guid isPermaLink="true">http://localhost:4000/blogpost/2020/08/26/familiar-sights.html</guid>
-        
-        
-        <category>blogpost</category>
-        
-      </item>
-    
-      <item>
-        <title>15 Minute Liverpool - First Look at the 15 Minute City</title>
-        <description>&lt;p&gt;I’ve seen a lot about 15 minute cities recently:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“this simple notion that all your basic everyday needs, from education to commerce to health care to culture and so on, are located within 15 minutes walk or bike of your front door”.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I’m not sure how it might work - do people get to mix? Might you lose the special things you get in a city centre when you have to endlessly repeat the basics? I like having a pub near my house, but I’m definitely prepared to travel slightly further to exhibitions, libraries and well-equiped maker spaces.&lt;/p&gt;
-
-&lt;p&gt;It is an interesting way of looking at we do need though, and how we can move away from cars to cycling and walking more - this seems like a good time to think about things when everything has already been shaken up by the COVID crisis - for me that means that the office I usually work from in Greater Manchester is closed, and I’m working from the coworking space at &lt;a href=&quot;doesliverpool.com&quot;&gt;DoES Liverpool&lt;/a&gt; (just over half an hour’s cycling from my home, so it doesn’t quite fit into the 15 minute city idea, but I love cycling into work- it gives me time to think and stuff to look at, and it’s good for you).&lt;/p&gt;
-
-&lt;p&gt;It seems like a good lunchtime project to start by exploring the area around DoES Liverpool - Adrian McEwen has been working on isochrone maps which show how far you can get in 15 minutes by cycling or walking (including for people with mobility issues) - you can find out more here: &lt;a href=&quot;trips.mcqn.com&quot;&gt;trips.mcqn.com&lt;/a&gt;. Here’s one of his maps showing how far you can get from DoES Liverpool in 15 minutes:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/15-minute-liverpool/15-minutes-from-does-liverpool.jpg?raw=true&quot; alt=&quot;15 minutes from DoES Liverpool&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I started by just walking to Rodney Street and back on Monday lunchtime - it took exactly half an hour, so the map is accurate, at least for me.&lt;/p&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;
-  &lt;iframe src=&quot;https://www.youtube.com/embed/CnIKAuULK7w&quot; width=&quot;700&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
-  &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;I’m sure there’s lots more thought that can be put into this. For anyone else who’s interested, here’s a few links:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Adrian’s isochrone maps, as mentioned before: &lt;a href=&quot;trips.mcqn.com&quot;&gt;trips.mcqn.com&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The 15 minute city repository in Github/Liverpool-UK: &lt;a href=&quot;https://github.com/Liverpool-UK/somebody-should/issues/35&quot;&gt;https://github.com/Liverpool-UK/somebody-should/issues/35&lt;/a&gt; - lots of opportunity for people in Liverpool to get involved&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;And 2 articles on Paris: one from &lt;a href=&quot;https://www.forbes.com/sites/carltonreid/2020/01/21/phasing-out-cars-key-to-paris-mayors-plans-for-15-minute-city/#5ccba7706952&quot;&gt;Forbes&lt;/a&gt; and &lt;a href=&quot;https://annehidalgo2020.com/wp-content/uploads/2020/01/Dossier-de-presse-Le-Paris-du-quart-dheure.pdf&quot;&gt;this one&lt;/a&gt; (in French) from the site of Paris mayor Anne Hidalgo.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sat, 18 Jul 2020 15:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blogpost/2020/07/18/first-look.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blogpost/2020/07/18/first-look.html</guid>
         
         
         <category>blogpost</category>
