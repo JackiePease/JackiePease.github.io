@@ -14,7 +14,6 @@ I also had problems knowing how long pens would last, particularly Sharpies, and
 ![sharpie_testing.jpg](https://jackiepease.github.io/assets/weeknotes_20220501/sharpie_testing.jpg)
 
 I plotted the original picture on Pergamino paper, and I think the texture of the paper and the fact that Sharpie ink doesn't soak into it as much makes this more successful.
-roses_on_pergamino
 
 ![roses_on_pergamino.jpg](https://jackiepease.github.io/assets/weeknotes_20220501/roses_on_pergamino.jpg)
 
