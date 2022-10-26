@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weeknotes - You Win or You Learn"
+title:  "Week Notes - You Win or You Learn"
 date:   2022-10-26`16:00:00 +0100
 categories: weeknotes
 ---

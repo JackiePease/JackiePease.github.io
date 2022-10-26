@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WeekNotes - Plotting with Refillable Pens"
+title:  "Week Notes - Plotting with Refillable Pens"
 date:   2021-12-13 00:00:00 +0100
 categories: weeknotes
 ---

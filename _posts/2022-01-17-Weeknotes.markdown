@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MonthNotes - Progress with the Plastic Flowers"
+title:  "Month Notes - Progress with the Plastic Flowers"
 date:   2022-01-17 19:00:00 +0100
 categories: weeknotes
 ---

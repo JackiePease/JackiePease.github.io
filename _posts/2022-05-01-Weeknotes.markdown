@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weeknotes - All The Pens"
+title:  "Week Notes - All The Pens"
 date:   2022-05-01 16:00:00 +0100
 categories: weeknotes
 ---
