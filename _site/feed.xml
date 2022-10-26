@@ -5,9 +5,90 @@
     <description>Personal Website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 May 2022 16:53:43 +0100</pubDate>
-    <lastBuildDate>Sun, 01 May 2022 16:53:43 +0100</lastBuildDate>
-    <generator>Jekyll v3.9.0</generator>
+    <pubDate>Thu, 27 Oct 2022 00:40:45 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 00:40:45 +0100</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Weeknotes - You Win or You Learn</title>
+        <description>&lt;p&gt;A quote from Nelson Mandela apparently. It’s been in my head recently as I spent several days working on an LED project I shouldn’t have agreed to do with too little time, too little experience with the tools I eventually had to use, and without ever getting to see the physical installation. It feels like I’ve learnt a lot though and I’m inspired to learn more. So here’s a few rough notes, so I don’t forget, and in case there’s anything useful to other people.&lt;/p&gt;
+
+&lt;h2 id=&quot;sensors&quot;&gt;Sensors&lt;/h2&gt;
+
+&lt;p&gt;Originally there was a plan to use a sensor to control the speed that the lights moved and their brightness.  I experimented with several different inputs:&lt;/p&gt;
+
+&lt;h4 id=&quot;potentiometer&quot;&gt;Potentiometer&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20221026/esp32_with_potentiometer.jpg&quot; alt=&quot;esp32_with_potentiometer.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I used &lt;a href=&quot;https://www.sensingthecity.com/controlling-an-addressable-led-strip-with-any-sensor/&quot;&gt;this code from Sensing the City&lt;/a&gt; to make a light move along a strip of LEDs (it looks even better if it’s moving around a disk!). Sensing the City is a great site, with loads of other good ideas.&lt;/p&gt;
+
+&lt;h4 id=&quot;capacitive-touch-sensor&quot;&gt;Capacitive Touch Sensor&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20221026/capacitive_touch.jpg&quot; alt=&quot;capacitive_touch.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I already had an Adafruit CAP1188 breakout, recommended to me by Chris E at the Friday night cycling group I go to. It was easy to set up following &lt;a href=&quot;https://learn.adafruit.com/adafruit-cap1188-breakout&quot;&gt;the instructions on the Adafruit site&lt;/a&gt; and worked well, although I didn’t go further than blinking the onboard lights on this occasion. It seems worth putting in a bit more time and investigating some of its other features.&lt;/p&gt;
+
+&lt;p&gt;Although I didn’t get to use the Azoteq pressure sensor originally suggested for the project, I did see an Arduino sketch that used it. It looks as though there’s more to set up, but apparently it is very reliable, so might be worth further investigation too.&lt;/p&gt;
+
+&lt;h4 id=&quot;pressure-sensors&quot;&gt;Pressure Sensors&lt;/h4&gt;
+
+&lt;p&gt;We’ve used home made pressure sensors a lot at DoES Liverpool, mainly because we’ve found them a bit more predictable than capacitive touch.&lt;/p&gt;
+
+&lt;p&gt;I refamiliarised myself with these foam/wire/Velostat sensors that we made for &lt;a href=&quot;https://getamoveon.ac.uk/events/what-does-health-look-like&quot;&gt;Laura Pullig / Lanacaster Univerity’s What Does Health Look Like? project&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Here’s &lt;a href=&quot;https://twitter.com/SoleRebelTapUK?ref_src=twsrc%5Etfw&quot;&gt;@SoleRebelTapUK&lt;/a&gt; testing out pressure sensors &lt;a href=&quot;https://twitter.com/DoESLiverpool?ref_src=twsrc%5Etfw&quot;&gt;@DoESLiverpool&lt;/a&gt; for ‘What Does Health look like’ with &lt;a href=&quot;https://twitter.com/davidaellis?ref_src=twsrc%5Etfw&quot;&gt;@davidaellis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/GAMONetwork?ref_src=twsrc%5Etfw&quot;&gt;@GAMONetwork&lt;/a&gt; &lt;a href=&quot;https://t.co/8pqFMPdOW1&quot;&gt;pic.twitter.com/8pqFMPdOW1&lt;/a&gt;&lt;/p&gt;&amp;mdash; laura pullig (@Laura_pullig) &lt;a href=&quot;https://twitter.com/Laura_pullig/status/1094233839629680640?ref_src=twsrc%5Etfw&quot;&gt;February 9, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;They work well and can use similar code to the potentiometer.&lt;/p&gt;
+
+&lt;p&gt;Along with Chris T, I also refurbished one of these much larger, but functionally similar, pressure sensors from &lt;a href=&quot;https://mcqn.com/ibal191/&quot;&gt;MCQN Ltd’s Play the Tree/Geometric Lights&lt;/a&gt;. There are another 3 of these at DoES Liverpool and we’re now thinking of new uses for them:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20221026/large_pressure_sensor.jpg&quot; alt=&quot;large_pressure_sensor.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;mapping-irregular-led-layouts&quot;&gt;Mapping Irregular LED Layouts&lt;/h2&gt;
+&lt;p&gt;The project involved a fairly large number of pixels, arranged irregularly. In the end some of the pixels weren’t added until the day before the project shipped, so they had to be laid out physically in the order they would light up. I did try out several tools that might help me do pixel mapping in future though:&lt;/p&gt;
+
+&lt;h4 id=&quot;xlights-generate-custom-model&quot;&gt;&lt;a href=&quot;https://manual.xlights.org/xlights/chapters/chapter-five-menus/tools/generate-custom-model&quot;&gt;xLights Generate Custom Model&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;I’ve tried this before, and I didn’t have any more luck this time. The consensus seems to be that you need a decent camera, so I think it’s going to be worth borrowing one, watching a bunch of YouTubes, and trying again. On the other hand, I did find out that you can now control WLED via wifi from xLights on your laptop, so all good.&lt;/p&gt;
+
+&lt;p&gt;This &lt;a href=&quot;https://github.com/aaknitt/pixel_mapper&quot;&gt;semi-automatic pixel mapper&lt;/a&gt; might also be worth investigating.&lt;/p&gt;
+
+&lt;h4 id=&quot;led-mapper-by-jason-coon&quot;&gt;&lt;a href=&quot;jasoncoon.github.io/led-mapper&quot;&gt;LED-Mapper&lt;/a&gt; by Jason Coon&lt;/h4&gt;
+
+&lt;p&gt;This is great - you do have to use Google Sheets to create a layout first, but it then allows you “to generate and visualize maps for irregular and/or gapped LED layouts, for use with FastLED, Pixelblaze and other libraries” and “also generates coordinate maps for radius and angle.”&lt;/p&gt;
+
+&lt;p&gt;I used both a disk of regularly spaced rings (wired as a spiral) and an irregular spiral made from WS2811 Xmas tree style pixels, taped onto Correx. Both were good although obviously the more closely-packed disk shows the pattern much better. This Tweet shows the regular disk running Jason Coon’s example sketch:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Disappointingly I haven&amp;#39;t got &lt;a href=&quot;https://twitter.com/hashtag/xlights?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#xlights&lt;/a&gt; Generate Custom Model to work yet, so have been using laser cut PP grids, then switching on LEDs sequentially, in order to get them into the spreadsheet to start off with...&lt;a href=&quot;https://twitter.com/hashtag/weeknotes?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#weeknotes&lt;/a&gt; &lt;a href=&quot;https://t.co/sp6eTwJbZE&quot;&gt;pic.twitter.com/sp6eTwJbZE&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Pease (@jackie_pease) &lt;a href=&quot;https://twitter.com/jackie_pease/status/1576696560481509376?ref_src=twsrc%5Etfw&quot;&gt;October 2, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I used laser-cut polypropylene grids to work out the coordinates of the pixels, but Jason replied to the Tweet recommending &lt;a href=&quot;http://app.bhencke.com/pixelmap.html&quot;&gt;this&lt;/a&gt;, which should be easier and more accurate.&lt;/p&gt;
+
+&lt;p&gt;I put together a quick push button circuit on the Arduino to help me identify the next pixel in line in the irregular spiral, and I can see that being useful again. The sketch is &lt;a href=&quot;https://github.com/JackiePease/LEDTests/tree/main/Button_LED&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;raspberry-pi-as-localhost-with-several-esp32s-running-wled-or-picows&quot;&gt;Raspberry Pi as localhost with several ESP32s running WLED (or PicoWs?)&lt;/h2&gt;
+
+&lt;p&gt;Another thing I didn’t get very far with before it became apparent that we weren’t going to use it, but I found some easy to follow instructions &lt;a href=&quot;https://pimylifeup.com/raspberry-pi-mosquitto-mqtt-server/&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://learn.sparkfun.com/tutorials/setting-up-a-raspberry-pi-3-as-an-access-point/introduction&quot;&gt;here&lt;/a&gt;. I’d like to take this further.&lt;/p&gt;
+
+&lt;p&gt;There are some alternatives to mqtt that might be worth looking at too - e.g. &lt;a href=&quot;https://www.youtube.com/watch?v=LkGCo9Gi8mk&quot;&gt;this YouTube&lt;/a&gt; shows how to make a lightshow with WLED, FPP, xLights and DDP data.&lt;/p&gt;
+
+&lt;h2 id=&quot;arduino-mega-2560&quot;&gt;Arduino Mega 2560&lt;/h2&gt;
+
+&lt;p&gt;This was what I finally wrote the sketch on, as there was one on site and I had one here. Memory was a bit of an issue,  and because I didn’t get to see the final output, I wasn’t able to easily make amendments when things didn’t work as the users wanted (another lesson learned is that it might have helped to demonstrate the kind of effects that can be created at the start, and with what density of pixels).&lt;/p&gt;
+
+&lt;p&gt;Thanks to Adrian and Chris T for advice on C++ (&lt;a href=&quot;https://github.com/JackiePease/LEDTests/tree/main/October_LED_Project&quot;&gt;the current spaghetti&lt;/a&gt; is my responsibility).&lt;/p&gt;
+
+&lt;p&gt;So I still want to do more LED projects…&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Oct 2022 16:00:00 +0100</pubDate>
+        <link>http://localhost:4000/weeknotes/2022/10/26/Weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/10/26/Weeknotes.html</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes - All The Pens</title>
@@ -19,8 +100,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/sharpie_testing.jpg&quot; alt=&quot;sharpie_testing.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I plotted the original picture on Pergamino paper, and I think the texture of the paper and the fact that Sharpie ink doesn’t soak into it as much makes this more successful.
-roses_on_pergamino&lt;/p&gt;
+&lt;p&gt;I plotted the original picture on Pergamino paper, and I think the texture of the paper and the fact that Sharpie ink doesn’t soak into it as much makes this more successful.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/roses_on_pergamino.jpg&quot; alt=&quot;roses_on_pergamino.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -68,9 +148,9 @@ roses_on_pergamino&lt;/p&gt;
 
 &lt;p&gt;Here’s a couple of plots I did of the Liver Bird on the corner of the building, firstly in the Uni-ball Ones plus a UniPin 0.5mm in dark grey, then in black and light grey 0.5mm Unipins:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/fire_station_portrait.jpg&quot; alt=&quot;fire_station_portrait.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/Bird_triangles.jpg&quot; alt=&quot;Bird_triangles.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/fire_station_portrait.jpg&quot; alt=&quot;fire_station_portrait.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20220501/Bird_greyscale.jpg&quot; alt=&quot;Bird_greyscale.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The light grey Unipin didn’t seem to have the same quality of ink as the black one, and the tip seemed to deteriorate during the plot (also the grey pen must have been knocked during plotting …).&lt;/p&gt;
 
@@ -101,9 +181,9 @@ roses_on_pergamino&lt;/p&gt;
 &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 </description>
-        <pubDate>Sat, 30 Apr 2022 16:00:00 +0100</pubDate>
-        <link>http://localhost:4000/weeknotes/2022/04/30/Weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/04/30/Weeknotes.html</guid>
+        <pubDate>Sun, 01 May 2022 16:00:00 +0100</pubDate>
+        <link>http://localhost:4000/weeknotes/2022/05/01/Weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/05/01/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -271,7 +351,7 @@ roses_on_pergamino&lt;/p&gt;
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;x &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$@&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;do
-   &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$x&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; | &lt;span class=&quot;nb&quot;&gt;cut&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; 1 &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'.'&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;
+   &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$x&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; | &lt;span class=&quot;nb&quot;&gt;cut&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; 1 &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;.&apos;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;
    &lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;
    vpype dread &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;.dxf scaleto &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; 250mm 250mm linesort write &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
            &lt;span class=&quot;nt&quot;&gt;--page-size&lt;/span&gt; a3 &lt;span class=&quot;nt&quot;&gt;--landscape&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--center&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-out&lt;/span&gt;.svg
@@ -644,50 +724,6 @@ The pen up and pen down setting will depend on the plotter you’re using. Curre
         <pubDate>Tue, 16 Feb 2021 10:00:00 +0000</pubDate>
         <link>http://localhost:4000/blogpost/2021/02/16/biobox.html</link>
         <guid isPermaLink="true">http://localhost:4000/blogpost/2021/02/16/biobox.html</guid>
-        
-        
-        <category>blogpost</category>
-        
-      </item>
-    
-      <item>
-        <title>15 Minute Liverpool - Familiar Sights</title>
-        <description>&lt;p&gt;When I wrote my first post I intended to get out and explore the area around DoES Liverpool on at least 2 lunchtimes per week. It’s been more than a month and I’ve only made 2 more trips, and only now got round to writing them up…&lt;/p&gt;
-
-&lt;p&gt;My first trip was down to St George’s Plateau and then half way down Dale Street on 30 July, a beautiful warm and sunny day - I must have been walking fast to get that far, as it’s outside the 15 minute isochrone on Adrian’s map; it took me more than 20 minutes on the way back, uphill and in the heat:&lt;/p&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;
-  &lt;iframe src=&quot;https://www.youtube.com/embed/eNoG6cgYBic&quot; width=&quot;700&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
-  &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Out of the Fabric District and into an area of large spaces and student apartments where the architects might have had a bit of fun applying different surface textures and patterns to buildings which have the same basic structure.
-Then past grand classical buildings containing the city’s great cultural institutions. It certainly seems feasible to make a short visit to the art gallery or library on a lunch break from DoES Liverpool.&lt;/p&gt;
-
-&lt;p&gt;Then the top half of Dale Street contains some excellent pubs, along with offices and sandwich shops. I returned along a slightly different route, past tourist cafes, Egyptian themed outcrops of the Birkenhead tunnel and a basrelief drum commemorating the victims of Hillsborough.&lt;/p&gt;
-
-&lt;p&gt;This was a really lovely walk and shows the richness of the city easily accessible from Kempston Street.&lt;/p&gt;
-
-&lt;p&gt;My second trip was on 17 August, to the city centre shops, my first visit since before lockdown. I started off via London Road, a mixture of older buildings, replacement apartment blocks and world food shops. There are some nice new outdoor spaces, with places to sit, and an unreconstructed market, before you get to the main street which is busy with buses.&lt;/p&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;
-  &lt;iframe src=&quot;https://www.youtube.com/embed/YJBjtYwBHpQ&quot; width=&quot;700&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
-  &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;I then went past the railway hotel and Lime Street station, fronted by a large new plaza, before crossing the road, down past the front of St John’s Shopping Centre and down through the busy pedestrianised area to Marks and Spencer. I hadn’t left a whole hour for the trip, so there wasn’t really time to do anything except buy a quick snack before returning in the same direction.&lt;/p&gt;
-
-&lt;p&gt;Then it took me until Tuesday morning to put the photos together and load them onto YouTube. This time I used Adobe Rush, which was pretty quick - I didn’t crop or straighten the photos and I didn’t do any editing apart from adding titles. Ideally I’d like the time for each photo to be less, or to be able to flick through them as stills. I still haven’t worked out how to set up a website, so that’s the next thing, but at least I can link this page to my Instagram account.&lt;/p&gt;
-
-&lt;p&gt;Looking back at these trips, they both cover ground that feels very familiar and safe to me - I want to start looking at parts of the area I know less well and see what facilities they have to offer. I think I should start looking for particular features that might be worth recording and that tell us something about the local area. I think what I’ve been doing so far is very tangential to the 15 minute city idea.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Adrian’s McEwen’s isochrone maps, which I’m using to judge how far I should be able to walk in 15 minutes, can be found here: &lt;a href=&quot;trips.mcqn.com&quot;&gt;trips.mcqn.com&lt;/a&gt;, and I read an interesting article today about what it might mean for Camden here: &lt;a href=&quot;https://medium.com/camden-town-unlimited/beyond-the-pandemic-the-prospect-of-a-15-minute-city-693b6a24e438&quot;&gt;https://medium.com/camden-town-unlimited/beyond-the-pandemic-the-prospect-of-a-15-minute-city-693b6a24e438&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 26 Aug 2020 19:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blogpost/2020/08/26/familiar-sights.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blogpost/2020/08/26/familiar-sights.html</guid>
         
         
         <category>blogpost</category>
