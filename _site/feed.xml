@@ -5,12 +5,12 @@
     <description>Personal Website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Oct 2022 00:40:45 +0100</pubDate>
-    <lastBuildDate>Thu, 27 Oct 2022 00:40:45 +0100</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2022 18:06:32 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 18:06:32 +0100</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title>Weeknotes - You Win or You Learn</title>
+        <title>Week Notes - You Win or You Learn</title>
         <description>&lt;p&gt;A quote from Nelson Mandela apparently. It’s been in my head recently as I spent several days working on an LED project I shouldn’t have agreed to do with too little time, too little experience with the tools I eventually had to use, and without ever getting to see the physical installation. It feels like I’ve learnt a lot though and I’m inspired to learn more. So here’s a few rough notes, so I don’t forget, and in case there’s anything useful to other people.&lt;/p&gt;
 
 &lt;h2 id=&quot;sensors&quot;&gt;Sensors&lt;/h2&gt;
@@ -54,7 +54,7 @@
 
 &lt;p&gt;This &lt;a href=&quot;https://github.com/aaknitt/pixel_mapper&quot;&gt;semi-automatic pixel mapper&lt;/a&gt; might also be worth investigating.&lt;/p&gt;
 
-&lt;h4 id=&quot;led-mapper-by-jason-coon&quot;&gt;&lt;a href=&quot;jasoncoon.github.io/led-mapper&quot;&gt;LED-Mapper&lt;/a&gt; by Jason Coon&lt;/h4&gt;
+&lt;h4 id=&quot;led-mapper-by-jason-coon&quot;&gt;&lt;a href=&quot;https://jasoncoon.github.io/led-mapper/&quot;&gt;LED-Mapper&lt;/a&gt; by Jason Coon&lt;/h4&gt;
 
 &lt;p&gt;This is great - you do have to use Google Sheets to create a layout first, but it then allows you “to generate and visualize maps for irregular and/or gapped LED layouts, for use with FastLED, Pixelblaze and other libraries” and “also generates coordinate maps for radius and angle.”&lt;/p&gt;
 
@@ -91,7 +91,7 @@
       </item>
     
       <item>
-        <title>Weeknotes - All The Pens</title>
+        <title>Week Notes - All The Pens</title>
         <description>&lt;p&gt;Having done some maintenance on the pen plotter last month, I’ve mainly been experimenting with different pens and papers to see what effects they produce. I am aiming to use more refillable pens, but having been asked to produce a flower picture in the style of one of my earlier pen plots, it’s been more Sharpies, fineliners and gel pens recently.&lt;/p&gt;
 
 &lt;p&gt;I forgot to take photos of that picture before handing it over, unfortunately - one issue was that the sky in the background was quite light and came out uncoloured in the plot, which was a strong contrast to areas which were heavily filled with Sharpie and Uniball Eye fineliner.&lt;/p&gt;
@@ -337,7 +337,7 @@
       </item>
     
       <item>
-        <title>MonthNotes - Progress with the Plastic Flowers</title>
+        <title>Month Notes - Progress with the Plastic Flowers</title>
         <description>&lt;p&gt;I thought I’d slightly sabotaged my pen plotting project recently by getting qualms about the number of disposable pens I was getting through, but trying out various reusable alternatives instead is proving just as interesting. I’ve done more with the Rotring technical pens and Lamy fountain pens which I had already, and I’ve bought &lt;a href=&quot;https://www.cultpens.com/i/q/PL01289/pilot-parallel-pen&quot;&gt;Pilot Parallel Pens&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;One problem I’ve had is that finer pens (and water based ones) tend to dig up the paper. It looks as if you just can’t use more than 2 - 3 layers, but I’ve also ordered some tougher paper. This might be followed by some new ink, as only some are properly permanent - Rev Dan Catt mentions Noodler’s Bulletproof in this Instagram &lt;a href=&quot;https://www.instagram.com/p/CYj10z4tQ1a/&quot;&gt;post&lt;/a&gt;.&lt;/p&gt;
@@ -404,7 +404,7 @@ I’ve had to take a break from pen plotting to make progress on the Plastic Flo
       </item>
     
       <item>
-        <title>WeekNotes - Plotting with Refillable Pens</title>
+        <title>Week Notes - Plotting with Refillable Pens</title>
         <description>&lt;p&gt;Recently I’ve been spending a lot of my free time working on these &lt;a href=&quot;https://twitter.com/amcewen/status/1467598114559299588?s=20&quot;&gt;lights&lt;/a&gt;, along with other members of the  &lt;a href=&quot;https://doesliverpool.com/&quot;&gt;DoES Liverpool&lt;/a&gt; and &lt;a href=&quot;https://peloton.coop/&quot;&gt;Peloton Liverpool&lt;/a&gt; communities; now they’re in action I’ve had a chance to get back to a bit of pen plotting (I am going to do a blog post on the lights once I get a few more photos together though, and there’s definitely more work to do in the future to take full advantage of the MCQN Ltd “&lt;a href=&quot;https://github.com/mcqn/my-bikes-got-led&quot;&gt;My Bikes Got LED&lt;/a&gt;” boards that control them).&lt;/p&gt;
 
 &lt;p&gt;I don’t have any new code to plot at the moment, so thought I’d start off with &lt;a href=&quot;https://github.com/SonarSonic/DrawingBotV3&quot;&gt;DrawingBotV3&lt;/a&gt; again - I had some photos of this climbing plant that I’d taken back at the beginning of October but hadn’t got far with plotting at the time:&lt;/p&gt;

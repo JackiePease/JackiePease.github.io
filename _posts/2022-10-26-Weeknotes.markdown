@@ -47,7 +47,7 @@ I’ve tried this before, and I didn’t have any more luck this time. The conse
 
 This [semi-automatic pixel mapper](https://github.com/aaknitt/pixel_mapper) might also be worth investigating.
 
-#### [LED-Mapper](jasoncoon.github.io/led-mapper) by Jason Coon
+#### [LED-Mapper](https://jasoncoon.github.io/led-mapper/) by Jason Coon
 
 This is great - you do have to use Google Sheets to create a layout first, but it then allows you "to generate and visualize maps for irregular and/or gapped LED layouts, for use with FastLED, Pixelblaze and other libraries" and "also generates coordinate maps for radius and angle."
 
