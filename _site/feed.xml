@@ -5,15 +5,15 @@
     <description>Personal Website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Nov 2022 23:12:36 +0000</pubDate>
-    <lastBuildDate>Mon, 07 Nov 2022 23:12:36 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Nov 2022 18:21:15 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Nov 2022 18:21:15 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
         <title>Week Notes - My Bike&apos;s Got LED (Of Course)</title>
         <description>&lt;p&gt;If you know me, you might be aware that I’m quite keen on addressable LEDs, so, while I already had a light up backpack for cycling (a prototype for &lt;a href=&quot;https://peloton.coop&quot;&gt;Peloton Liverpool&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/PelotonLiv/status/1499019125011668996?s=20&amp;amp;t=nDrJC5sKxXCYXhn_cV9HPQ&quot;&gt;Disco breastplates&lt;/a&gt;), I couldn’t resist buying a &lt;a href=&quot;https://mcqn.com/&quot;&gt;MCQN Ltd&lt;/a&gt; &lt;a href=&quot;https://twitter.com/huffeec/status/1585560542080638979?s=20&amp;amp;t=gtIk50p2UsO_uZefMUf0Gg&quot;&gt;My Bike’s Got LED board&lt;/a&gt; after watching the flurry of activity here at DoES Liverpool as Adrian and Chris got the first batch ready - they were launching with Peloton Liverpool Joyride cyclists taking part in &lt;a href=&quot;https://katumba.co.uk/&quot;&gt;Katumba Drumming&lt;/a&gt;’s Halloween event.&lt;/p&gt;
 
-&lt;p&gt;It was a great night (more detail in Chris’s post &lt;a href=&quot;https://twitter.com/MCQN_Ltd/status/1587781835043778561?s=20&amp;amp;t=gtIk50p2UsO_uZefMUf0Gg&quot;&gt;here&lt;/a&gt;). I didn’t quite get my lights ready in time, but a few cable ties the next morning was all it took to finish the job:&lt;/p&gt;
+&lt;p&gt;It was a great night (more detail in Chris’s post &lt;a href=&quot;https://mcqn.com/posts/2022-10-31-weeks-889-891-More-Bikes-got-LED/&quot;&gt;here&lt;/a&gt;). I didn’t quite get my lights ready in time, but a few cable ties the next morning was all it took to finish the job:&lt;/p&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;How my bike might have looked at yesterday&amp;#39;s excellent &lt;a href=&quot;https://twitter.com/KatumbaBloco?ref_src=twsrc%5Etfw&quot;&gt;@KatumbaBloco&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/halloweenparade?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#halloweenparade&lt;/a&gt; &lt;a href=&quot;https://twitter.com/PelotonLiv?ref_src=twsrc%5Etfw&quot;&gt;@PelotonLiv&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/joyride?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#joyride&lt;/a&gt; if I&amp;#39;d fitted my &lt;a href=&quot;https://twitter.com/MCQN_Ltd?ref_src=twsrc%5Etfw&quot;&gt;@MCQN_Ltd&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/mybikesgotled?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#mybikesgotled&lt;/a&gt; board in time.&lt;br /&gt;Everyone else&amp;#39;s looked fantastic though and mine is now ready for future trips.&lt;a href=&quot;https://twitter.com/hashtag/weeknotes?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#weeknotes&lt;/a&gt; &lt;a href=&quot;https://t.co/6bPZrMqE2M&quot;&gt;pic.twitter.com/6bPZrMqE2M&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Pease (@jackie_pease) &lt;a href=&quot;https://twitter.com/jackie_pease/status/1586751768901419010?ref_src=twsrc%5Etfw&quot;&gt;October 30, 2022&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -30,7 +30,18 @@
 
 &lt;p&gt;That might be something to consider next time, although the Reverse Direction option has worked well.&lt;/p&gt;
 
-&lt;p&gt;It’s important to save all your settings, including segments, in presets, otherwise you’ll lose them when you switch the board off. If you do anything complex you’ll probablly want to &lt;a href=&quot;https://github.com/Aircoookie/WLED/issues/146&quot;&gt;make a backup&lt;/a&gt; too.&lt;/p&gt;
+&lt;p&gt;It’s important to save all your settings, including segments, in presets, otherwise you’ll lose them when you switch the board off, and it isn’t difficult to &lt;a href=&quot;https://github.com/Aircoookie/WLED/issues/146&quot;&gt;backup your settings to JSON files&lt;/a&gt; either. From your browser, just type in the following 2 commands:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;[WLED-IP]/edit?download=cfg.json&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;[WLED-IP]/edit?download=presets.json&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;where [WLED-IP] is the IP address of your board.&lt;/p&gt;
 
 &lt;p&gt;The good thing about WLED is that it’s so easy to get started, although there’s a lot more you can do if you want. I’m looking forward to some sound reactive stuff, as the group cycle rides organised by Peloton Liverpool nearly always have music; it would be good to be able to sync effects across the whole group too. I think Adrian and Chris have some of this planned for their v2 board.&lt;/p&gt;
 
