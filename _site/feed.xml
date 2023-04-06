@@ -5,84 +5,86 @@
     <description>Personal Website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Apr 2023 21:48:28 +0100</pubDate>
-    <lastBuildDate>Tue, 04 Apr 2023 21:48:28 +0100</lastBuildDate>
+    <pubDate>Thu, 06 Apr 2023 18:10:14 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Apr 2023 18:10:14 +0100</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
         <title>Week Notes - Comet Workshop</title>
-        <description>&lt;p&gt;It’s been a while since I wrote any weeknotes, and although I’m just going to talk about one project it does cover a bit more than one week …&lt;/p&gt;
+        <description>&lt;p&gt;It’s been a while since I wrote any weeknotes, and although I’m just going to talk about one project - the comet workshop I did for Ryan and Andy at  &lt;a href=&quot;https://www.conveniencegallery.org/&quot;&gt;Wirral-based Convenience Gallery&lt;/a&gt; - it does cover a bit more than a week.&lt;/p&gt;
 
-&lt;p&gt;Ryan and Andy of &lt;a href=&quot;https://www.conveniencegallery.org/&quot;&gt;Wirral-based Convenience Gallery&lt;/a&gt;, had been posting on social media for people to work with them since mid-December. I filled in their online application form, mentioning several things I’d like to do, including working with plastic, doing larger-scale light installations, and maybe even some pen plotting. They got back to me to ask if I’d like to get involved with their CRAFTBAR programme, which “creates space to explore, experiment, play and learn about sustainable and circular making processes” and fits in well with some of the stuff I’ve done with &lt;a href=&quot;https://plastictactics.com/&quot;&gt;Plastic Tactics&lt;/a&gt;. That’s how I found myself at Pink Sands Gallery in Birkenhead on 21st February, along with other CRAFTBAR participants, and agreed to create a collaborative sculptural build workshop using some of the techniques I’d learnt with Plastic Tactics for the programme launch at Pilgrim Street Arts Centre on 24th March.&lt;/p&gt;
+&lt;p&gt;I applied to Convenience Gallery in February and they asked if I’d like to get involved with their CRAFTBAR programme. The programme aims to create “space to explore, experiment, play and learn about sustainable and circular making processes” which is definitely an area I’m interested in. After an initial meetup at Pink Sands Gallery in Birkenhead on 21st February, along with other CRAFTBAR participants, I agreed to create a collaborative sculptural build workshop using some of the techniques I’d learnt with &lt;a href=&quot;https://plastictactics.com/&quot;&gt;Plastic Tactics&lt;/a&gt; for the programme launch at Pilgrim Street Arts Centre on 24th March.&lt;/p&gt;
 
-&lt;p&gt;I started thinking of about what to make. I liked the idea of showing the workshop attendees how to make new material by ironing together pieces of waste soft plastic like carrier bags, something we do a lot at Plastic Tactics - once learnt it’s something that’s easy to repeat at home to make useful items like credit card holders and notebook covers. Also for Plastic Tactics, I’d begun looking into weaving with strips made from PET bottles (this might be my next project!), and thinking about how we could use some large pieces of PVC sheet left over from a shop renovation which had been kindly brought in to DoES Liverpool by Lauren from &lt;a href=&quot;https://www.littlechestnut.co.uk/&quot;&gt;Little Chestnut Gifts&lt;/a&gt;. I wondered if I could make a large woven shape from the PVC, attach some addressable LEDs and get the workshop attendees to make decorative soft plastic panels to diffuse the light.&lt;/p&gt;
+&lt;p&gt;I liked the idea of showing the workshop attendees how to make new material by ironing together pieces of waste soft plastic like carrier bags, something we do a lot at Plastic Tactics - once learnt it’s something that’s easy to repeat at home to make useful items like credit card holders and notebook covers. Also for Plastic Tactics, I’d begun looking into weaving with strips made from PET bottles, and thinking about how we could use some large pieces of PVC sheet left over from a shop renovation which had been kindly brought in to &lt;a href=&quot;https://doesliverpool.com&quot;&gt;DoES Liverpool&lt;/a&gt; by Lauren from &lt;a href=&quot;https://www.littlechestnut.co.uk/&quot;&gt;Little Chestnut Gifts&lt;/a&gt;. I also wanted to use addressable LEDs. A while ago &lt;a href=&quot;https://www.freesteel.co.uk/&quot;&gt;Julian&lt;/a&gt; had brought a large quantity of addressable LED strips into DoES Liverpool. They’d been salvaged by someone at the &lt;a href=&quot;https://astralship.org/&quot;&gt;Astral Ship&lt;/a&gt; in Wales from a temporary project in London. People often buy all new electronics for projects and it feels good to be able to reuse them - they’re also fairly expensive and it’s a privilege to be able to use so many in a project like this (I’ll do my best to make sure they get used again once this piece of work reaches the end of its life).&lt;/p&gt;
 
-&lt;p&gt;I looked at a lot of shapes, including jellyfish and squid (both of these would have had the advantage of hanging vertically), but became fascinated by pictures of mediaeval comets, including the fiery scaffolding in the Bayeux Tapestry (public domain, from Wikipedia):&lt;/p&gt;
+&lt;p&gt;After considering jellyfish and squid as forms, I decided on a comet, with a woven PVC frame and addressable LEDs on the streamers and inside the frame, with the workshop attendees making decorative soft plastic panels to diffuse the light.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/Comete_Tapisserie_Bayeux.jpg&quot; alt=&quot;Comete_Tapisserie_Bayeux.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I used historical comets as inspiration, including the fiery scaffolding in the Bayeux Tapestry (photo public domain from Wikipedia):&lt;/p&gt;
 
-&lt;p&gt;and those in the &lt;a href=&quot;https://www.themarginalian.org/2017/01/11/kometenbuch-the-comet-book/&quot;&gt;Comet Book&lt;/a&gt;. I decided to make a comet.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20230403/Comete_Tapisserie_Bayeux.jpg&quot; alt=&quot;Comete_Tapisserie_Bayeux.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and those in the &lt;a href=&quot;https://www.themarginalian.org/2017/01/11/kometenbuch-the-comet-book/&quot;&gt;Comet Book&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Finding out about weaving with strips was more difficult than I expected. I knew people did it, but didn’t have a good way to describe what I wanted to do to Internet search engines. So I started by cutting paper strips and experimenting. Firstly bidirectional weaving:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/1_bidirectional_weaving.jpg&quot; alt=&quot;1_bidirectional_weaving.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20230403/1_bidirectional_weaving.jpg&quot; alt=&quot;1_bidirectional_weaving.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I love the 3d curve that this formed, just by gathering together the strips at each side. Tridirectional weaving turned out to be less intuitive, but You Tube helped e.g. &lt;a href=&quot;https://www.youtube.com/watch?v=3yF4YxBR7Mo&quot;&gt;this on weaving with pallet bands&lt;/a&gt;. The output is more constrained and doesn’t curve as much, but it looks as though it would make a good canopy for a jellyfish:&lt;/p&gt;
+&lt;p&gt;I love the 3d curve that this formed, just by gathering together the strips at each side. Tridirectional weaving turned out to be less intuitive, but You Tube helped e.g. &lt;a href=&quot;https://www.youtube.com/watch?v=3yF4YxBR7Mo&quot;&gt;this on weaving with pallet bands&lt;/a&gt;. The output is more constrained and doesn’t curve as much, but would make a good canopy for a jellyfish:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/2_tridirectional_weaving.jpg&quot; alt=&quot;2_tridirectional_weaving.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20230403/2_tridirectional_weaving.jpg&quot; alt=&quot;2_tridirectional_weaving.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I found this &lt;a href=&quot;https://flextiles.wordpress.com/2019/04/15/woven-balls/&quot;&gt;nice weaving blog&lt;/a&gt; by &lt;a href=&quot;https://kimwinter.co.uk/&quot;&gt;Kim Winter&lt;/a&gt;, which led me to this &lt;a href=&quot;https://www.instructables.com/10-strip-woven-ball/&quot;&gt;10 strip woven ball on Instructables&lt;/a&gt; - exactly the sort of thing I was looking for. Here’s one I made from polypropylene strips (using some of the polypropylene left over from the DoES Liverpool visor project):&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/3_10_strip_woven_ball.jpg&quot; alt=&quot;3_10_strip_woven_ball.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20230403/3_10_strip_woven_ball.jpg&quot; alt=&quot;3_10_strip_woven_ball.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I needed more help to cut the large PVC sheets into strips for a larger sphere - it was a Sunday but luckily Will was there and willing to get involved. We made this temporary jig for the bandsaw:&lt;/p&gt;
+&lt;p&gt;I needed more help to cut the large PVC sheets into strips for a larger sphere - it was a quiet Sunday at DoES Liverpool, but luckily &lt;a href=&quot;https://willrobinson.net/&quot;&gt;Will&lt;/a&gt; was there and willing to get involved. We made this temporary jig for the bandsaw:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/4_bandsaw_cutting_jig_for_PVC.jpg&quot; alt=&quot;4_bandsaw_cutting_jig_for_PVC.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20230403/4_bandsaw_cutting_jig_for_PVC.jpg&quot; alt=&quot;4_bandsaw_cutting_jig_for_PVC.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Once I had the strips I’d say it took me around 2.5 hours to put them together:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/5_PVC_woven_ball.jpg&quot; alt=&quot;5_PVC_woven_ball.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20230403/5_PVC_woven_ball.jpg&quot; alt=&quot;5_PVC_woven_ball.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Although I liked this shape it didn’t have the same rigidity as the smaller shape, which was constrained by the width of the strips, and tended to deform when lying on a desk or suspended from its top. As it happens, Julian was working on a similar problem (he says) involvinng wrapping carbon fibre around cylinders, and was able to give me the correct ratios to drill holes at the crossing points of the bands:&lt;/p&gt;
+&lt;p&gt;This came out well, but didn’t have the same rigidity as the smaller shape which was constrained by the width of the strips, and it deformed when lying on a desk or suspended from its top. As it happens, Julian was working on a similar problem (he says) involvnng wrapping carbon fibre around cylinders, and was able to give me the correct ratios to drill holes at the crossing points of the bands:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/6_ratios.jpg&quot; alt=&quot;6_ratios.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20230403/6_ratios.jpg&quot; alt=&quot;6_ratios.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I quickly laser cut some strips and made this polypropylene sphere, using brass paper fasteners to hold it together. It was much easier as the paper fasteners constrained the strips, building in the curve of the sphere - I’m hoping that this might form the basis of a lampshade making workshop. Arouhd this stage I also found out what this shape was called - it’s a &lt;a href=&quot;https://polytope.miraheze.org/wiki/Rectified_truncated_icosahedron&quot;&gt;rectified truncated icosahedron&lt;/a&gt; and in this variant the hexagons are &lt;a href=&quot;https://polytope.miraheze.org/wiki/Triambus&quot;&gt;triambi, which only have triangular symmetry&lt;/a&gt;. Useful to know as I’d been assuming they were regular hexagons and had just come out wrong!:&lt;/p&gt;
+&lt;p&gt;Using these ratios I quickly laser cut some strips and made this polypropylene sphere, using brass paper fasteners to hold it together. It was much easier as the paper fasteners constrained the strips, building in the curve of the sphere - I’m hoping that this might form the basis of a future lampshade making workshop. Around this stage I also found out what this shape was called - it’s a &lt;a href=&quot;https://polytope.miraheze.org/wiki/Rectified_truncated_icosahedron&quot;&gt;rectified truncated icosahedron&lt;/a&gt; and in this variant the hexagons are &lt;a href=&quot;https://polytope.miraheze.org/wiki/Triambus&quot;&gt;triambi, which only have triangular symmetry&lt;/a&gt;. Useful to know as I’d been assuming they were regular hexagons and had just come out wrong!:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/7_PP_ball_with_fixed_corners.jpg&quot; alt=&quot;7_PP_ball_with_fixed_corners.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20230403/7_PP_ball_with_fixed_corners.jpg&quot; alt=&quot;7_PP_ball_with_fixed_corners.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Mike brought in his table saw and we cut more strips out of this. The results weren’t quite as smooth as with the bandsaw, but it did have the advantage of portability and could be set up in a separate room, making cleaning afterwards easier (I’m relying very much on Veolia to burn the microplastics that were produced, so they don’t end up in landfill or in the sea …):&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/8_mike_using_table_saw.jpg&quot; alt=&quot;8_mike_using_table_saw.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20230403/8_mike_using_table_saw.jpg&quot; alt=&quot;8_mike_using_table_saw.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Mike and I disassembled the original PVC ball, drilled holes and put it back together again using M3 nuts and bolts, then I attached more strips of PVC as streamers. The comet was now ready for lights and diffusing plastic. Sanna came in and tried out some flame effects using the ironing technique with soft plastics, also coming up with a way to attach LED strips to the inside of the comet using some clear plastic that Mike and I had cut into strips: 
-&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/9_sanna_trying_out_flames.jpg&quot; alt=&quot;9_sanna_trying_out_flames.jpg&quot; /&gt;
-&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/10_sanna_arranging_materials_for_ironing.jpg&quot; alt=&quot;10_sanna_arranging_materials_for_ironing.jpg&quot; /&gt;
-&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/11_materials_arranged_for_ironing.jpg&quot; alt=&quot;11_materials_arranged_for_ironing.jpg&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/weeknotes_20230403/9_sanna_trying_out_flames.jpg&quot; alt=&quot;9_sanna_trying_out_flames.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/weeknotes_20230403/10_sanna_arranging_materials_for_ironing.jpg&quot; alt=&quot;10_sanna_arranging_materials_for_ironing.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/weeknotes_20230403/11_materials_arranged_for_ironing.jpg&quot; alt=&quot;11_materials_arranged_for_ironing.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;A while ago Julian had brought in a large quantity of addressable LEDs that had been salvaged by someone at the [Astral Ship] in Wales from a temporary project in London. People often buy all new electronics for projects and it feels good to be able to reuse them - they’re also fairly expensive and it’s a privelege to be able to use so many in a project like this (I’ll do my best to make sure they get used again once the comet reaches the end of its life). To control the lights I decided to use the &lt;a href=&quot;https://www.tindie.com/products/mcqn_ltd/my-babys-got-led/&quot;&gt;My Babys Got LED board&lt;/a&gt;, designed and assembled by Adrian at DoES Liverpool. It fits in well with the reuse ethos of this project as it’s been specially made to work with an old PC power supply. I had one already that I normally use to power &lt;a href=&quot;https://jackiepease.zone/weeknotes/2022/01/30/Weeknotes.html&quot;&gt;these flowers&lt;/a&gt;. Because there are a lot of LEDs in the comet, I ended up buying another one, and making a case for it from a piece of scrap wood I found in the space. Uma and Mike came in during the week and attached the LEDs to the comet and streamers:&lt;/p&gt;
+&lt;p&gt;To control the lights I decided to use the &lt;a href=&quot;https://www.tindie.com/products/mcqn_ltd/my-babys-got-led/&quot;&gt;My Babys Got LED board&lt;/a&gt;, designed and assembled by &lt;a href=&quot;https://mcqn.com/&quot;&gt;Adrian&lt;/a&gt; at DoES Liverpool. It fits in well with the reuse ethos of this project as it’s been specially made to work with an old PC power supply. I had one board already that I normally use to power &lt;a href=&quot;https://jackiepease.zone/weeknotes/2022/01/30/Weeknotes.html&quot;&gt;these flowers&lt;/a&gt;. Because there are a lot of LEDs in the comet, I ended up buying another one, and making a case for it from a piece of scrap wood I found in the space. Uma and Mike came in during the week and attached the LEDs to the comet and streamers:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/12_uma_applying_tape_for_leds.jpg&quot; alt=&quot;12_uma_applying_tape_for_leds.jpg&quot; /&gt;
-&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/13_mike_resoldering_leds.jpg&quot; alt=&quot;13_mike_resoldering_leds.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20230403/12_uma_applying_tape_for_leds.jpg&quot; alt=&quot;12_uma_applying_tape_for_leds.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/weeknotes_20230403/13_mike_resoldering_leds.jpg&quot; alt=&quot;13_mike_resoldering_leds.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Fortunately Andy from Convenience Gallery had a van as the comet has a diameter of approx. 77cm and length of approx. 2m 80cm, so didn’t seem likely to fit in my car (in any case it was full of irons and soft plastic which Arthur had brought in from Plastic Tactics workshop in Oldham place).&lt;/p&gt;
+&lt;p&gt;Fortunately Andy from Convenience Gallery had a van as the comet has a diameter of approx. 77cm and length of approx. 2m 80cm (in any case my car was full of irons and soft plastic which Arthur had brought in from the Plastic Tactics workshop in Oldham place).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/14_comet_with_streamers_and_leds.jpg&quot; alt=&quot;14_comet_with_streamers_and_leds.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20230403/14_comet_with_streamers_and_leds.jpg&quot; alt=&quot;14_comet_with_streamers_and_leds.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;With the structure completed I laser cut some templates for the surface shapes, and we were off to Pilgrim Street Arts Centre in Birkenhead, where I was ably assisted by Sanna, Uma and Anne-Marie:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/15_surface_shapes.jpg&quot; alt=&quot;15_surface_shapes.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20230403/15_surface_shapes.jpg&quot; alt=&quot;15_surface_shapes.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It was good to see that people enjoyed making panels and flames, learning about the shapes, and attaching them to the comet. They put so much originality into their work too - all the panels and flames are different:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/16_workshop_participant_with_flames.jpg&quot; alt=&quot;16_workshop_participant_with_flames.jpg&quot; /&gt;
-&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/17_workshop_with_sanna_and_anne_marie.jpg&quot; alt=&quot;17_workshop_with_sanna_and_anne_marie.jpg&quot; /&gt;
-&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/18_adding_flames_to_the_comet.jpg&quot; alt=&quot;18_adding_flames_to_the_comet.jpg&quot; /&gt;
-&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20230403/19_lit_up_comet.jpg&quot; alt=&quot;19_lit_up_comet.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20230403/16_workshop_participant_with_flames.jpg&quot; alt=&quot;16_workshop_participant_with_flames.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/weeknotes_20230403/17_workshop_with_sanna_and_anne_marie.jpg&quot; alt=&quot;17_workshop_with_sanna_and_anne_marie.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/weeknotes_20230403/18_adding_flames_to_the_comet.jpg&quot; alt=&quot;18_adding_flames_to_the_comet.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/weeknotes_20230403/19_lit_up_comet.jpg&quot; alt=&quot;19_lit_up_comet.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;All in all we had great time at the event and I was really pleased with the way the comet workshop went. Andy and Ryan did an excellent job of organising and I only wished I’d had time to join in Alison Bailey Smith’s jewellery workshop.&lt;/p&gt;
 
-&lt;p&gt;Thanks to everyone who got helped and those who participated in the event! And obviously I wouldn’t have done something like this without all the enthusiam and expertise of the &lt;a href=&quot;https://doesliverpool.com/&quot;&gt;DoeS Liverpool&lt;/a&gt; community.&lt;/p&gt;
+&lt;p&gt;Thanks to everyone who got helped and those who participated in the event! And obviously I wouldn’t have done something like this without all the enthusiasm and expertise of the &lt;a href=&quot;https://doesliverpool.com/&quot;&gt;DoeS Liverpool&lt;/a&gt; community.&lt;/p&gt;
 
 &lt;p&gt;There are still several events in &lt;a href=&quot;https://www.conveniencegallery.org/11382557-craftbar&quot;&gt;Convenience Gallery’s CRAFTBAR series of sustainable workshops&lt;/a&gt; - I recommend going if you get the chance.&lt;/p&gt;
 
