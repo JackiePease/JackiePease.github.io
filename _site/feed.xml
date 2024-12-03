@@ -3,11 +3,58 @@
   <channel>
     <title>Jackie Pease Zone</title>
     <description>Personal Website</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Apr 2023 18:10:14 +0100</pubDate>
-    <lastBuildDate>Thu, 06 Apr 2023 18:10:14 +0100</lastBuildDate>
-    <generator>Jekyll v3.9.2</generator>
+    <link>https://jackiepease.zone/</link>
+    <atom:link href="https://jackiepease.zone/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 03 Dec 2024 18:41:03 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Dec 2024 18:41:03 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Notes - Investigations into Sashiko and Kolams</title>
+        <description>&lt;p&gt;While looking into ideas for a workshop, I returned to some Kugurizashi-ish samples I’d created a while ago (&lt;a href=&quot;https://www.zenstitching.ca/blog/what-is-kuguri-sashi&quot;&gt;Kugurizashi is a form of Sashiko where designs are created by needle weaving thread through rows of running stitch)&lt;/a&gt;. This has led down a bit of a rabbit hole of looking at other forms of surface-woven embroidery, specifically Indiam Kolams, and I think I’ve learnt enough stuff that it’s worth making a list of ideas and links for the benefit of future me and perhaps others too.&lt;/p&gt;
+
+&lt;p&gt;I think my interest in all this started during lockdown, when I was trying out some of the ideas in US teacher Annie Perkins’ &lt;a href=&quot;https://arbitrarilyclosecom.wordpress.com/home/&quot;&gt;#MathArtChallenge&lt;/a&gt; which is full of interesting and accessible ideas for Math Art. After looking at &lt;a href=&quot;https://arbitrarilyclosecom.wordpress.com/2020/03/29/mathartchallenge-day-14-hitomezashi-stitching-suggested-by-katherine-seaton/&quot;&gt;these Hitomezashi grids&lt;/a&gt;, I thought this could be a way of including sun-reflecting surfaces in clothing and put together this clutch bag with other members of &lt;a href=&quot;https://plastictactics.com/&quot;&gt;Plastic Tactics&lt;/a&gt; (a CIC I’m involved in which looks at fun ways of recycling plastics).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20241202/1_PlasticClutchBag.jpg&quot; alt=&quot;Plastic Clutch Bag&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This project was created from bubble wrap and carrier bags, heat pressed together and laser cut with a grid of holes. Monster Munch packets were sliced into thin sections and twisted to form a yarn which could be sewn in and out of the holes to form a Hitomezashi pattern (one thing we found out was that sewing Monster Munch yarn through small holes hurts your hands, so we only managed to sew it in one direction in the end).&lt;/p&gt;
+
+&lt;p&gt;I also had a go at hand-sewn Sashiko at a relaxing WI class run by &lt;a href=&quot;https://www.instagram.com/sewtaylormadedesigns&quot;&gt;Liz Taylor&lt;/a&gt;, and, looking for a faster result, machine embroidering Sashiko-style patterns onto heat pressed bubble wrap using the &lt;a href=&quot;https://inkstitch.org/tutorials/autoroute_sashiko/&quot;&gt;Sashiko Inkscape extension&lt;/a&gt;, which allows you to choose from a range of traditional Sashiko stitches.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20241202/2_MachineSashiko.jpg&quot; alt=&quot;Machine-embroidered Sashiko on plastic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I loved this result, but I felt other users weren’t sure about using a shared embroidery machine with plastic - it’s a great way to get small scale Sashiko-style patterns for fabric clutch bags though.&lt;/p&gt;
+
+&lt;p&gt;Next, and fairly accidental step forward - DoES Liverpool did a &lt;a href=&quot;https://www.instagram.com/p/C6UQUM6M2Lf/&quot;&gt;Textiles Takeover at Tate Liverpool X RIBA North gallery&lt;/a&gt; earlier this year, where one of the activities was Liz’s Sashiko. There was a concern that small children would want to take part, and not be able to use sharp needles, so I laser cut some square grids from decorative card, that could be used with blunt needles. No small children took part, and the grids didn’t get used! After the event, I sewed some of them with Kuguruzashi-style stitching.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20241202/3_SashikoOnCard.jpg&quot; alt=&quot;Kuguruzashi Sashiko on card&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I used the coloured examples on birthday cards. The grey one is sewn using conductive thread and works well as a capacative touch sensor. Stitching on card doesn’t give the pillowed effect you get on fabric, but running your fingers over the raised stitches is a good tactile feeling. Having given these examples away I had to make some more for &lt;a href=&quot;https://www.instagram.com/p/DBtpzf8sJck/?img_index=1&quot;&gt;this sample accordian book&lt;/a&gt; that I made for a potential workshop next year.&lt;/p&gt;
+
+&lt;p&gt;All this Sashiko-related experimentation then led me on to Indian Kolams, which &lt;a href=&quot;https://alpaca.pubpub.org/pub/eljjyi80/release/6&quot;&gt;researchers Anu Reddy and Alex McLean had looked at sewing on to Sashiko-style grids in the same ways as Kuguruzashi&lt;/a&gt;. I feel I’ve just got started on this topic, but here’s some examples I’ve created so far.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20241202/4_KolamOnMirrorCard.jpg&quot; alt=&quot;Kolam on mirror card&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a simple Kolam woven into a Hitomezashi Sashiko grid. Kolams normally have rounded edges, but this comes out very blocky due to the grid.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20241202/5_LEDKolam.jpg&quot; alt=&quot;LED Kolam on plastic cross stitch mesh&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here I used a cheap LED strip (not quite long enough) on a plastic mesh, with cable ties to fix the Kolam in position. The result looks less blocky due to the LED strip being less flexible than the yarn in the previous example. I’d like to try this with LED noodles with light all round, although the dark patches are interesting.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20241202/6_MachineEmbroideredGrid.jpg&quot; alt=&quot;Kolam on machine-embroidered grid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Anu and Alex give instructions for producing a machine-embroidered grid &lt;a href=&quot;https://alpaca.pubpub.org/pub/eljjyi80/release/6&quot;&gt;on this page&lt;/a&gt;. Once I eventually read them I was able to produce the above grid and copied one of their examples to weave a Kolam into it. The result is very pretty and has lots of decorative potential.&lt;/p&gt;
+
+&lt;p&gt;I’m working on a completely different project this week but looking forward to getting back to some more of this, possibly including pen plots.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Dec 2024 16:00:00 +0000</pubDate>
+        <link>https://jackiepease.zone/weeknotes/2024/12/02/weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2024/12/02/weeknotes.html</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>Week Notes - Comet Workshop</title>
@@ -101,8 +148,8 @@
 
 </description>
         <pubDate>Mon, 03 Apr 2023 16:00:00 +0100</pubDate>
-        <link>http://localhost:4000/weeknotes/2023/04/03/weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2023/04/03/weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2023/04/03/weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2023/04/03/weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -149,8 +196,8 @@
 
 </description>
         <pubDate>Mon, 07 Nov 2022 20:00:00 +0000</pubDate>
-        <link>http://localhost:4000/weeknotes/2022/11/07/Weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/11/07/Weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2022/11/07/Weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/11/07/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -230,8 +277,8 @@
 &lt;p&gt;So I still want to do more LED projects…&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Oct 2022 16:00:00 +0100</pubDate>
-        <link>http://localhost:4000/weeknotes/2022/10/26/Weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/10/26/Weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2022/10/26/Weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/10/26/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -330,8 +377,8 @@
 
 </description>
         <pubDate>Sun, 01 May 2022 16:00:00 +0100</pubDate>
-        <link>http://localhost:4000/weeknotes/2022/05/01/Weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/05/01/Weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2022/05/01/Weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/05/01/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -379,8 +426,8 @@
 &lt;p&gt;Finally, last week, I used a Pico with &lt;a href=&quot;https://shop.pimoroni.com/products/pico-unicorn-pack?variant=32369501306963&quot;&gt;Pimoroni Pico Unicorn Pack&lt;/a&gt; that I already had to make this &lt;a href=&quot;https://magpi.raspberrypi.com/articles/build-a-pico-pomodoro-timer&quot;&gt;Pomodoro timer&lt;/a&gt; I saw featured in MagPi magazine. A quick and simple project and a potentially useful output - the &lt;a href=&quot;https://www.oliverburkeman.com/time&quot;&gt;Pomodoro method&lt;/a&gt; aims to improve productivity by breaking up your work time into 25 minute tranches with 5 minute breaks. I’ve attached it to my work computer and will report on any positive changes.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Mar 2022 19:00:00 +0000</pubDate>
-        <link>http://localhost:4000/weeknotes/2022/03/14/Weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/03/14/Weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2022/03/14/Weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/03/14/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -421,8 +468,8 @@
 
 </description>
         <pubDate>Mon, 14 Feb 2022 18:00:00 +0000</pubDate>
-        <link>http://localhost:4000/weeknotes/2022/02/14/Weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/02/14/Weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2022/02/14/Weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/02/14/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -476,8 +523,8 @@
 
 </description>
         <pubDate>Sun, 30 Jan 2022 18:00:00 +0000</pubDate>
-        <link>http://localhost:4000/weeknotes/2022/01/30/Weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/01/30/Weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2022/01/30/Weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/01/30/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -543,8 +590,8 @@ I’ve had to take a break from pen plotting to make progress on the Plastic Flo
 
 </description>
         <pubDate>Mon, 17 Jan 2022 18:00:00 +0000</pubDate>
-        <link>http://localhost:4000/weeknotes/2022/01/17/Weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/01/17/Weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2022/01/17/Weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/01/17/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -598,101 +645,11 @@ I’ve had to take a break from pen plotting to make progress on the Plastic Flo
 
 </description>
         <pubDate>Sun, 12 Dec 2021 23:00:00 +0000</pubDate>
-        <link>http://localhost:4000/weeknotes/2021/12/12/WeekNotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2021/12/12/WeekNotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2021/12/12/WeekNotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2021/12/12/WeekNotes.html</guid>
         
         
         <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>DrawingBotV3 - Plotting without Coding</title>
-        <description>&lt;p&gt;This is the pen plotter at DoES Liverpool. It’s an A3 laser engraver base with a penholder and servo attached. I’ve been working on it`for a while now, and have mainly been learning about p5js and using it to produce &lt;a href=&quot;https://github.com/JackiePease/p5js-sketches&quot;&gt;geometry-based patterns&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/plotter.jpg&quot; alt=&quot;plotter.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Recently I’ve been experimenting with ways people could use the plotter if they didn’t want to write code. One interesting piece of software I found is DrawingBotV3, which gives you a wide range of ways to produce interesting effects from bitmap files (inc. jpeg and png).&lt;/p&gt;
-
-&lt;p&gt;You can download the software here: &lt;a href=&quot;https://github.com/SonarSonic/DrawingBotV3&quot;&gt;DrawingBotV3&lt;/a&gt; - it’s available for Linux, Windows and Mac, and the installation instructions are in the ReadMe section at the bottom of the page.&lt;/p&gt;
-
-&lt;p&gt;Then you just need to find a photo you want to make a picture from, or create your own bitmap file. Here I’ve used Inkscape with a quote (thanks to Ross Dalziel for the quote suggestion):&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/ifyourenotangry.png&quot; alt=&quot;ifyourenotangry.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’ve used a bold font as detail is easily lost in this process, and added a background gradient so there’s something for the algorithm to pick up and so that it isn’t too uniform. I haven’t worried about the actual colours, as these will depend on the pens used when plotting.&lt;/p&gt;
-
-&lt;p&gt;Open DrawingBotV3, and from the File tab, choose “Export Settings”. For the plotter we have at DoES Liverpool you need to set the following so that the GCode (instructions sent to the machine) will lift and lower the pen and write in the right direction.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/exportsettings_speedpenuppendown.png&quot; alt=&quot;exportsettings_speedpenuppendown.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I changed the feedrate to F2000 (the default is F8000, which is likely to damage some pens, but it’s definitely worth experimenting here)
-The pen up and pen down setting will depend on the plotter you’re using. Currently I’m using M3 S40 for pen up and M3 S60 for pen down, but again this is subject to experimentation…&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/exportsettings_direction.png&quot; alt=&quot;exportsettings_direction.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The x-direction has been changed to Negative to stop the plotter sending a mirror image - this will depend on the plotter, and whatever has been set up in firmware&lt;/p&gt;
-
-&lt;p&gt;Then import your picture and set the paper size and orientation.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/ifyourenotangryimport.png&quot; alt=&quot;ifyourenotangryimport.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There’s a whole load of options you can play with. Under “Path Finding Controls” select “Path Finding Module”. In this case I picked “Sketch Lines PFM”&lt;/p&gt;
-
-&lt;p&gt;You can also choose the pen settings – they’re not going to mean much unless you’ve got the pens that the program was written for, but might be good to choose a set where it’s easy to work out which pens you’re substituting (if you choose “Special” it gives you an option of CMYK separation, which I’m intending to explore next – could mean buying some more pens…).&lt;/p&gt;
-
-&lt;p&gt;Once you’ve chosen the options you want, click “Start Plotting”, you should see a representation of the plot on your screen:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/ifyourenotangryplotted.png&quot; alt=&quot;ifyourenotangryplotted.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When you’re happy with it, choose File → Export Per/Pen → Export GCode File&lt;/p&gt;
-
-&lt;p&gt;(if you do it this way, you’ll get one file per colour. I like this as it means you don’t need to plot them all at once).&lt;/p&gt;
-
-&lt;p&gt;There are also options for saving to Inkscape, which is useful if you’ve got an Axidraw (Inkscape has its own extension for exporting to GCode).&lt;/p&gt;
-
-&lt;p&gt;I use &lt;a href=&quot;https://winder.github.io/ugs_website/download/&quot;&gt;Universal GCode Sender&lt;/a&gt; to send the GCode files to the plotter (Note: only the “Classic” version works on Linux). There are many other options though, especially if you’ve got a Windows machine…&lt;/p&gt;
-
-&lt;p&gt;Load the files in one at a time – DrawingBotV3 default is to start with the darkest – choosing appropriate pen colours and trying to start at the same point each time (I haven’t found the ideal way to do this as yet – some pen plotters have carousels or magnetic attachments that make it easy to load and unload pens).&lt;/p&gt;
-
-&lt;p&gt;This photo shows the output of just the first 2 GCode files (which are both black ink):&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/ifyourenotangry_blackphoto.jpg&quot; alt=&quot;ifyourenotangry_blackphoto.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;and this is the final result:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/ifyourenotangry_colourphoto.jpg&quot; alt=&quot;ifyourenotangry_colourphoto.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I think I prefer the black and white version though!&lt;/p&gt;
-
-&lt;p&gt;I’ve tried a few other options.&lt;/p&gt;
-
-&lt;p&gt;This is “Voronoi Triangulation”:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/voronoi_triangulation.jpg&quot; alt=&quot;voronoi_triangulation.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It does involve a lot of lifting and lowering of the pen, which is a bit noisy if you’re sharing a room, and is also likely to wear out the servo motor that does the lifting.&lt;/p&gt;
-
-&lt;p&gt;I used “Sketch Squares PFM” for this house picture from a photo:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/egerton_st_beige.jpg&quot; alt=&quot;egerton_st_beige.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;and in blue….&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/egerton_st_blue.jpg&quot; alt=&quot;egerton_st_blue.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The detail is really interesting:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/plotting_without_code/close_up_squares.jpg&quot; alt=&quot;close_up_squares.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I think DrawingBotV3 is a good starting point for pen plotting - thanks to the developers. There’s lots to experiment with in terms of input files, options within the program, and pen and paper choices, then you can go on to think about coding if that’s what you want to do.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 02 May 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blogpost/2021/05/02/DrawingBotV3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blogpost/2021/05/02/DrawingBotV3.html</guid>
-        
-        
-        <category>blogpost</category>
         
       </item>
     
