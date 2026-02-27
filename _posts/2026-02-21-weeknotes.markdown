@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Notes - 3D Printing Tools Part 2"
-date:   2026-02-27 17:00:00 +0100
+date:   2026-02-27 16:00:00 +0100
 categories: weeknotes
 ---
 
@@ -73,7 +73,7 @@ On the event day, creating the cords (and then using them as improvised skipping
 
 The Saturday was Family Day, and with several excellent Liverpool University student volunteers to provide closer supervision, we were able to get a steady stream of children making thick skipping ropes using the electric drill attachment. Here's Mark and Warren from DoES Liverpool, with their respective daughters and colourful t shirt yarn ropes:
 
-![14\_Mark\_and\_Warren.jpg](assets/weeknotes_20260221/14_Mark_and_Warren.jpg/)
+![Mark and Warren.jpg](assets/weeknotes_20260221/14_Mark_and_Warren.jpg/)
 
 ### What's next?
 
