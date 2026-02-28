@@ -83,4 +83,4 @@ I'd like to research what unwanted yarn is available and can't be used for thing
 
 I'd like to try out other materials such as plastic strips (I know you can hand twine plastic bags into "Plarn" but this has always seemed a bit labour intensive) and torn strips from unwanted fabrics like wornout sheets.
 
-Mike G was able to print hex shafts horizontally and then sand them to fit - I'll carry on using the current ones for the moment, if they're stronger, but aim to try more variations e.g. [This drill attachment version](https://www.printables.com/model/1020881-ropecord-winder) which uses metal bearings and an allen key instead of a drill bit.
+Mike G was able to print hex shafts horizontally and then sand them to fit - I'll carry on using the current hand corders for the moment, if they're stronger, but aim to try more variations e.g. [This drill attachment version](https://www.printables.com/model/1020881-ropecord-winder) which uses metal bearings and an allen key instead of a drill bit.
