@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes - 3D Printing Tools Part 1"
+title:  "Notes - 3D Printing Tools Part 1 - Lino Printing"
 date:   2026-02-20 17:00:00 +0100
 categories: weeknotes
 ---

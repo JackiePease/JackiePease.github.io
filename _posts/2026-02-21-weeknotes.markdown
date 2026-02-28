@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes - 3D Printing Tools Part 2"
+title:  "Notes - 3D Printing Tools Part 2 - Cording/Ropemaking"
 date:   2026-02-21 16:00:00 +0100
 categories: weeknotes
 ---
@@ -69,7 +69,7 @@ The suckers did come unstuck, more than I'd noticed when I was using them, so I 
 
 I had intended using unwanted yarn for the event, but it was difficult to get the quantity or colours that I wanted; I ended up ordering t shirt yarn, which is made from pre-consumer waste in the garment industry. It did vary in thickness which made some of the cords uneven and thicker than I'd wanted. If I was going to use it again I would try to get all of it in the same thickness, or cut it so that it was.
 
-On the event day, creating the cords (and then using them as improvised skipping ropes) was the part that the schoolkids liked best. Fortunately I had printed 6 hand winders - all but one of them broke as I'd been unable to get the hex shafts to fit if printed horizontally and ended up printing them standing up, meaning they were weaker than they should have been.
+On the event day, creating the cords (and then using them as improvised skipping ropes) was the part that the schoolkids liked best. Fortunately I had printed 6 hand winders - all but one of them broke. I'd been unable to get the hex shafts to fit if printed horizontally and ended up printing them standing up, meaning they were weaker than they should have been.
 
 The Saturday was Family Day, and with several excellent Liverpool University student volunteers to provide closer supervision, we were able to get a steady stream of children making thick skipping ropes using the electric drill attachment. Here's Mark and Warren from DoES Liverpool, with their respective daughters and colourful t shirt yarn ropes:
 
