@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Notes - 3D Printing Tools Part 2"
-date:   2026-02-27 16:00:00 +0100
+date:   2026-02-21 16:00:00 +0100
 categories: weeknotes
 ---
 
@@ -83,4 +83,4 @@ I'd like to research what unwanted yarn is available and can't be used for thing
 
 I'd like to try out other materials such as plastic strips (I know you can hand twine plastic bags into "Plarn" but this has always seemed a bit labour intensive) and torn strips from unwanted fabrics like wornout sheets.
 
-Mike G was able to print hex shafts horizontally and then sand them to fit - I'll carry on using the current ones for the moment,f they're stronger, but aim to try more variations e.g. [This drill attachment version](https://www.printables.com/model/1020881-ropecord-winder) which uses metal bearings and an allen key instead of a drill bit.
+Mike G was able to print hex shafts horizontally and then sand them to fit - I'll carry on using the current ones for the moment, if they're stronger, but aim to try more variations e.g. [This drill attachment version](https://www.printables.com/model/1020881-ropecord-winder) which uses metal bearings and an allen key instead of a drill bit.
