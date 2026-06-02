@@ -44,7 +44,7 @@ The data I used was from the [MLDS, or Minimum Digital Living Standard](https://
 | St Helens |                              7.12 |                                                   2.46 |                                    1.45 |                             12.50 |            39.98 |
 | Wirral    |                              7.89 |                                                   2.53 |                                    1.40 |                             13.29 |            39.98 |
 
-The category"Not having adequate equipment" is the total for all equipment types; they aren't all included here. "Failing MDLS" is the total number of households not meeting the MDLS; you can see that the values are much higher than those for equipment only, so obviously lack of skills was more important - it was more difficult to find this data though. It also looks as though some of the data here has been averaged. In general the numbers are pretty similar for each of the entities and, if I was doing this again, I might choose different areas of the country, rather than one region, with the hope of showing more differances. 
+The category "Not having adequate equipment" is the total for all equipment types; they aren't all included here. "Failing MDLS" is the total number of households not meeting the MDLS; you can see that the values are much higher than those for equipment only, so obviously lack of skills was more important - it was more difficult to find this data though. It also looks as though some of the data here has been averaged. In general the numbers are pretty similar for each of the entities and, if I was doing this again, I might choose different areas of the country, rather than one region, with the hope of showing more differances. 
 
 I assigned a colour to each of these categories too (Broadband - Off-White, Large screen devices - Light Green, Smart TV - Red, Total Equipment - Black, Total MDLS - Gold), then made a cord for each combination using two strands of crochet cotton for the area and one for the category e.g. 2 strands of Dark Green and one of Red to represent number of households with children in the Wirral who don't have adequate Smart TV access. Here's the type of cotton I used:
 
@@ -64,8 +64,6 @@ You can see that the knots used in the units and tens positions are different. I
 
 I only managed to make one complete model - who'd have known that a small model, with exactly the same number of twisted cords and knots as a larger version, would take around the same time to build! Maybe it just needs practice - Incas and modern day hair braiders could probably do it quicker.
 
-However, I did print off around several sets of the 3D printed parts, and Mike G, another member of the DoES Liverpool community, helped by printing the rest on his home 3D printer, so I was able to post the required number to Sara in Virginia.
-
-So hopefully those will get sent out with the other makes in the near future. 
+However, I did print several sets of the 3D printed parts, and Mike G, another member of the DoES Liverpool community, helped by printing the rest on his home 3D printer, so I was able to post the required number to Sara in Virginia, and hopefully they'll get sent out with the other makes soon. 
 
 If you've got any set of data with 5 categories for each of 6 areas (or 6 categories for each of 5 areas) then they might be ideal, but they could also be used as the basis for something else. [This Instagram user's Quipu-inspired interior decoration](https://www.instagram.com/arteunay/) inspires me to try something more freestyle next.
