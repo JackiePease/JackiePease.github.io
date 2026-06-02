@@ -20,7 +20,11 @@ I'd worked on a [Quipu Column](https://github.com/JackiePease/QuipuColumn) for t
 ![Quipu Column - View of Base](/assets/dhmakes_post/03_Base_Of_Quipu_Column.jpg)
 
 
-The column is made out of 3 3D-printed parts - hopefully this makes it easier to post. I also used spacer beads on the cords. The STL files for all the parts are here, in case you need to print any more for any reason:
+The column is made out of 3 3D-printed parts - hopefully this makes it easier to post:
+
+![Quipu column parts](/assets/dhmakes_post/07_Parts_Of_Quipu_Column.jpg) 
+
+I also used spacer beads on the cords. The STL files for all the parts are here, in case you need to print any more for any reason:
 
 - [Top Lace Plate](https://github.com/JackiePease/QuipuColumn/blob/main/3D_printing_and_laser_cutting_files/DHMakes/top_lace_plate.stl)
 - [Column](https://github.com/JackiePease/QuipuColumn/blob/main/3D_printing_and_laser_cutting_files/DHMakes/column.stl)
@@ -64,4 +68,4 @@ However, I did print off around several sets of the 3D printed parts, and Mike G
 
 So hopefully those will get sent out with the other makes in the near future. 
 
-If you've get any set of data with 5 categories for each of 6 areas (or 6 categories for each of 5 areas) then they might be ideal, but they could also be used as the basis for something more freeform but quipu-inspired! (this Instagram user makes some lovely interior decoration for homes and restaurants using quipus).
+If you've got any set of data with 5 categories for each of 6 areas (or 6 categories for each of 5 areas) then they might be ideal, but they could also be used as the basis for something else. [This Instagram user's Quipu-inspired interior decoration](https://www.instagram.com/arteunay/) inspires me to try something more freestyle next.
