@@ -3,11 +3,140 @@
   <channel>
     <title>Jackie Pease Zone</title>
     <description>Personal Website</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Jun 2026 00:56:14 +0100</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2026 00:56:14 +0100</lastBuildDate>
+    <link>https://jackiepease.zone/</link>
+    <atom:link href="https://jackiepease.zone/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 03 Jun 2026 01:23:29 +0100</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 01:23:29 +0100</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Notes - Mini Quipu Column for the #DHMakes Mail Art Colloaboration</title>
+        <description>&lt;h3 id=&quot;how-i-got-involved&quot;&gt;How I got involved&lt;/h3&gt;
+
+&lt;p&gt;I’d been following &lt;a href=&quot;https://bsky.app/profile/trending.bsky.app/feed/741279572&quot;&gt;Sara Arribas Colmenar on Bluesky&lt;/a&gt; since working with a University of Liverpool researcher on an (unsuccessful) proposal loosely inspired by &lt;a href=&quot;https://scholarslab.lib.virginia.edu/work/string-art-visualization-data-artist/&quot;&gt;Sara’s string art social network analysis&lt;/a&gt;. When I saw &lt;a href=&quot;https://bsky.app/profile/sararribas.bsky.social/post/3mjzld35n5s26&quot;&gt;her post about the #DHmakes Mail Art Collaboration&lt;/a&gt;, I filled in the form, enticed by the lovely pieces of art I’m hoping to receive from the other participants!&lt;/p&gt;
+
+&lt;h3 id=&quot;forward-several-weeks&quot;&gt;Forward several weeks…&lt;/h3&gt;
+
+&lt;p&gt;I’d worked on a &lt;a href=&quot;https://github.com/JackiePease/QuipuColumn&quot;&gt;Quipu Column&lt;/a&gt; for the &lt;a href=&quot;https://civicdatacooperative.com/festival-of-data/&quot;&gt;CDC Festival of Data&lt;/a&gt; in Liverpool eariier this year and decided to make a mini version of that, mainly based on the maquette for the original piece. Here’s the result (it’s about 150mm tall):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/dhmakes_post/01_Quiipu_Column.jpg&quot; alt=&quot;Quipu Column&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/dhmakes_post/02_Top_Of_Quipu_Column.jpg&quot; alt=&quot;Quipu Column - Top View&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/dhmakes_post/03_Base_Of_Quipu_Column.jpg&quot; alt=&quot;Quipu Column - View of Base&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The column is made out of 3 3D-printed parts - hopefully this makes it easier to post:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/dhmakes_post/07_Parts_Of_Quipu_Column.jpg&quot; alt=&quot;Quipu column parts&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also used spacer beads on the cords. The STL files for all the parts are here, in case you need to print any more for any reason:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/JackiePease/QuipuColumn/blob/main/3D_printing_and_laser_cutting_files/DHMakes/top_lace_plate.stl&quot;&gt;Top Lace Plate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/JackiePease/QuipuColumn/blob/main/3D_printing_and_laser_cutting_files/DHMakes/column.stl&quot;&gt;Column&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/JackiePease/QuipuColumn/blob/main/3D_printing_and_laser_cutting_files/DHMakes/bottom_lace_plate.stl&quot;&gt;Bottom Lace Plate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/JackiePease/QuipuColumn/blob/main/3D_printing_and_laser_cutting_files/DHMakes/beads.stl&quot;&gt;Bead&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It has 6 sides, one for the City of Liverpool and one each for the 5 boroughs in the Liverpool City Regions. Each was represented by a colour: Halton - Light Grey, Knowsley - Gold, Liverpool - Purple, Sefton - Sky Blue, Wirral - Dark Green (I tried to use the nearest crochet cotton colour to the official colour of each entity).&lt;/p&gt;
+
+&lt;p&gt;The data I used was from the &lt;a href=&quot;https://mdls.org.uk/&quot;&gt;MLDS, or Minimum Digital Living Standard&lt;/a&gt;, “the minimum basket of digital goods, services, and skills that households need to live and participate in the digital world” which had been developed by the team running the Festival. I chose to use data for households with children, and this is the data I ended up showing (please excuse any transcription errors in the table and the quipus!):&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Entity&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Not having adequate broadband (%)&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Not having adequate number of large screen devices (%)&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Not having adequate Smart TV access (%)&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Not having adequate equipment (%)&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Failing MDLS (%)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Halton&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;5.85&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2.64&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1.83&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;12.34&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;40.63&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Knowsley&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;6.03&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2.60&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1.79&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;12.51&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;40.55&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Liverpool&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;5.78&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3.64&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2.64&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;14.31&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;38.93&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sefton&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;7.63&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2.43&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1.57&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;13.32&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;39.68&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;St Helens&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;7.12&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2.46&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1.45&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;12.50&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;39.98&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wirral&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;7.89&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2.53&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1.40&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;13.29&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;39.98&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The category “Not having adequate equipment” is the total for all equipment types; they aren’t all included here. “Failing MDLS” is the total number of households not meeting the MDLS; you can see that the values are much higher than those for equipment only, so obviously lack of skills was more important - it was more difficult to find this data though. It also looks as though some of the data here has been averaged. In general the numbers are pretty similar for each of the entities and, if I was doing this again, I might choose different areas of the country, rather than one region, with the hope of showing more differances.&lt;/p&gt;
+
+&lt;p&gt;I assigned a colour to each of these categories too (Broadband - Off-White, Large screen devices - Light Green, Smart TV - Red, Total Equipment - Black, Total MDLS - Gold), then made a cord for each combination using two strands of crochet cotton for the area and one for the category e.g. 2 strands of Dark Green and one of Red to represent number of households with children in the Wirral who don’t have adequate Smart TV access. Here’s the type of cotton I used:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/dhmakes_post/04_Crochet_Cotton.jpg&quot; alt=&quot;Crochet Cotton&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I used a &lt;a href=&quot;https://www.printables.com/model/559853-cord-maker&quot;&gt;3D-printed drill attachment&lt;/a&gt; to twist the cotton, although you can twist it by hand or use an electric hair braider if you have one.&lt;/p&gt;
+
+&lt;p&gt;I then made knots in each cord to represent the percentages, using the Quipu knotting system, an information recording method used by several South American Cultures (I had originally intended to create bar chart style patterns, but was easily persuaded by Quipu, especially as the Inca Empire had managed to collect their taxes using a Quipu database!). Here are the knots I used:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/dhmakes_post/05_Quipu_Knots.jpg&quot; alt=&quot;Quipu Knots&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can see that the knots used in the units and tens positions are different. I’m not sure if Inca tax collectors had to count half fields or llamas, but I’ve used the same knots for places after the decimal point as I have for units. I’ve also used 3D printed beads as spacers between places, as my work wasn’t very clear when there were zeros in the numbers - that might be a skill thing, as I had to do it in the large column too.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.lafavre.us/plantmasters/quipu-lesson.pdf&quot;&gt;This page&lt;/a&gt; gives a good introduction to twisting and knotting, using a different twisting tool.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-acheived&quot;&gt;What I acheived&lt;/h3&gt;
+
+&lt;p&gt;I only managed to make one complete model - who’d have known that a small model, with exactly the same number of twisted cords and knots as a larger version, would take around the same time to build! Maybe it just needs practice - Incas and modern day hair braiders could probably do it quicker.&lt;/p&gt;
+
+&lt;p&gt;However, I did print several sets of the 3D printed parts, and Mike G, another member of the DoES Liverpool community, helped by printing the rest on his home 3D printer, so I was able to post the required number to Sara in Virginia, and hopefully they’ll get sent out with the other makes soon.&lt;/p&gt;
+
+&lt;p&gt;If you’ve got any set of data with 5 categories for each of 6 areas (or 6 categories for each of 5 areas) then they might be ideal, but they could also be used as the basis for something else. &lt;a href=&quot;https://www.instagram.com/arteunay/&quot;&gt;This Instagram user’s Quipu-inspired interior decoration&lt;/a&gt; inspires me to try something more freestyle next.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Jun 2026 18:00:00 +0100</pubDate>
+        <link>https://jackiepease.zone/weeknotes/2026/06/02/dhmakes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2026/06/02/dhmakes.html</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>Notes - 3D Printing Tools Part 2 - Cording/Ropemaking</title>
@@ -92,8 +221,8 @@
 &lt;p&gt;Mike G was able to print hex shafts horizontally and then sand them to fit - I’ll carry on using the current hand corders for the moment, if they’re stronger, but aim to try more variations e.g. &lt;a href=&quot;https://www.printables.com/model/1020881-ropecord-winder&quot;&gt;This drill attachment version&lt;/a&gt; which uses metal bearings and an allen key instead of a drill bit.&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 Feb 2026 15:00:00 +0000</pubDate>
-        <link>http://localhost:4000/weeknotes/2026/02/21/weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2026/02/21/weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2026/02/21/weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2026/02/21/weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -173,8 +302,8 @@
 
 </description>
         <pubDate>Fri, 20 Feb 2026 16:00:00 +0000</pubDate>
-        <link>http://localhost:4000/weeknotes/2026/02/20/weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2026/02/20/weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2026/02/20/weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2026/02/20/weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -220,8 +349,8 @@
 &lt;p&gt;I’m working on a completely different project this week but looking forward to getting back to some more of this, possibly including pen plots.&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Dec 2024 16:00:00 +0000</pubDate>
-        <link>http://localhost:4000/weeknotes/2024/12/02/weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2024/12/02/weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2024/12/02/weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2024/12/02/weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -320,8 +449,8 @@
 
 </description>
         <pubDate>Mon, 03 Apr 2023 16:00:00 +0100</pubDate>
-        <link>http://localhost:4000/weeknotes/2023/04/03/weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2023/04/03/weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2023/04/03/weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2023/04/03/weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -368,8 +497,8 @@
 
 </description>
         <pubDate>Mon, 07 Nov 2022 20:00:00 +0000</pubDate>
-        <link>http://localhost:4000/weeknotes/2022/11/07/Weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/11/07/Weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2022/11/07/Weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/11/07/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -449,8 +578,8 @@
 &lt;p&gt;So I still want to do more LED projects…&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Oct 2022 16:00:00 +0100</pubDate>
-        <link>http://localhost:4000/weeknotes/2022/10/26/Weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/10/26/Weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2022/10/26/Weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/10/26/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -549,8 +678,8 @@
 
 </description>
         <pubDate>Sun, 01 May 2022 16:00:00 +0100</pubDate>
-        <link>http://localhost:4000/weeknotes/2022/05/01/Weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/05/01/Weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2022/05/01/Weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/05/01/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -598,8 +727,8 @@
 &lt;p&gt;Finally, last week, I used a Pico with &lt;a href=&quot;https://shop.pimoroni.com/products/pico-unicorn-pack?variant=32369501306963&quot;&gt;Pimoroni Pico Unicorn Pack&lt;/a&gt; that I already had to make this &lt;a href=&quot;https://magpi.raspberrypi.com/articles/build-a-pico-pomodoro-timer&quot;&gt;Pomodoro timer&lt;/a&gt; I saw featured in MagPi magazine. A quick and simple project and a potentially useful output - the &lt;a href=&quot;https://www.oliverburkeman.com/time&quot;&gt;Pomodoro method&lt;/a&gt; aims to improve productivity by breaking up your work time into 25 minute tranches with 5 minute breaks. I’ve attached it to my work computer and will report on any positive changes.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Mar 2022 19:00:00 +0000</pubDate>
-        <link>http://localhost:4000/weeknotes/2022/03/14/Weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/03/14/Weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2022/03/14/Weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/03/14/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -640,63 +769,8 @@
 
 </description>
         <pubDate>Mon, 14 Feb 2022 18:00:00 +0000</pubDate>
-        <link>http://localhost:4000/weeknotes/2022/02/14/Weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/02/14/Weeknotes.html</guid>
-        
-        
-        <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Fortnight Notes - More on Plastic Flowers</title>
-        <description>&lt;p&gt;At the time of my last blog post, the Plastic Flowers had been carefully positioned in the base grid, a difficult job as they’re pretty fragile, so thanks again Sanna!:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/fortnightnotes_20220130/flower_stand_with_wires.jpg&quot; alt=&quot;flower_stand_with_wires.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As you can see, that still left a lot of wiring to be done. Mike G again volunteered to help with this, a task which apparently made him feel nostalgic for his time wiring up telephone exchanges:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/fortnightnotes_20220130/mike_working_on_flower_electronics.jpg&quot; alt=&quot;mike_working_on_flower_electronics.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We also made a box to hold the &lt;a href=&quot;https://www.tindie.com/products/mcqn_ltd/my-babys-got-led/&quot;&gt;My Baby’s Got LED board&lt;/a&gt; and the PC power supply it runs off, based on one Arthur made for the &lt;a href=&quot;https://mcqn.com/posts/weeks-821-822-questioning-a-mastodon-+-boxing-a-liver-bird/&quot;&gt;Electric Liver Bird&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/fortnightnotes_20220130/power_supply_box.jpg&quot; alt=&quot;power_supply_box.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The My Baby’s Got LED board lets you easily set up addressable LEDs to be controlled by &lt;a href=&quot;https://kno.wled.ge/&quot;&gt;WLED software&lt;/a&gt;. You can run WLED from a phone app over Wifi, so once it was set up, it didn’t take much to try out different effects:&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Afternoon spent wiring up the LEDs on my &lt;a href=&quot;https://twitter.com/hashtag/plasticflowers?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#plasticflowers&lt;/a&gt; with Mike G at &lt;a href=&quot;https://twitter.com/plastacs?ref_src=twsrc%5Etfw&quot;&gt;@plastacs&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/plasticplaygroup?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#plasticplaygroup&lt;/a&gt; &lt;a href=&quot;https://twitter.com/DoESLiverpool?ref_src=twsrc%5Etfw&quot;&gt;@doesliverpool&lt;/a&gt; &lt;br /&gt;They all seem to work - just the back to tidy up now and make a box for the power supply&lt;a href=&quot;https://twitter.com/hashtag/wled?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#wled&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ws2812?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#ws2812&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/mybabysgotledboard?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#mybabysgotledboard&lt;/a&gt;&lt;a href=&quot;https://twitter.com/hashtag/weeknotes?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#weeknotes&lt;/a&gt; &lt;a href=&quot;https://t.co/xLWVUJ5Wli&quot;&gt;pic.twitter.com/xLWVUJ5Wli&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Pease (@jackie_pease) &lt;a href=&quot;https://twitter.com/jackie_pease/status/1485331378178777092?ref_src=twsrc%5Etfw&quot;&gt;January 23, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/fortnightnotes_20220130/flowers_in_various_colours.jpg&quot; alt=&quot;flowers_in_various_colours.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/fortnightnotes_20220130/flowers_in_white.jpg&quot; alt=&quot;flowers_in_white.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Left to do:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Update the My Baby’s Got LED board to the latest version of the WLED software (I’ve had it for a while now, and a lots happened with WLED in the meantime). This will let me set up the flowers as a 8 x 45 grid (there are 8 LEDs in each flower), so that each flower can be a different colour&lt;/li&gt;
-  &lt;li&gt;Look into the sound reactive option in WLED as well, so that the flowers can react to music&lt;/li&gt;
-  &lt;li&gt;Mike has suggested redoing the cables from the vase to the power supply in white so that they don’t show up against white table cloths at events (it seems like they might be the sort of think people would want to use at events, and you could even get them to match your bridesmaids’ dresses if you wanted…).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In other news, the paper I ordered at the end of December eventually arrived (after a complaint), and Ed at DoES Liverpool lent me some lovely old technical pens, so I did some more experimenting with pen and paper options for the pen plotter. One of the pens was 2mm, so puts down a lot of ink, meaning that the paper stays quite damp. This seemed like a good test.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.greatart.co.uk/fabriano-bristol-paper.html&quot;&gt;Bristol board&lt;/a&gt; didn’t really stand up to the task, with quite large areas of damaged paper:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/fortnightnotes_20220130/bristol_board.jpg&quot; alt=&quot;bristol_board.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.greatart.co.uk/fabriano-disegno-4-drawing-paper.html&quot;&gt;Fabriano Disegno 4 drawing paper&lt;/a&gt;, marketed as “extremely resistant to erasing, scratches and scrapes”, unsurprisingly did a lot better, with only small areas where the surface was slightly damaged:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/fortnightnotes_20220130/disegno_4.jpg&quot; alt=&quot;disegno_4.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’d definitely recommend the Disegno 4, and I won’t give up on the Bristol board yet either; it seems to be what everyone in the pen plotter community uses so I’m sure I’ll be able to find out what works with it. The overlapping lines from the thicker pen, and even the ink-saturated and scratched surface are things I’ll look at using again too.&lt;/p&gt;
-
-&lt;p&gt;While I was doing these experiments, Pablo, a new member of the DoES Liverpool community, came over to take a look at the pen plotter, and has some ideas on reducing the amount of wobble in the lines. So that’s what we’re going to be looking at next Sunday afternoon - and hopefully I’ll have some excellent new pen plots for my next WeekNotes.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 30 Jan 2022 18:00:00 +0000</pubDate>
-        <link>http://localhost:4000/weeknotes/2022/01/30/Weeknotes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/01/30/Weeknotes.html</guid>
+        <link>https://jackiepease.zone/weeknotes/2022/02/14/Weeknotes.html</link>
+        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/02/14/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
