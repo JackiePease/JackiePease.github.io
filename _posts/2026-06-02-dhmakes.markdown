@@ -5,15 +5,13 @@ date:   2026-06-02 18:00:00 +0100
 categories: weeknotes
 ---
 
-### How I got involved
-
 I'd been following [Sara Arribas Colmenar on Bluesky](https://bsky.app/profile/trending.bsky.app/feed/741279572) since working with a University of Liverpool researcher on an (unsuccessful) proposal loosely inspired by [Sara's string art social network analysis](https://scholarslab.lib.virginia.edu/work/string-art-visualization-data-artist/). When I saw [her post about the #DHmakes Mail Art Collaboration](https://bsky.app/profile/sararribas.bsky.social/post/3mjzld35n5s26), I filled in the form, enticed by the lovely pieces of art I'm hoping to receive from the other participants! 
 
 ### Forward several weeks...
 
 I'd worked on a [Quipu Column](https://github.com/JackiePease/QuipuColumn) for the [CDC Festival of Data](https://civicdatacooperative.com/festival-of-data/) in Liverpool eariier this year and decided to make a mini version of that, mainly based on the maquette for the original piece. Here's the result (it's about 150mm tall): 
 
-![Quipu Column](/assets/dhmakes_post/01_Quiipu_Column.jpg)
+![Quipu Column](/assets/dhmakes_post/01_Quipu_Column.jpg)
 
 ![Quipu Column - Top View](/assets/dhmakes_post/02_Top_Of_Quipu_Column.jpg)
 
@@ -66,4 +64,4 @@ I only managed to make one complete model - who'd have known that a small model,
 
 However, I did print several sets of the 3D printed parts, and Mike G, another member of the DoES Liverpool community, helped by printing the rest on his home 3D printer, so I was able to post the required number to Sara in Virginia, and hopefully they'll get sent out with the other makes soon. 
 
-If you've got any set of data with 5 categories for each of 6 areas (or 6 categories for each of 5 areas) then they might be ideal, but they could also be used as the basis for something else. [This Instagram user's Quipu-inspired interior decoration](https://www.instagram.com/arteunay/) inspires me to try something more freestyle next.
+If you've got any sets of data with 5 categories for each of 6 areas (or 6 categories for each of 5 areas) then this column might work for you, but it could also be used as the basis for something else. [This Instagram user's Quipu-inspired interior decoration](https://www.instagram.com/arteunay/) inspires me to try something more freestyle next.
