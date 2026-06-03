@@ -3,11 +3,183 @@
   <channel>
     <title>Jackie Pease Zone</title>
     <description>Personal Website</description>
-    <link>https://jackiepease.zone/</link>
-    <atom:link href="https://jackiepease.zone/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Dec 2024 18:41:03 +0000</pubDate>
-    <lastBuildDate>Tue, 03 Dec 2024 18:41:03 +0000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 03 Jun 2026 00:48:43 +0100</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 00:48:43 +0100</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Notes - 3D Printing Tools Part 2 - Cording/Ropemaking</title>
+        <description>&lt;p&gt;More on 3D printing tools for other tasks - this time for cording/ropemaking.&lt;/p&gt;
+
+&lt;p&gt;Why did I need to do this?&lt;/p&gt;
+
+&lt;p&gt;Late last year I put in a proposal for a data art project. I had recently run a &lt;a href=&quot;https://does.social/@braidbunch/115207823019710613&quot;&gt;Japanese braiding / Kumihimo workshop&lt;/a&gt; with Jake T, another member of the DoES Liverpool community, and I thought this could be a good way to show data — for example by including horizontal bars in the braids, like bar charts. We’d already used 3D printing and laser cutting to produce Kumihimo disks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260221/01_Kumihimo_disk.jpg&quot; alt=&quot;Disk used in Kumihimo Braiding&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, once the project started, one of the organisers told me about &lt;a href=&quot;https://en.wikipedia.org/wiki/Quipu&quot;&gt;a system of knots and cords, called Quipu&lt;/a&gt;, used for record keeping by various South American cultures, including the Inca empire. This seemed made for the job, so I moved to using that.&lt;/p&gt;
+
+&lt;p&gt;My first step was to 3D print a small maquette, and to attach twisted cords, each made up of 2 colours — one representing place, and one the type of data collected.&lt;/p&gt;
+
+&lt;p&gt;I set to work twisting cotton yarn by hand (see “Making the Primary Cord” in &lt;a href=&quot;https://www.lafavre.us/plantmasters/quipu-lesson.pdf&quot;&gt;the Lafavre guide&lt;/a&gt;), quickly realising that this wasn’t going to be a practical method for the project — either for me or the 10 - 11 year olds who would be creating the final cords with data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260221/03_Maquette_with_cords.jpg&quot; alt=&quot;Maquette with cords&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are actually quite a lot of options around, including hair braiders, &lt;a href=&quot;https://123stitch.com/item/Kreinik-Custom-Corder/CC-016726&quot;&gt;embroidery and jewellery corders&lt;/a&gt;, and even &lt;a href=&quot;https://stitchdiva.com/pages/how-to-make-twisted-cord&quot;&gt;using an electric mixer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I knew there would be 3D printed versions and soon found this 4 hook drill attachment by &lt;a href=&quot;https://www.printables.com/@DreamingRobots&quot;&gt;@dreamingrobots&lt;/a&gt;, with a useful how-to video, on &lt;a href=&quot;https://www.printables.com&quot;&gt;Printables&lt;/a&gt;. I printed it, and put it together with the addition of some cheap cup hooks from the local hardware store, and grease to reduce friction.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260221/04_Drill_1st_attempt.jpg&quot; alt=&quot;Drill attachment&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I used some of these suckers, which a member of the DoES Liverpool community had donated a while ago, to hold the other end of the yarn.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260221/05_Suckers.jpg&quot; alt=&quot;Suckers&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It worked excellently and produced a small number of really nice cords, before jamming and never working again.&lt;/p&gt;
+
+&lt;p&gt;Hint: don’t use PLA for fastish moving parts as it has a low melting point.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260221/06_Melted_gears.jpg&quot; alt=&quot;Melted gears&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I printed another attachment, this time using PETG and &lt;a href=&quot;https://www.printables.com/model/800277-chamfered-dreaming-robots-cord-maker/files&quot;&gt;a remix of the original files with added chamfers “to make them work better”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260221/07_PETG_drill.jpg&quot; alt=&quot;Drill attachment made from_PETG&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and tried it out on various materials for potential use in my project:&lt;/p&gt;
+
+&lt;p&gt;This is a quipu in corded crochet cotton, reading “2026” (if you can’t wait until my next post, &lt;a href=&quot;https://www.lafavre.us/plantmasters/quipu-lesson.pdf&quot;&gt;there are some simple instructions on creating Quipus on the Lafavre website&lt;/a&gt;):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260221/09_Quipu_2026.jpg&quot; alt=&quot;Quipu representing the number_2026&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cording with thick strips of stretch polyester jersey (donated by Sanna King of Circular Arts Network LCR) created lovely tactile and colourful pieces):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260221/08_Jersey_strips.jpg&quot; alt=&quot;Corded jersey strips&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This one was with wool:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260221/10_Wool.jpg&quot; alt=&quot;Wool&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Following this experimentation, I thought it might be safer to have hand wound cord winders when dealing with a large group of school children, and &lt;a href=&quot;https://www.printables.com/model/759770-fringe-twister&quot;&gt;printed several of these&lt;/a&gt; - also a remix of the Dreaming Robots version.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260221/11_Handwinder.jpg&quot; alt=&quot;Hand winder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I tested them on two 10 year olds who came along to a DoES Liverpool Maker Day, improvising a Rope Walk between 2 desks; neither took too long to create a cord.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260221/12_rope_walk.jpg&quot; alt=&quot;Rope walk&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The suckers did come unstuck, more than I’d noticed when I was using them, so I screwed them on to pieces of wood and ordered some plastic clamps to attach them to desks:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260221/13_End_winders.jpg&quot; alt=&quot;End_winders&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I had intended using unwanted yarn for the event, but it was difficult to get the quantity or colours that I wanted; I ended up ordering t shirt yarn, which is made from pre-consumer waste in the garment industry. It did vary in thickness which made some of the cords uneven and thicker than I’d wanted. If I was going to use it again I would try to get all of it in the same thickness, or cut it so that it was.&lt;/p&gt;
+
+&lt;p&gt;On the event day, creating the cords (and then using them as improvised skipping ropes) was the part that the schoolkids liked best. Fortunately I had printed 6 hand winders - all but one of them broke. I’d been unable to get the hex shafts to fit if printed horizontally and ended up printing them standing up, meaning they were weaker than they should have been.&lt;/p&gt;
+
+&lt;p&gt;The Saturday was Family Day, and with several excellent Liverpool University student volunteers to provide closer supervision, we were able to get a steady stream of children making thick skipping ropes using the electric drill attachment. Here’s Mark and Warren from DoES Liverpool, with their respective daughters and colourful t shirt yarn ropes:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260221/14_Mark_and_Warren.jpg&quot; alt=&quot;Mark and Warren.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h3&gt;
+
+&lt;p&gt;Ropemaking seems like a really enjoyable activity for all ages; I’m hoping to run more workshops on it (and possibly Quipu too!).&lt;/p&gt;
+
+&lt;p&gt;I’d like to research what unwanted yarn is available and can’t be used for things like clothing e.g. carpet wool, which is rough and, prior to cording, not very strong.&lt;/p&gt;
+
+&lt;p&gt;I’d like to try out other materials such as plastic strips (I know you can hand twine plastic bags into “Plarn” but this has always seemed a bit labour intensive) and torn strips from unwanted fabrics like wornout sheets.&lt;/p&gt;
+
+&lt;p&gt;Mike G was able to print hex shafts horizontally and then sand them to fit - I’ll carry on using the current hand corders for the moment, if they’re stronger, but aim to try more variations e.g. &lt;a href=&quot;https://www.printables.com/model/1020881-ropecord-winder&quot;&gt;This drill attachment version&lt;/a&gt; which uses metal bearings and an allen key instead of a drill bit.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Feb 2026 15:00:00 +0000</pubDate>
+        <link>http://localhost:4000/weeknotes/2026/02/21/weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2026/02/21/weeknotes.html</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
+    
+      <item>
+        <title>Notes - 3D Printing Tools Part 1 - Lino Printing</title>
+        <description>&lt;p&gt;I’ve found myself doing a lot of 3D printing lately, partly due to the &lt;a href=&quot;https://3d360printer.co.uk/&quot;&gt;3D printer course&lt;/a&gt; I’m currently taking, but mostly to the fast and reliable &lt;a href=&quot;https://github.com/DoESLiverpool/somebody-should/wiki/Bambu-A1-Mini-3D-printer-Bambi&quot;&gt;Bambu A1 mini 3D printer&lt;/a&gt; that Chris Thompson bought for the space on Black Friday last year - thanks Chris!&lt;/p&gt;
+
+&lt;p&gt;Some of what I’ve been printing has been parts for finished pieces, but I’ve also been experimenting with 3D printed tools, particularly for linoprinting and cord making. This post focuses on linoprinting - I’ll share more about the cord-making experiments in Part 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260220/0_Bambu_A1_mini.jpg&quot; alt=&quot;Bambu A1 mini 3D printer at DoES Liverpool&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I started by looking for a brayer holder, and found &lt;a href=&quot;https://www.printables.com/model/717039-speedball-brayer-holder&quot;&gt;this one&lt;/a&gt; by &lt;a href=&quot;https://www.printables.com/@PeteProdoehl&quot;&gt;Pete Proedoehl&lt;/a&gt;. The overall idea was great, but the proportions and weight weren’t quite right for the brayers I wanted to store, so I adapted the design in Onshape. I’m using this at the moment and will probably tweak it a bit further once I’ve used it for a while.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260220/1_brayer_holder.png&quot; alt=&quot;CAD software showing Brayer Holder Design&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While browsing, I also came across &lt;a href=&quot;https://www.printables.com/model/770479-printmaking-registration-pins&quot;&gt;these registration pins from the same designer&lt;/a&gt;. Registration pins are typically used to ensure that different colour layers in a multicolour print - whether reduction or multiblock - align accurately.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hickmandesign.co.uk/buy/equipment/registration-pins-for-printmaking/&quot;&gt;Metal registration pins similar to this are fairly expensive&lt;/a&gt;, so it felt like a perfect opportunity to see how well 3D-printed versions would perform.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260220/2_registration_pins.jpg&quot; alt=&quot;Registration pins&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I laser cut some frames similar to the ones I normally use and taped the printed registration pins to them to create a quick test setup.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260220/3_registration_pins_and_board.jpg&quot; alt=&quot;Registration pins and board&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Having now found two useful 3D print designs by Pete Proedoehl, I took a look at &lt;a href=&quot;https://rasterweb.net/raster&quot;&gt;his blog&lt;/a&gt;, which goes all the way back to 1997 and covers a wide range of maker projects, including both 2D and 3D printing. There’s &lt;a href=&quot;https://rasterweb.net/raster/2024/02/18/printmaking-registration-pins/&quot;&gt;a post about the registration pins here&lt;/a&gt;, along with two posts about using a 3D printer to produce relief-style plates:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rasterweb.net/raster/2024/01/28/3d-printed-printing-plates/&quot;&gt;3D Printed Printing Plates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rasterweb.net/raster/2024/11/12/lino-style-relief-print/&quot;&gt;Lino-Style Relief Print&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Using a 3D printer in this way really appealed to me - especially as a quick method for testing the registration pins in practice.&lt;/p&gt;
+
+&lt;p&gt;As it was just before Xmas, I quickly created an SVG file for a simple design that could potentially be printed onto a bauble. I printed plates for three layers, used the ironing function in Bambu Studio to smooth the top surfaces, and lightly sanded them afterwards to improve the finish.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260220/4_3D_printed_plates.jpg&quot; alt=&quot;3D Printed Plates&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, I’d misaligned one of the plates during preparation, so the layers didn’t line up properly - even with the registration pins. Here’s one of the better attempts, aligned by eye as carefully as I could manage:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260220/5_first_3D_print.jpg&quot; alt=&quot;First Attempt at printing from the plates&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Not bad, considering I was using some fairly random inks from Søstrene Grene and the printing cupboard at DoES Liverpool - but not really a good test.&lt;/p&gt;
+
+&lt;p&gt;I then took a trip into town and bought some Calligo Safe Wash inks from Vicki at Cass Art in what I hoped were suitably festive colours: Light Orange, Rubin Red, and Phthalo Green. The project then went on hold while I looked after Xmas guests and worked on a paid project (more on that in a separate post).&lt;/p&gt;
+
+&lt;p&gt;Fast forward to mid February, and I was finally able to complete a proper test. The Calligo inks were excellent - strong, vibrant colours and beautifully smooth to roll out. They did take slightly longer to dry and were a bit more involved to clean up than the water-based inks I usually use, but the print quality made it worthwhile.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260220/6_calligo_safewash.jpg&quot; alt=&quot;Oil based Calligo Safewash ink&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I printed each layer one at a time, leaving roughly two days between layers to allow them to dry. To apply pressure, I used the heatpress at DoES Liverpool, an improvised solution but one which gives more consistent results than hand burnishing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260220/7_using_the_heatpress.jpg&quot; alt=&quot;Using the heatpress&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also experimented with printing onto T-shirt material - following &lt;a href=&quot;https://www.cranfield-colours.co.uk/wp-content/uploads/2022/01/Cranfield_CaligoRelief_FabricPrinting_Guide.pdf&quot;&gt;the instructions on the Cranfield website&lt;/a&gt;. I’m definitely planning to explore this further.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260220/8_printing_on_jersey.jpg&quot; alt=&quot;Printing on jersey&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Even with the registration pins, some prints were still slightly misaligned. Next time, I’ll add an arrow to the plates to make sure they’re always oriented the same way up. I may also take advantage of the 3D printing process to hold the plates in place in the same way as the paper.&lt;/p&gt;
+
+&lt;p&gt;This was my best result, printed on thin card:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260220/10_best_output.jpg&quot; alt=&quot;Best output&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And here’s a misaligned print on rice paper, where the textured surface prevented the ink from reaching all the lower areas:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/weeknotes_20260220/11_offset_on_rice_paper.jpg&quot; alt=&quot;Output on rice paper with misaligned layers&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The final (outline) layer looks slightly uneven, probably due to minor surface inconsistencies in the 3D print, even after ironing and sanding. In this case I actually like the effect - it has a slightly medieval, woodcut quality - but I’ll experiment further to see how much I can refine the finish.&lt;/p&gt;
+
+&lt;p&gt;Overall, this has been a really fun set of experiments. 3D printing has been around for a long time and people have tried and shared a lot of ideas and print files, which are easy to adapt to your own needs.&lt;/p&gt;
+
+&lt;p&gt;I’m looking forward to having another go soon - perhaps with a more complex design, or a simple repeat pattern for a T-shirt.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 20 Feb 2026 16:00:00 +0000</pubDate>
+        <link>http://localhost:4000/weeknotes/2026/02/20/weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2026/02/20/weeknotes.html</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>Notes - Investigations into Sashiko and Kolams</title>
@@ -48,8 +220,8 @@
 &lt;p&gt;I’m working on a completely different project this week but looking forward to getting back to some more of this, possibly including pen plots.&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Dec 2024 16:00:00 +0000</pubDate>
-        <link>https://jackiepease.zone/weeknotes/2024/12/02/weeknotes.html</link>
-        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2024/12/02/weeknotes.html</guid>
+        <link>http://localhost:4000/weeknotes/2024/12/02/weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2024/12/02/weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -148,8 +320,8 @@
 
 </description>
         <pubDate>Mon, 03 Apr 2023 16:00:00 +0100</pubDate>
-        <link>https://jackiepease.zone/weeknotes/2023/04/03/weeknotes.html</link>
-        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2023/04/03/weeknotes.html</guid>
+        <link>http://localhost:4000/weeknotes/2023/04/03/weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2023/04/03/weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -196,8 +368,8 @@
 
 </description>
         <pubDate>Mon, 07 Nov 2022 20:00:00 +0000</pubDate>
-        <link>https://jackiepease.zone/weeknotes/2022/11/07/Weeknotes.html</link>
-        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/11/07/Weeknotes.html</guid>
+        <link>http://localhost:4000/weeknotes/2022/11/07/Weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/11/07/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -277,8 +449,8 @@
 &lt;p&gt;So I still want to do more LED projects…&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Oct 2022 16:00:00 +0100</pubDate>
-        <link>https://jackiepease.zone/weeknotes/2022/10/26/Weeknotes.html</link>
-        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/10/26/Weeknotes.html</guid>
+        <link>http://localhost:4000/weeknotes/2022/10/26/Weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/10/26/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -377,8 +549,8 @@
 
 </description>
         <pubDate>Sun, 01 May 2022 16:00:00 +0100</pubDate>
-        <link>https://jackiepease.zone/weeknotes/2022/05/01/Weeknotes.html</link>
-        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/05/01/Weeknotes.html</guid>
+        <link>http://localhost:4000/weeknotes/2022/05/01/Weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/05/01/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -426,8 +598,8 @@
 &lt;p&gt;Finally, last week, I used a Pico with &lt;a href=&quot;https://shop.pimoroni.com/products/pico-unicorn-pack?variant=32369501306963&quot;&gt;Pimoroni Pico Unicorn Pack&lt;/a&gt; that I already had to make this &lt;a href=&quot;https://magpi.raspberrypi.com/articles/build-a-pico-pomodoro-timer&quot;&gt;Pomodoro timer&lt;/a&gt; I saw featured in MagPi magazine. A quick and simple project and a potentially useful output - the &lt;a href=&quot;https://www.oliverburkeman.com/time&quot;&gt;Pomodoro method&lt;/a&gt; aims to improve productivity by breaking up your work time into 25 minute tranches with 5 minute breaks. I’ve attached it to my work computer and will report on any positive changes.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Mar 2022 19:00:00 +0000</pubDate>
-        <link>https://jackiepease.zone/weeknotes/2022/03/14/Weeknotes.html</link>
-        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/03/14/Weeknotes.html</guid>
+        <link>http://localhost:4000/weeknotes/2022/03/14/Weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/03/14/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -468,8 +640,8 @@
 
 </description>
         <pubDate>Mon, 14 Feb 2022 18:00:00 +0000</pubDate>
-        <link>https://jackiepease.zone/weeknotes/2022/02/14/Weeknotes.html</link>
-        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/02/14/Weeknotes.html</guid>
+        <link>http://localhost:4000/weeknotes/2022/02/14/Weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/02/14/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
@@ -523,130 +695,8 @@
 
 </description>
         <pubDate>Sun, 30 Jan 2022 18:00:00 +0000</pubDate>
-        <link>https://jackiepease.zone/weeknotes/2022/01/30/Weeknotes.html</link>
-        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/01/30/Weeknotes.html</guid>
-        
-        
-        <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Month Notes - Progress with the Plastic Flowers</title>
-        <description>&lt;p&gt;I thought I’d slightly sabotaged my pen plotting project recently by getting qualms about the number of disposable pens I was getting through, but trying out various reusable alternatives instead is proving just as interesting. I’ve done more with the Rotring technical pens and Lamy fountain pens which I had already, and I’ve bought &lt;a href=&quot;https://www.cultpens.com/i/q/PL01289/pilot-parallel-pen&quot;&gt;Pilot Parallel Pens&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;One problem I’ve had is that finer pens (and water based ones) tend to dig up the paper. It looks as if you just can’t use more than 2 - 3 layers, but I’ve also ordered some tougher paper. This might be followed by some new ink, as only some are properly permanent - Rev Dan Catt mentions Noodler’s Bulletproof in this Instagram &lt;a href=&quot;https://www.instagram.com/p/CYj10z4tQ1a/&quot;&gt;post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Here’s some of the output. The first 2 are based on this Andy Wallace &lt;a href=&quot;https://twitter.com/Andy_Makes/status/1470549299020943360?s=20&quot;&gt;tweet&lt;/a&gt; and this Keith Peters &lt;a href=&quot;https://www.bit-101.com/blog/2017/10/flow-fields-part-i/&quot;&gt;blog post&lt;/a&gt; and plotted in technical pen on card and calligraphy paper respectively. The card has been badly dug up. The calligraphy paper did better, although the blue ink stopped flowing half way through the second part for some reason, and the lines are a bit wobbly:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/monthnotes_20220117/circles_plot.jpg&quot; alt=&quot;circles_plot.jpg&quot; /&gt;
-&lt;img src=&quot;https://jackiepease.github.io/assets/monthnotes_20220117/bit101-flowfields.jpg&quot; alt=&quot;bit101-flowfields.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When the Pilot pen arrived I didn’t have anything ready to plot, except a dxf grid for the plastic flowers. I wrote a bash script to convert it to gcode using vPype, Juicy GCode and the vpype-dxf extension:&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;x &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$@&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;do
-   &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$x&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; | &lt;span class=&quot;nb&quot;&gt;cut&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; 1 &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;.&apos;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;
-   &lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;
-   vpype dread &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;.dxf scaleto &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; 250mm 250mm linesort write &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
-           &lt;span class=&quot;nt&quot;&gt;--page-size&lt;/span&gt; a3 &lt;span class=&quot;nt&quot;&gt;--landscape&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--center&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-out&lt;/span&gt;.svg
-   vpype &lt;span class=&quot;nb&quot;&gt;read&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-out&lt;/span&gt;.svg ldelete 2 write &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-out2&lt;/span&gt;.svg
-   juicy-gcode &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-out2&lt;/span&gt;.svg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; flavor.txt &lt;span class=&quot;nt&quot;&gt;-o&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;.gcode
-&lt;span class=&quot;k&quot;&gt;done&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Juicy GCode needs a config file called flavor.txt, in the same folder. Example:&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gcode
-&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
-   begin &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;G17;G21;G28;G90;G1 F400;M3 S05;G4 P0.3&quot;&lt;/span&gt;
-   end &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;M3 S05;G4 P0.3;G1 X.000 Y.000&quot;&lt;/span&gt;
-   toolon &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;  &lt;span class=&quot;s2&quot;&gt;&quot;M3 S120;G4 P0.3&quot;&lt;/span&gt;
-   tooloff &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;M3 S05;G4 P0.3&quot;&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;The pen worked really well on cartridge paper with a lovely smooth red (there’s some Sharpie on there too - I need to use them up!):&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/monthnotes_20220117/pilot_pen_on_cartridge_paper.jpg&quot; alt=&quot;pilot_pen_on_cartridge_paper.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On calligraphy paper it was less smooth, but still a nice effect:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/monthnotes_20220117/pilot_pen_on_calligraphy_paper.jpg&quot; alt=&quot;pilot_pen_on_calligraphy_paper.jpg&quot; /&gt;
-~                                                                                                                      &lt;br /&gt;
-I’ve had to take a break from pen plotting to make progress on the Plastic Flowers, which were cluttering up Room 29 at DoES Liverpool. In order to fill the light fitting / vase, I need 40ish flowers so laser cutting stems and hand cutting and heat pressing milk carton petals has taken a while. This week I’ve been lucky to have help from Sanna King and Mike Gorman, with assembly and soldering, so progress has been a lot quicker than it would have been otherwise:&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Lots of thanks to &lt;a href=&quot;https://twitter.com/sanna_king?ref_src=twsrc%5Etfw&quot;&gt;@sanna_king&lt;/a&gt; (shown)and Mike G for helping me with my light up up plastic flowers this week. &lt;br /&gt;&amp;#39;Only&amp;#39; the wiring to go now. Hopefully it will be finished soon!&lt;a href=&quot;https://twitter.com/hashtag/weeknotes?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#weeknotes&lt;/a&gt; &lt;a href=&quot;https://t.co/bU70S1Pr8M&quot;&gt;pic.twitter.com/bU70S1Pr8M&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Pease (@jackie_pease) &lt;a href=&quot;https://twitter.com/jackie_pease/status/1482844377131241479?ref_src=twsrc%5Etfw&quot;&gt;January 16, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;The Peloton disk lights I’ve been working on recently have been deployed successfully on 3 occasions now, including this Peloton Liverpool trip to Kirby:&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Lovely &lt;a href=&quot;https://twitter.com/PelotonLiv?ref_src=twsrc%5Etfw&quot;&gt;@PelotonLiv&lt;/a&gt; Friday night &lt;a href=&quot;https://twitter.com/hashtag/joyride?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#joyride&lt;/a&gt; to Kirby to visit &lt;a href=&quot;https://twitter.com/cultureKnowsley?ref_src=twsrc%5Etfw&quot;&gt;@cultureKnowsley&lt;/a&gt; light installation &lt;a href=&quot;https://twitter.com/hashtag/aqualux?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#aqualux&lt;/a&gt; &lt;a href=&quot;https://t.co/DRcTuXQvaG&quot;&gt;pic.twitter.com/DRcTuXQvaG&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Pease (@jackie_pease) &lt;a href=&quot;https://twitter.com/jackie_pease/status/1482262962219978754?ref_src=twsrc%5Etfw&quot;&gt;January 15, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Unfortunately there’s been a slight issue, obvious in this photo of Arthur at that ride. The light disks were attached to wooden spacers and those were attached to the backs with carpet tape… This issue didn’t show up in the earlier sets until they’d been in use for a couple of weeks. So I think I’m going to be gradually going through all the sets if and when they fail, using a scalpel to prise apart the VHB tape round the edges, and replacing the wood and carpet tape with acrylic and VHB …&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/monthnotes_20220117/arthur.jpg&quot; alt=&quot;arthur.jpg&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 17 Jan 2022 18:00:00 +0000</pubDate>
-        <link>https://jackiepease.zone/weeknotes/2022/01/17/Weeknotes.html</link>
-        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2022/01/17/Weeknotes.html</guid>
-        
-        
-        <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Week Notes - Plotting with Refillable Pens</title>
-        <description>&lt;p&gt;Recently I’ve been spending a lot of my free time working on these &lt;a href=&quot;https://twitter.com/amcewen/status/1467598114559299588?s=20&quot;&gt;lights&lt;/a&gt;, along with other members of the  &lt;a href=&quot;https://doesliverpool.com/&quot;&gt;DoES Liverpool&lt;/a&gt; and &lt;a href=&quot;https://peloton.coop/&quot;&gt;Peloton Liverpool&lt;/a&gt; communities; now they’re in action I’ve had a chance to get back to a bit of pen plotting (I am going to do a blog post on the lights once I get a few more photos together though, and there’s definitely more work to do in the future to take full advantage of the MCQN Ltd “&lt;a href=&quot;https://github.com/mcqn/my-bikes-got-led&quot;&gt;My Bikes Got LED&lt;/a&gt;” boards that control them).&lt;/p&gt;
-
-&lt;p&gt;I don’t have any new code to plot at the moment, so thought I’d start off with &lt;a href=&quot;https://github.com/SonarSonic/DrawingBotV3&quot;&gt;DrawingBotV3&lt;/a&gt; again - I had some photos of this climbing plant that I’d taken back at the beginning of October but hadn’t got far with plotting at the time:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20211213/creeper_photo.jpg&quot; alt=&quot;creeper_photo.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Annoyingly, I had to spend the first day resolving hardware issues: trying to work out why I was getting errors from one of the limit switches (this somehow spontaneously resolved), and replacing the servo.&lt;/p&gt;
-
-&lt;p&gt;This was my first plot of the week, using Sharpies and an InkJoy fineliner:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20211213/sharpies.jpg&quot; alt=&quot;sharpies.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I was a bit disappointed with the outcome - there’s a blue diagonal line across the picture, the thickness of the Sharpie lines against the white background make it difficult to see the image, and the registration is really bad. It felt like I’d forgotten everything I’d learned so far. I’ve now fixed the registration problem - I’d set up the bar that keeps the cables out of the way so one end was interfering with the pen holder moving back to the origin.&lt;/p&gt;
-
-&lt;p&gt;Next I wanted to experiment with refillable ink pens, as I’ve been shocked by the number of disposable pens I’ve been getting through. I’d used Rotring technical pens before with Rotring ink but seen on Instagram that some people were using fountain pen ink, which is cheaper and comes in more colours. I set the feedrate to 400 to try to avoid breaking the Rotring nibs (something that’s happened before) and this was the output after around 7 hours, using Diamine fountain pen ink in “Ancient Copper” on smooth white card:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20211213/damage_to_paper.jpg&quot; alt=&quot;damage_to_paper.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Quite a pretty outcome, but this should have been the first colour out of 4, and the surface of the card was already badly shredded.&lt;/p&gt;
-
-&lt;p&gt;Next I tried some Yupo - which is polyester sheet, not paper, and is strong with a very smooth surface. This is the result with Diamine fountain pen ink in “Claret”. Hardly any ink is absorbed by the Yupo, leading to a very pale colour. At least there’s less chance of the ink running out.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20211213/fountain_pen_ink_yupo.jpg&quot; alt=&quot;fountain_pen_ink_yupo.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I had a Rotring pen already filled with Rotring-alike ink so I tried that. It came out a lot darker than fountain pen ink, but still not as dark as it would have on paper. Because the picture didn’t look finished, I plotted the Magenta layer with the Diamine Claret ink:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20211213/drawing_ink_yupo.jpg&quot; alt=&quot;drawing_ink_yupo.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Again quite a pretty effect, and this time I managed two layers (the second one took  11 hours), but the Yupo surface was still quite rough and damaged in places:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20211213/completed_yupo.jpg&quot; alt=&quot;completed_yupo.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20211213/damage_to_yupo.jpg&quot; alt=&quot;damage_to_yupo.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So what I’ve learned is that I’m not going to get the sort of super-saturated effects from Rotring pens that I can get from the faster-drying solvent-based ink in Sharpies, although they might be ok for more geometric patterns where there isn’t much overlap betweeen lines. I think my next plot will be something like that, and I’ve also got a couple of fountain pens that I’m going to experiment with. I’ve been given some disposable pipettes so I can also try cutting off the end of a pen cartridge, putting some pauses in the gcode, and adding different coloured inks as the plot progresses.&lt;/p&gt;
-
-&lt;p&gt;On Sunday, I went to &lt;a href=&quot;https://plastictactics.com/&quot;&gt;Plastic Tactics&lt;/a&gt; Plastic Playgroup, and made some more milk carton petals for a bigger version of these &lt;a href=&quot;https://www.instagram.com/p/CTK_ezwsrnH/&quot;&gt;light up plastic flowers&lt;/a&gt;, another project I’d like to make some progress on:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://jackiepease.github.io/assets/weeknotes_20211213/petals.jpg&quot; alt=&quot;petals.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Next to laser cut some more stems from scrap ply, and then add lights…
-~&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 12 Dec 2021 23:00:00 +0000</pubDate>
-        <link>https://jackiepease.zone/weeknotes/2021/12/12/WeekNotes.html</link>
-        <guid isPermaLink="true">https://jackiepease.zone/weeknotes/2021/12/12/WeekNotes.html</guid>
+        <link>http://localhost:4000/weeknotes/2022/01/30/Weeknotes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/weeknotes/2022/01/30/Weeknotes.html</guid>
         
         
         <category>weeknotes</category>
