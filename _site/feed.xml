@@ -5,8 +5,8 @@
     <description>Personal Website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Jun 2026 01:33:37 +0100</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2026 01:33:37 +0100</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 16:17:44 +0100</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 16:17:44 +0100</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
     
       <item>
@@ -31,12 +31,14 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/JackiePease/QuipuColumn/blob/main/3D_printing_and_laser_cutting_files/DHMakes/top_lace_plate.stl&quot;&gt;Top Lace Plate&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/JackiePease/QuipuColumn/blob/main/3D_printing_and_laser_cutting_files/DHMakes/column.stl&quot;&gt;Column&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gihub.com/JackiePease/QuipuColumn/blob/main/3D_printing_and_laser_cutting_files/DHMakes/column.stl&quot;&gt;Column&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/JackiePease/QuipuColumn/blob/main/3D_printing_and_laser_cutting_files/DHMakes/bottom_lace_plate.stl&quot;&gt;Bottom Lace Plate&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/JackiePease/QuipuColumn/blob/main/3D_printing_and_laser_cutting_files/DHMakes/beads.stl&quot;&gt;Bead&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;It has 6 sides, one for the City of Liverpool and one each for the 5 boroughs in the Liverpool City Regions. Each was represented by a colour: Halton - Light Grey, Knowsley - Gold, Liverpool - Purple, Sefton - Sky Blue, Wirral - Dark Green (I tried to use the nearest crochet cotton colour to the official colour of each entity).&lt;/p&gt;
+&lt;p&gt;It has 6 sides, one for the City of Liverpool and one each for the 5 boroughs in the Liverpool City Regions. Each was represented by a colour: Halton - Light Grey, Knowsley - Gold, Liverpool - Purple, Sefton - Sky Blue, Wirral - Dark Green (I tried to use the nearest crochet cotton colour to the official colour of each entity):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/dhmakes_post/09_area_yarn_colours.jpg&quot; alt=&quot;Area Yarn Colours&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The data I used was from the &lt;a href=&quot;https://mdls.org.uk/&quot;&gt;MLDS, or Minimum Digital Living Standard&lt;/a&gt;, “the minimum basket of digital goods, services, and skills that households need to live and participate in the digital world” which had been developed by the team running the Festival. I chose to use data for households with children, and this is the data I ended up showing (please excuse any transcription errors in the table and the quipus!):&lt;/p&gt;
 
@@ -105,7 +107,11 @@
 
 &lt;p&gt;The category “Not having adequate equipment” is the total for all equipment types; they aren’t all included here. “Failing MDLS” is the total number of households not meeting the MDLS; you can see that the values are much higher than those for equipment only, so obviously lack of skills was more important - it was more difficult to find this data though. It also looks as though some of the data here has been averaged. In general the numbers are pretty similar for each of the entities and, if I was doing this again, I might choose different areas of the country, rather than one region, with the hope of showing more differances.&lt;/p&gt;
 
-&lt;p&gt;I assigned a colour to each of these categories too (Broadband - Off-White, Large screen devices - Light Green, Smart TV - Red, Total Equipment - Black, Total MDLS - Gold), then made a cord for each combination using two strands of crochet cotton for the area and one for the category e.g. 2 strands of Dark Green and one of Red to represent number of households with children in the Wirral who don’t have adequate Smart TV access. Here’s the type of cotton I used:&lt;/p&gt;
+&lt;p&gt;I assigned a colour to each of these categories too (Broadband - Off-White, Large screen devices - Light Green, Smart TV - Red, Total Equipment - Black, Total MDLS - Gold):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/dhmakes_post/10_fail_categories.jpg&quot; alt=&quot;Fail Categories&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I then made a cord for each combination using two strands of crochet cotton for the area and one for the category e.g. 2 strands of Dark Green and one of Red to represent number of households with children in the Wirral who don’t have adequate Smart TV access. Here’s the type of cotton I used:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/dhmakes_post/04_Crochet_Cotton.jpg&quot; alt=&quot;Crochet Cotton&quot; /&gt;&lt;/p&gt;
 
@@ -121,7 +127,7 @@
 
 &lt;h3 id=&quot;what-i-acheived&quot;&gt;What I acheived&lt;/h3&gt;
 
-&lt;p&gt;I only managed to make one complete model - who’d have known that a small model, with exactly the same number of twisted cords and knots as a larger version, would take around the same time to build! Maybe it just needs practice - Incas and modern day hair braiders could probably do it quicker.&lt;/p&gt;
+&lt;p&gt;I only managed to make one complete model - I don’t know why I was surprised that a small model, with exactly the same number of twisted cords and knots as a larger version, would take around the same time to build! Maybe it just needs practice - Incas and modern day hair braiders could probably do it quicker.&lt;/p&gt;
 
 &lt;p&gt;However, I did print several sets of the 3D printed parts, and Mike G, another member of the DoES Liverpool community, helped by printing the rest on his home 3D printer, so I was able to post the required number to Sara in Virginia, and hopefully they’ll get sent out with the other makes soon.&lt;/p&gt;
 

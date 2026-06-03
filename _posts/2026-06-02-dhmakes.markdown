@@ -48,7 +48,7 @@ The category "Not having adequate equipment" is the total for all equipment type
 
 I assigned a colour to each of these categories too (Broadband - Off-White, Large screen devices - Light Green, Smart TV - Red, Total Equipment - Black, Total MDLS - Gold):
 
-![Fail Categories](/assets/dhmakes_post/10_fail_categories)
+![Fail Categories](/assets/dhmakes_post/10_fail_categories.jpg)
 
 I then made a cord for each combination using two strands of crochet cotton for the area and one for the category e.g. 2 strands of Dark Green and one of Red to represent number of households with children in the Wirral who don't have adequate Smart TV access. Here's the type of cotton I used:
 
