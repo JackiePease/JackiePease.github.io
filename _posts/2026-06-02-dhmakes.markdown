@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes - Mini Quipu Column for the #DHMakes Mail Art Colloaboration"
+title:  "Notes - Mini Quipu Column for the #DHMakes Mail Art Collaboration"
 date:   2026-06-02 18:00:00 +0100
 categories: weeknotes
 ---
